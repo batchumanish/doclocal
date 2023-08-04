@@ -144,7 +144,7 @@ const config = {
         [
           'docusaurus-plugin-dotenv',
           {
-              path: "./.env", 
+              path:'./.env',
               systemvars: true, 
           }
         ]
