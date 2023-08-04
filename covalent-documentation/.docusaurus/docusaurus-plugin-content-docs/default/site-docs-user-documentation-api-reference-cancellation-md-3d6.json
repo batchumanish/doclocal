@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/cancellation",
+  "id": "user-documentation/api-reference/cancellation",
+  "title": "Cancelation",
+  "description": "Cancel a dispatch using the dispatchid or multiple tasks within a workflow using the taskids",
+  "source": "@site/docs/user-documentation/api-reference/cancellation.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/cancellation",
+  "permalink": "/docs/user-documentation/api-reference/cancellation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cancelation",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

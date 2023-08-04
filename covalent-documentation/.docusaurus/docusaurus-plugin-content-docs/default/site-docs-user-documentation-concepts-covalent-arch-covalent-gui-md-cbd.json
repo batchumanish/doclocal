@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/concepts/covalent-arch/covalent-gui",
+  "id": "user-documentation/concepts/covalent-arch/covalent-gui",
+  "title": "The Covalent GUI",
+  "description": "The Covalent UI is a graphical tool that combines with the Covalent database to store, monitor, visualize, and compare dispatched workflows. Aside from the ability to delete completed dispatched workflows, the UI does not affect the workflows in any way. It is described here as a separate component of the Covalent system because its power to store and visualize the dispatched workflows makes it essential to using Covalent.",
+  "source": "@site/docs/user-documentation/concepts/covalent-arch/covalent-gui.md",
+  "sourceDirName": "user-documentation/concepts/covalent-arch",
+  "slug": "/user-documentation/concepts/covalent-arch/covalent-gui",
+  "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-gui",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Covalent GUI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent Services",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-services"
+  },
+  "next": {
+    "title": "Distributed Quantum Circuits with Quantum Electrons",
+    "permalink": "/docs/features/quantumTasks"
+  }
+}

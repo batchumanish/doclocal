@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/autoencoders",
+  "id": "user-documentation/tutorials/autoencoders",
+  "title": "Linear and convolutional autoencoders",
+  "description": "An autoencoder is a neural network that can be used to encode and decode data. The general structure of an autoencoder is shown in the figure below. It consists of two parts: an encoder and a decoder. The encoder compresses the input data into a lower dimensional representation (\"code\" in the schematic below, which is often referred to as the latent space representation) by extracting the most salient features of the data, while the decoder reconstructs the input data from the compressed representation. Therefore, autoencoder is often used for dimensionality reduction. In this tutorial, our goal is to compare the performance of two types of autoencoders, a linear autoencoder and a convolutional autoencoder, on reconstructing the Fashion-MNIST images. With the help of Covalent, we will see how to break a complex workflow into smaller and more manageable tasks, which allows users to track the task dependencies and execution results of individual steps. Another advantage of Covalent is its ability to auto-parallelize the execution of subtasks.",
+  "source": "@site/docs/user-documentation/tutorials/autoencoders.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/autoencoders",
+  "permalink": "/docs/user-documentation/tutorials/autoencoders",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Linear and convolutional autoencoders"
+  },
+  "sidebar": "tutorialSidebar"
+}

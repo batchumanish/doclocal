@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/file-transfers-to-from-azure_blob",
+  "id": "user-documentation/how-to/file-transfers-to-from-azure_blob",
+  "title": "Transferring Files To and From Azure Blob Storage",
+  "description": "Retrieve files from an Azure Blob Storage container before executing a task, then upload files to a storage container after the task's execution.",
+  "source": "@site/docs/user-documentation/how-to/file-transfers-to-from-azure_blob.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/file-transfers-to-from-azure_blob",
+  "permalink": "/docs/user-documentation/how-to/file-transfers-to-from-azure_blob",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Transferring Files To and From Azure Blob Storage"
+  },
+  "sidebar": "tutorialSidebar"
+}

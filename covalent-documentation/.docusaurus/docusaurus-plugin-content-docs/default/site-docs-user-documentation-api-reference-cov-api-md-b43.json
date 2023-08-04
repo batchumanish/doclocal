@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/api-reference/cov-api",
+  "id": "user-documentation/api-reference/cov-api",
+  "title": "Covalent API",
+  "description": "This is the component reference for the Covalent Python API.",
+  "source": "@site/docs/user-documentation/api-reference/cov-api.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/cov-api",
+  "permalink": "/docs/user-documentation/api-reference/cov-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent API",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing Covalent with Systemd",
+    "permalink": "/docs/user-documentation/sd-systemd"
+  },
+  "next": {
+    "title": "Workflow Components",
+    "permalink": "/docs/user-documentation/api-reference/workflow-components"
+  }
+}

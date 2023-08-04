@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/tutorials/hybrid_neural_network",
+  "id": "user-documentation/tutorials/hybrid_neural_network",
+  "title": "Training a Quantum-Classical Neural Network with Qiskit Runtime and AWS Batch",
+  "description": "The script below trains a hybrid neural network model that classifies images of dogs and cats.",
+  "source": "@site/docs/user-documentation/tutorials/hybrid_neural_network.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/hybrid_neural_network",
+  "permalink": "/docs/user-documentation/tutorials/hybrid_neural_network",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

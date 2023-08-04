@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-triggersbase",
+  "id": "user-documentation/api-reference/scode-triggersbase",
+  "title": "Source code for covalent.triggers.base",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-triggersbase.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-triggersbase",
+  "permalink": "/docs/user-documentation/api-reference/scode-triggersbase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent.triggers.base",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

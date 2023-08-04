@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/electron",
+  "id": "user-documentation/api-reference/electron",
+  "title": "Electron",
+  "description": "@covalent.electron(\\func=None, \\*, backend=None, executor=None, files=[], depsbash=None, depspip=None, callbefore=[], call_after=[])",
+  "source": "@site/docs/user-documentation/api-reference/electron.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/electron",
+  "permalink": "/docs/user-documentation/api-reference/electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Electron",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

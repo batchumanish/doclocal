@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/localqubit",
+  "id": "user-documentation/api-reference/executors/localqubit",
+  "title": "Local Braket Qubit Executor",
+  "description": "This quantum executor accesses the local Braket quantum circuit simulator (\"braket.local.qubit\").",
+  "source": "@site/docs/user-documentation/api-reference/executors/localqubit.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/localqubit",
+  "permalink": "/docs/user-documentation/api-reference/executors/localqubit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Local Braket Qubit Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

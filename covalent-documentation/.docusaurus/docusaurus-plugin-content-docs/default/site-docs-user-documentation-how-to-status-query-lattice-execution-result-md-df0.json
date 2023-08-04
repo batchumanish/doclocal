@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-lattice-execution-result",
+  "id": "user-documentation/how-to/status/query-lattice-execution-result",
+  "title": "Querying the Result of a Workflow (Lattice)",
+  "description": "Use the dispatch ID to locate and view the result from a previously completed workflow. Print individual attributes of the result.",
+  "source": "@site/docs/user-documentation/how-to/status/query-lattice-execution-result.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-lattice-execution-result",
+  "permalink": "/docs/user-documentation/how-to/status/query-lattice-execution-result",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Querying the Result of a Workflow (Lattice)"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/sd-docker",
+  "id": "user-documentation/sd-docker",
+  "title": "Deploying with Docker",
+  "description": "To run Covalent as a Docker container using public images, do the following.",
+  "source": "@site/docs/user-documentation/sd-docker.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/sd-docker",
+  "permalink": "/docs/user-documentation/sd-docker",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploying with Docker",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploying on AWS",
+    "permalink": "/docs/user-documentation/sd-deploying"
+  },
+  "next": {
+    "title": "Installing Covalent with Systemd",
+    "permalink": "/docs/user-documentation/sd-systemd"
+  }
+}

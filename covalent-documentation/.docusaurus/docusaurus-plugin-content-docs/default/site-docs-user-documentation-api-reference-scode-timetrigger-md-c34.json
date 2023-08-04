@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-timetrigger",
+  "id": "user-documentation/api-reference/scode-timetrigger",
+  "title": "Source code for covalent.triggers.time_trigger",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-timetrigger.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-timetrigger",
+  "permalink": "/docs/user-documentation/api-reference/scode-timetrigger",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent.triggers.time_trigger",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

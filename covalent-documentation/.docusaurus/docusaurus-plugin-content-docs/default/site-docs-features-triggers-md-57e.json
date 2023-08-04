@@ -1,0 +1,25 @@
+{
+  "unversionedId": "features/triggers",
+  "id": "features/triggers",
+  "title": "Automate Repetitive Tasks with Triggers",
+  "description": "Triggers are a powerful feature in Covalent that allow you to automate repetitive tasks and streamline your workflow. With these, you can define a pre-defined set of steps that will run automatically every time a specific event occurs.",
+  "source": "@site/docs/features/triggers.md",
+  "sourceDirName": "features",
+  "slug": "/features/triggers",
+  "permalink": "/docs/features/triggers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Automate Repetitive Tasks with Triggers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distributed Quantum Circuits with Quantum Electrons",
+    "permalink": "/docs/features/quantumTasks"
+  },
+  "next": {
+    "title": "Cancel with Confidence: Efficiently Manage Workflows in Covalent",
+    "permalink": "/docs/features/cancellation"
+  }
+}

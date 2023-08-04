@@ -1,0 +1,27 @@
+{
+  "unversionedId": "user-documentation/concepts/covalent-basics",
+  "id": "user-documentation/concepts/covalent-basics",
+  "title": "Covalent Basics",
+  "description": "This section briefly introduces the most important Python classes and functions of the Covalent SDK. These elements are key to how Covalent works.",
+  "source": "@site/docs/user-documentation/concepts/covalent-basics.md",
+  "sourceDirName": "user-documentation/concepts",
+  "slug": "/user-documentation/concepts/covalent-basics",
+  "permalink": "/docs/user-documentation/concepts/covalent-basics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent Basics",
+    "sidebar_label": "Covalent Basics",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/docs/user-documentation/concepts/concepts-index"
+  },
+  "next": {
+    "title": "Covalent Architecture",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "get-started/first-experiment",
+  "id": "get-started/first-experiment",
+  "title": "First Experiment",
+  "description": "This page describes how to get started with Covalent. Follow the procedures on this page to:",
+  "source": "@site/docs/get-started/first-experiment.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/first-experiment",
+  "permalink": "/docs/get-started/first-experiment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/get-started/install"
+  },
+  "next": {
+    "title": "Concepts",
+    "permalink": "/docs/user-documentation/concepts/concepts-index"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/dark-cluster",
+  "id": "user-documentation/user-interface/dark-cluster",
+  "title": "Dask Cluster",
+  "description": "Use the Dask Cluster Settings page to view preferences for the Dask cluster that backs the Covalent default executor. The Dask Cluster settings are not editable in the Covalent GUI, but can be configured as described in the Dask documentation. In most cases there is no need to adjust the Dask configuration used with Covalent",
+  "source": "@site/docs/user-documentation/user-interface/dark-cluster.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/dark-cluster",
+  "permalink": "/docs/user-documentation/user-interface/dark-cluster",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dask Cluster",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/ui",
+  "id": "user-documentation/user-interface/ui",
+  "title": "User Interface",
+  "description": "Use the User Interface Settings page to view preferences for the Covalent GUI.",
+  "source": "@site/docs/user-documentation/user-interface/ui.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/ui",
+  "permalink": "/docs/user-documentation/user-interface/ui",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User Interface",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

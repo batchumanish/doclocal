@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/workflow-data",
+  "id": "user-documentation/user-interface/workflow-data",
+  "title": "Workflow Data",
+  "description": "Use the Workflow Data Settings page to view preferences for the Covalent workflow database.",
+  "source": "@site/docs/user-documentation/user-interface/workflow-data.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/workflow-data",
+  "permalink": "/docs/user-documentation/user-interface/workflow-data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Workflow Data",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

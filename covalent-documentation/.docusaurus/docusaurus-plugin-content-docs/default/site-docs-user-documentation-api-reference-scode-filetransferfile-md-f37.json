@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-filetransferfile",
+  "id": "user-documentation/api-reference/scode-filetransferfile",
+  "title": "Source code for covalent._file_transfer.file_transfer",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-filetransferfile.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-filetransferfile",
+  "permalink": "/docs/user-documentation/api-reference/scode-filetransferfile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._file_transfer.file_transfer",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

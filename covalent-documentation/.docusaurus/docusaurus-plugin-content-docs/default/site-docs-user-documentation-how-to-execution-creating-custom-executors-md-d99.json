@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/creating-custom-executors",
+  "id": "user-documentation/how-to/execution/creating-custom-executors",
+  "title": "Creating a Custom Executor",
+  "description": "Executors define how abackend resource handles computations. They specify everything about the resource: the hardware and configuration, the computation strategy, logic, and even goals.",
+  "source": "@site/docs/user-documentation/how-to/execution/creating-custom-executors.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/creating-custom-executors",
+  "permalink": "/docs/user-documentation/how-to/execution/creating-custom-executors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Creating a Custom Executor"
+  },
+  "sidebar": "tutorialSidebar"
+}

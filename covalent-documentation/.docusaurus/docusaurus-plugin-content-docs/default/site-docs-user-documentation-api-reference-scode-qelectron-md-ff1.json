@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-qelectron",
+  "id": "user-documentation/api-reference/scode-qelectron",
+  "title": "Source code for QElectron",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-qelectron.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-qelectron",
+  "permalink": "/docs/user-documentation/api-reference/scode-qelectron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for QElectron",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/consuming-multiple-return-values",
+  "id": "user-documentation/covalent-patterns/consuming-multiple-return-values",
+  "title": "Consuming Multiple Return Values from an Electron",
+  "description": "In Python, it is possible to return multiple values from a function. The technique explained here prevents unnecessary usage of compute resources when you consume the results of such a function in a Covalent workflow.",
+  "source": "@site/docs/user-documentation/covalent-patterns/consuming-multiple-return-values.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/consuming-multiple-return-values",
+  "permalink": "/docs/user-documentation/covalent-patterns/consuming-multiple-return-values",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Consuming Multiple Return Values from an Electron",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-simulator",
+  "id": "user-documentation/api-reference/scode-simulator",
+  "title": "Source code for Simulator Executor",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-simulator.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-simulator",
+  "permalink": "/docs/user-documentation/api-reference/scode-simulator",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for Simulator Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

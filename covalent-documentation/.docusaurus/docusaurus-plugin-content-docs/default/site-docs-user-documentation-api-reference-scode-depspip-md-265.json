@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-depspip",
+  "id": "user-documentation/api-reference/scode-depspip",
+  "title": "Source code for covalent._workflow.depspip",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-depspip.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-depspip",
+  "permalink": "/docs/user-documentation/api-reference/scode-depspip",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._workflow.depspip",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/awsecs",
+  "id": "user-documentation/api-reference/executors/awsecs",
+  "title": "AWS ECS Executor",
+  "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Elastic Container Service (ECS). This executor plugin is well suited for low to medium compute intensive electrons with modest memory requirements. Since AWS ECS offers very quick spin up times, this executor is a good fit for workflows with a large number of independent tasks that can be dispatched simultaneously.",
+  "source": "@site/docs/user-documentation/api-reference/executors/awsecs.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/awsecs",
+  "permalink": "/docs/user-documentation/api-reference/executors/awsecs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS ECS Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

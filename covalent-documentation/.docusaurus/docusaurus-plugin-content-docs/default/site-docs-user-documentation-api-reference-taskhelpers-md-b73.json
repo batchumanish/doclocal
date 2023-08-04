@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/api-reference/taskhelpers",
+  "id": "user-documentation/api-reference/taskhelpers",
+  "title": "Task Helpers",
+  "description": "Dependencies",
+  "source": "@site/docs/user-documentation/api-reference/taskhelpers.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/taskhelpers",
+  "permalink": "/docs/user-documentation/api-reference/taskhelpers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workflow Components",
+    "permalink": "/docs/user-documentation/api-reference/workflow-components"
+  },
+  "next": {
+    "title": "Executors",
+    "permalink": "/docs/user-documentation/api-reference/executors-api"
+  }
+}

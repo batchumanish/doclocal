@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/visualize-lattice",
+  "id": "user-documentation/how-to/visualize-lattice",
+  "title": "Visualizing a Lattice",
+  "description": "You can view the transport graph of a lattice in the Covalent GUI after you send the lattice to the Covalent dispatcher. Sometimes though you'll want to view the lattice structure before you run it or before it's even completed. The Covalent Lattice class contains a function that enables you to view a lattice at any time without dispatching it.",
+  "source": "@site/docs/user-documentation/how-to/visualize-lattice.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/visualize-lattice",
+  "permalink": "/docs/user-documentation/how-to/visualize-lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Visualizing a Lattice"
+  },
+  "sidebar": "tutorialSidebar"
+}

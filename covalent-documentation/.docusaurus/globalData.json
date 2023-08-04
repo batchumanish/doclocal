@@ -1,0 +1,1104 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": "G-TRT4EEMTZS",
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "b2c",
+              "path": "/docs/b2c"
+            },
+            {
+              "id": "cloud/cloud_api",
+              "path": "/docs/cloud/cloud_api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/cloud_how_to",
+              "path": "/docs/cloud/cloud_how_to",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/cloud_quickstart",
+              "path": "/docs/cloud/cloud_quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/covalent_cloud_main",
+              "path": "/docs/cloud/covalent_cloud_main",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deployments/covalent_cloud",
+              "path": "/docs/Deployments/covalent_cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/cancellation",
+              "path": "/docs/features/cancellation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/executor-plugins/aws-bracket",
+              "path": "/docs/features/executor-plugins/aws-bracket"
+            },
+            {
+              "id": "features/executor-plugins/aws-plugins",
+              "path": "/docs/features/executor-plugins/aws-plugins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/executor-plugins/awsbatch",
+              "path": "/docs/features/executor-plugins/awsbatch"
+            },
+            {
+              "id": "features/executor-plugins/awsec2",
+              "path": "/docs/features/executor-plugins/awsec2"
+            },
+            {
+              "id": "features/executor-plugins/awsecs",
+              "path": "/docs/features/executor-plugins/awsecs"
+            },
+            {
+              "id": "features/executor-plugins/awslambda",
+              "path": "/docs/features/executor-plugins/awslambda"
+            },
+            {
+              "id": "features/executor-plugins/dask",
+              "path": "/docs/features/executor-plugins/dask"
+            },
+            {
+              "id": "features/executor-plugins/exe",
+              "path": "/docs/features/executor-plugins/exe"
+            },
+            {
+              "id": "features/executor-plugins/slurm",
+              "path": "/docs/features/executor-plugins/slurm"
+            },
+            {
+              "id": "features/executor-plugins/source-code-dask",
+              "path": "/docs/features/executor-plugins/source-code-dask"
+            },
+            {
+              "id": "features/executor-plugins/ssh",
+              "path": "/docs/features/executor-plugins/ssh"
+            },
+            {
+              "id": "features/executors",
+              "path": "/docs/features/executors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/quantumTasks",
+              "path": "/docs/features/quantumTasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/redispatch",
+              "path": "/docs/features/redispatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/triggers",
+              "path": "/docs/features/triggers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "for-contributors/building-covalent",
+              "path": "/docs/for-contributors/building-covalent"
+            },
+            {
+              "id": "get-started/first-experiment",
+              "path": "/docs/get-started/first-experiment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get-started/install",
+              "path": "/docs/get-started/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get-started/quick-start",
+              "path": "/docs/get-started/quick-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get-started/version-migration",
+              "path": "/docs/get-started/version-migration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "login",
+              "path": "/docs/login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Overview",
+              "path": "/docs/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "plugin",
+              "path": "/docs/plugin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/api-ref",
+              "path": "/docs/user-documentation/api-reference/api-ref",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/cancellation",
+              "path": "/docs/user-documentation/api-reference/cancellation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/cov-api",
+              "path": "/docs/user-documentation/api-reference/cov-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/cov-apiindex",
+              "path": "/docs/user-documentation/api-reference/cov-apiindex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/covalent",
+              "path": "/docs/user-documentation/api-reference/covalent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/covalent-clitool",
+              "path": "/docs/user-documentation/api-reference/covalent-clitool",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/covalent-server",
+              "path": "/docs/user-documentation/api-reference/covalent-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/dependencies",
+              "path": "/docs/user-documentation/api-reference/dependencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/dispatch-infrastructure",
+              "path": "/docs/user-documentation/api-reference/dispatch-infrastructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/dispatcher",
+              "path": "/docs/user-documentation/api-reference/dispatcher",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/electron",
+              "path": "/docs/user-documentation/api-reference/electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors-api",
+              "path": "/docs/user-documentation/api-reference/executors-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/asynchronous-base-executor-class",
+              "path": "/docs/user-documentation/api-reference/executors/asynchronous-base-executor-class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/aws-bracket",
+              "path": "/docs/user-documentation/api-reference/executors/aws-bracket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/awsbatch",
+              "path": "/docs/user-documentation/api-reference/executors/awsbatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/awsec2",
+              "path": "/docs/user-documentation/api-reference/executors/awsec2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/awsecs",
+              "path": "/docs/user-documentation/api-reference/executors/awsecs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/awslambda",
+              "path": "/docs/user-documentation/api-reference/executors/awslambda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/azurebatch",
+              "path": "/docs/user-documentation/api-reference/executors/azurebatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/braketqubit",
+              "path": "/docs/user-documentation/api-reference/executors/braketqubit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/customizing-the-config",
+              "path": "/docs/user-documentation/api-reference/executors/customizing-the-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/dask",
+              "path": "/docs/user-documentation/api-reference/executors/dask",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/exe",
+              "path": "/docs/user-documentation/api-reference/executors/exe"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/ibmq",
+              "path": "/docs/user-documentation/api-reference/executors/ibmq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/localqubit",
+              "path": "/docs/user-documentation/api-reference/executors/localqubit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/qiskit",
+              "path": "/docs/user-documentation/api-reference/executors/qiskit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/scode",
+              "path": "/docs/user-documentation/api-reference/executors/scode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/scode-awsplugin",
+              "path": "/docs/user-documentation/api-reference/executors/scode-awsplugin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/scode-executor-base",
+              "path": "/docs/user-documentation/api-reference/executors/scode-executor-base",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/scode-qiskit",
+              "path": "/docs/user-documentation/api-reference/executors/scode-qiskit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/simulator",
+              "path": "/docs/user-documentation/api-reference/executors/simulator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/slurm",
+              "path": "/docs/user-documentation/api-reference/executors/slurm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/ssh",
+              "path": "/docs/user-documentation/api-reference/executors/ssh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/executors/synchronous-base-executor-class",
+              "path": "/docs/user-documentation/api-reference/executors/synchronous-base-executor-class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/lattice",
+              "path": "/docs/user-documentation/api-reference/lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/lepton",
+              "path": "/docs/user-documentation/api-reference/lepton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/results",
+              "path": "/docs/user-documentation/api-reference/results",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-deps",
+              "path": "/docs/user-documentation/api-reference/scode-deps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-depsbash",
+              "path": "/docs/user-documentation/api-reference/scode-depsbash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-depscall",
+              "path": "/docs/user-documentation/api-reference/scode-depscall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-depspip",
+              "path": "/docs/user-documentation/api-reference/scode-depspip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-dirtrigger",
+              "path": "/docs/user-documentation/api-reference/scode-dirtrigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-electron",
+              "path": "/docs/user-documentation/api-reference/scode-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-filefolder",
+              "path": "/docs/user-documentation/api-reference/scode-filefolder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-filetransfer",
+              "path": "/docs/user-documentation/api-reference/scode-filetransfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-filetransferfile",
+              "path": "/docs/user-documentation/api-reference/scode-filetransferfile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-lattice",
+              "path": "/docs/user-documentation/api-reference/scode-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-lepton",
+              "path": "/docs/user-documentation/api-reference/scode-lepton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-qcluster",
+              "path": "/docs/user-documentation/api-reference/scode-qcluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-qelectron",
+              "path": "/docs/user-documentation/api-reference/scode-qelectron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-result",
+              "path": "/docs/user-documentation/api-reference/scode-result",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-rsyncstrategy",
+              "path": "/docs/user-documentation/api-reference/scode-rsyncstrategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-simulator",
+              "path": "/docs/user-documentation/api-reference/scode-simulator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-timetrigger",
+              "path": "/docs/user-documentation/api-reference/scode-timetrigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-transferstrategiesbase",
+              "path": "/docs/user-documentation/api-reference/scode-transferstrategiesbase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-transport",
+              "path": "/docs/user-documentation/api-reference/scode-transport",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/scode-triggersbase",
+              "path": "/docs/user-documentation/api-reference/scode-triggersbase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/settingdef",
+              "path": "/docs/user-documentation/api-reference/settingdef"
+            },
+            {
+              "id": "user-documentation/api-reference/taskhelpers",
+              "path": "/docs/user-documentation/api-reference/taskhelpers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/api-reference/triggers",
+              "path": "/docs/user-documentation/api-reference/triggers"
+            },
+            {
+              "id": "user-documentation/api-reference/workflow-components",
+              "path": "/docs/user-documentation/api-reference/workflow-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/compatibility",
+              "path": "/docs/user-documentation/compatibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/concepts-index",
+              "path": "/docs/user-documentation/concepts/concepts-index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/covalent-arch/covalent-architecture",
+              "path": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/covalent-arch/covalent-gui",
+              "path": "/docs/user-documentation/concepts/covalent-arch/covalent-gui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/covalent-arch/covalent-sdk",
+              "path": "/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/covalent-arch/covalent-services",
+              "path": "/docs/user-documentation/concepts/covalent-arch/covalent-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/concepts/covalent-basics",
+              "path": "/docs/user-documentation/concepts/covalent-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/best-practices",
+              "path": "/docs/user-documentation/covalent-patterns/best-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/consuming-multiple-return-values",
+              "path": "/docs/user-documentation/covalent-patterns/consuming-multiple-return-values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/create-and-assign",
+              "path": "/docs/user-documentation/covalent-patterns/create-and-assign",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/dynamic-workflows",
+              "path": "/docs/user-documentation/covalent-patterns/dynamic-workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/large-object-transfer",
+              "path": "/docs/user-documentation/covalent-patterns/large-object-transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/patterns",
+              "path": "/docs/user-documentation/covalent-patterns/patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/post_process",
+              "path": "/docs/user-documentation/covalent-patterns/post_process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/result-dependent",
+              "path": "/docs/user-documentation/covalent-patterns/result-dependent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/result-dependent-loops",
+              "path": "/docs/user-documentation/covalent-patterns/result-dependent-loops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/covalent-patterns/return-electron",
+              "path": "/docs/user-documentation/covalent-patterns/return-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/credentials/aws",
+              "path": "/docs/user-documentation/credentials/aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/credentials/azure",
+              "path": "/docs/user-documentation/credentials/azure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/credentials/index",
+              "path": "/docs/user-documentation/credentials/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/gcp",
+              "path": "/docs/user-documentation/gcp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/glossary",
+              "path": "/docs/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/add-bash-dependencies-to-electron",
+              "path": "/docs/user-documentation/how-to/add-bash-dependencies-to-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/add-callable-dependencies-to-electron",
+              "path": "/docs/user-documentation/how-to/add-callable-dependencies-to-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/add-constraints-to-lattice",
+              "path": "/docs/user-documentation/how-to/add-constraints-to-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/add-electron-to-lattice",
+              "path": "/docs/user-documentation/how-to/add-electron-to-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/add-pip-dependencies-to-electron",
+              "path": "/docs/user-documentation/how-to/add-pip-dependencies-to-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/construct-bash-task",
+              "path": "/docs/user-documentation/how-to/construct-bash-task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/construct-c-task",
+              "path": "/docs/user-documentation/how-to/construct-c-task",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/construct-electron",
+              "path": "/docs/user-documentation/how-to/construct-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/construct-lattice",
+              "path": "/docs/user-documentation/how-to/construct-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/construct-lepton",
+              "path": "/docs/user-documentation/how-to/construct-lepton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/customization",
+              "path": "/docs/user-documentation/how-to/customization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/dir-trigger",
+              "path": "/docs/user-documentation/how-to/dir-trigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/cancel-dispatch",
+              "path": "/docs/user-documentation/how-to/execution/cancel-dispatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/choosing-conda-environments",
+              "path": "/docs/user-documentation/how-to/execution/choosing-conda-environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/choosing-executors",
+              "path": "/docs/user-documentation/how-to/execution/choosing-executors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/covalent-cli",
+              "path": "/docs/user-documentation/how-to/execution/covalent-cli",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/creating-custom-executors",
+              "path": "/docs/user-documentation/how-to/execution/creating-custom-executors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/execute-individual-electron",
+              "path": "/docs/user-documentation/how-to/execution/execute-individual-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/execute-lattice",
+              "path": "/docs/user-documentation/how-to/execution/execute-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/execute-lattice-multiple-times",
+              "path": "/docs/user-documentation/how-to/execution/execute-lattice-multiple-times",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/execute-multiple-lattices",
+              "path": "/docs/user-documentation/how-to/execution/execute-multiple-lattices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/execute-sublattice",
+              "path": "/docs/user-documentation/how-to/execution/execute-sublattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/execution/redispatch",
+              "path": "/docs/user-documentation/how-to/execution/redispatch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/file-transfers-for-workflows-local",
+              "path": "/docs/user-documentation/how-to/file-transfers-for-workflows-local",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/file-transfers-to-from-azure_blob",
+              "path": "/docs/user-documentation/how-to/file-transfers-to-from-azure_blob",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/file-transfers-to-from-remote",
+              "path": "/docs/user-documentation/how-to/file-transfers-to-from-remote",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/file-transfers-to-from-s3",
+              "path": "/docs/user-documentation/how-to/file-transfers-to-from-s3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/how-to-define",
+              "path": "/docs/user-documentation/how-to/how-to-define",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/how-to-guide",
+              "path": "/docs/user-documentation/how-to/how-to-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/looping",
+              "path": "/docs/user-documentation/how-to/looping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/run-bash-command",
+              "path": "/docs/user-documentation/how-to/run-bash-command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-electron-execution-result",
+              "path": "/docs/user-documentation/how-to/status/query-electron-execution-result",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-electron-execution-status",
+              "path": "/docs/user-documentation/how-to/status/query-electron-execution-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-lattice-execution-result",
+              "path": "/docs/user-documentation/how-to/status/query-lattice-execution-result",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-lattice-execution-status",
+              "path": "/docs/user-documentation/how-to/status/query-lattice-execution-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-lattice-execution-time",
+              "path": "/docs/user-documentation/how-to/status/query-lattice-execution-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/status/query-multiple-lattice-execution-results",
+              "path": "/docs/user-documentation/how-to/status/query-multiple-lattice-execution-results",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/test-electron",
+              "path": "/docs/user-documentation/how-to/test-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/time-trigger",
+              "path": "/docs/user-documentation/how-to/time-trigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/use-iterable",
+              "path": "/docs/user-documentation/how-to/use-iterable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/visualize-lattice",
+              "path": "/docs/user-documentation/how-to/visualize-lattice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/how-to/wait-for-another-electron",
+              "path": "/docs/user-documentation/how-to/wait-for-another-electron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/Migration_error",
+              "path": "/docs/user-documentation/Migration_error",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/sd-deploying",
+              "path": "/docs/user-documentation/sd-deploying",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/sd-docker",
+              "path": "/docs/user-documentation/sd-docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/sd-systemd",
+              "path": "/docs/user-documentation/sd-systemd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/server-deployment",
+              "path": "/docs/user-documentation/server-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/troubleshooting",
+              "path": "/docs/user-documentation/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/appendix",
+              "path": "/docs/user-documentation/tutorials/appendix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/autoencoders",
+              "path": "/docs/user-documentation/tutorials/autoencoders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/dnn_comparison",
+              "path": "/docs/user-documentation/tutorials/dnn_comparison",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/ensemble",
+              "path": "/docs/user-documentation/tutorials/ensemble",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/hybrid",
+              "path": "/docs/user-documentation/tutorials/hybrid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/hybrid_neural_network",
+              "path": "/docs/user-documentation/tutorials/hybrid_neural_network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/iris",
+              "path": "/docs/user-documentation/tutorials/iris",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/mnist",
+              "path": "/docs/user-documentation/tutorials/mnist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/nitrogencopper",
+              "path": "/docs/user-documentation/tutorials/nitrogencopper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/parityclassify",
+              "path": "/docs/user-documentation/tutorials/parityclassify",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/qaoa",
+              "path": "/docs/user-documentation/tutorials/qaoa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/qpuaccessibm",
+              "path": "/docs/user-documentation/tutorials/qpuaccessibm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/quantumchemistry",
+              "path": "/docs/user-documentation/tutorials/quantumchemistry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/quantumembedding",
+              "path": "/docs/user-documentation/tutorials/quantumembedding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/spacetime",
+              "path": "/docs/user-documentation/tutorials/spacetime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/star_tracker",
+              "path": "/docs/user-documentation/tutorials/star_tracker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/svm",
+              "path": "/docs/user-documentation/tutorials/svm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/tutorials",
+              "path": "/docs/user-documentation/tutorials/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/tutorials/violating_the_chsh",
+              "path": "/docs/user-documentation/tutorials/violating_the_chsh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/copying-python",
+              "path": "/docs/user-documentation/user-interface/copying-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/dark-cluster",
+              "path": "/docs/user-documentation/user-interface/dark-cluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/dashboard",
+              "path": "/docs/user-documentation/user-interface/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/dispatch-summary",
+              "path": "/docs/user-documentation/user-interface/dispatch-summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/dispatcher",
+              "path": "/docs/user-documentation/user-interface/dispatcher",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/electron-sidebar",
+              "path": "/docs/user-documentation/user-interface/electron-sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/electron-subsidebar",
+              "path": "/docs/user-documentation/user-interface/electron-subsidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/executor",
+              "path": "/docs/user-documentation/user-interface/executor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/filter",
+              "path": "/docs/user-documentation/user-interface/filter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/graph-view",
+              "path": "/docs/user-documentation/user-interface/graph-view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/lattice-sidebar",
+              "path": "/docs/user-documentation/user-interface/lattice-sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/pagination",
+              "path": "/docs/user-documentation/user-interface/pagination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/preview-electron-sidebar",
+              "path": "/docs/user-documentation/user-interface/preview-electron-sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/preview-lattice-sidebar",
+              "path": "/docs/user-documentation/user-interface/preview-lattice-sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/preview-transport-graph",
+              "path": "/docs/user-documentation/user-interface/preview-transport-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/sdk",
+              "path": "/docs/user-documentation/user-interface/sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/search",
+              "path": "/docs/user-documentation/user-interface/search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/server-lo-pagination",
+              "path": "/docs/user-documentation/user-interface/server-lo-pagination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/server-log",
+              "path": "/docs/user-documentation/user-interface/server-log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/server-log-search",
+              "path": "/docs/user-documentation/user-interface/server-log-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/server-log-sort",
+              "path": "/docs/user-documentation/user-interface/server-log-sort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/settings",
+              "path": "/docs/user-documentation/user-interface/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/sort",
+              "path": "/docs/user-documentation/user-interface/sort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/sublattice-views",
+              "path": "/docs/user-documentation/user-interface/sublattice-views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/sublattices-sidebar",
+              "path": "/docs/user-documentation/user-interface/sublattices-sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/sublattices-transport-graph",
+              "path": "/docs/user-documentation/user-interface/sublattices-transport-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/terminal",
+              "path": "/docs/user-documentation/user-interface/terminal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/the-ui",
+              "path": "/docs/user-documentation/user-interface/the-ui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/transport-graph",
+              "path": "/docs/user-documentation/user-interface/transport-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/ui",
+              "path": "/docs/user-documentation/user-interface/ui",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/workflow-data",
+              "path": "/docs/user-documentation/user-interface/workflow-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/workflow-dispatch-deletetion",
+              "path": "/docs/user-documentation/user-interface/workflow-dispatch-deletetion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/workflow-dispatch-list",
+              "path": "/docs/user-documentation/user-interface/workflow-dispatch-list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-documentation/user-interface/workflow-preview-graph",
+              "path": "/docs/user-documentation/user-interface/workflow-preview-graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "what-covalent",
+              "path": "/docs/what-covalent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "why-covalent",
+              "path": "/docs/why-covalent"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "Home"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

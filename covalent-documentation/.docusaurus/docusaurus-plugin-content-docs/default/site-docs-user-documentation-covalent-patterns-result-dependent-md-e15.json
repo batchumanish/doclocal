@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/result-dependent",
+  "id": "user-documentation/covalent-patterns/result-dependent",
+  "title": "Result-Dependent If/Else",
+  "description": "To branch based on the result from an electron, put the branch (if/else) logic inside another electron.",
+  "source": "@site/docs/user-documentation/covalent-patterns/result-dependent.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/result-dependent",
+  "permalink": "/docs/user-documentation/covalent-patterns/result-dependent",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Result-Dependent If/Else",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

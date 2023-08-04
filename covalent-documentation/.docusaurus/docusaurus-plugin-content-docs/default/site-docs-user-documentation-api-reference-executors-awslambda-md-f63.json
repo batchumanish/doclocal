@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/awslambda",
+  "id": "user-documentation/api-reference/executors/awslambda",
+  "title": "AWS Lambda Executor",
+  "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Lambda serverless compute service. It is appropriate to use this plugin for electrons that are expected to be short lived, and low in compute intensity. This plugin can also be used for workflows with a high number of electrons that are embarassingly parallel (fully independent of each other).",
+  "source": "@site/docs/user-documentation/api-reference/executors/awslambda.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/awslambda",
+  "permalink": "/docs/user-documentation/api-reference/executors/awslambda",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS Lambda Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

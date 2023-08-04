@@ -1,0 +1,14 @@
+{
+  "unversionedId": "b2c",
+  "id": "b2c",
+  "title": "B2C",
+  "description": "Coming Soon...",
+  "source": "@site/docs/b2c.md",
+  "sourceDirName": ".",
+  "slug": "/b2c",
+  "permalink": "/docs/b2c",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

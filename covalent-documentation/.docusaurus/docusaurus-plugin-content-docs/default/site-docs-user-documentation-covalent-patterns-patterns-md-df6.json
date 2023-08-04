@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/patterns",
+  "id": "user-documentation/covalent-patterns/patterns",
+  "title": "Covalent-Patterns",
+  "description": "This guide describes some best practices for use with Covalent. Most are coding best practices to be followed when writing workflows. Others include server configuration and runtime considerations.",
+  "source": "@site/docs/user-documentation/covalent-patterns/patterns.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/patterns",
+  "permalink": "/docs/user-documentation/covalent-patterns/patterns",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent-Patterns",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How-to Guide",
+    "permalink": "/docs/user-documentation/how-to/how-to-guide"
+  },
+  "next": {
+    "title": "Troubleshooting guide",
+    "permalink": "/docs/user-documentation/troubleshooting"
+  }
+}

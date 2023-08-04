@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/tutorials/tutorials",
+  "id": "user-documentation/tutorials/tutorials",
+  "title": "Tutorials",
+  "description": "The following tutorials demonstrate examples of how Covalent is used in real-world settings. Make sure you have properly installed Covalent and have started the Covalent server before attempting to reproduce a tutorial.",
+  "source": "@site/docs/user-documentation/tutorials/tutorials.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/",
+  "permalink": "/docs/user-documentation/tutorials/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "",
+    "permalink": "/docs/plugin"
+  },
+  "next": {
+    "title": "How-to Guide",
+    "permalink": "/docs/user-documentation/how-to/how-to-guide"
+  }
+}

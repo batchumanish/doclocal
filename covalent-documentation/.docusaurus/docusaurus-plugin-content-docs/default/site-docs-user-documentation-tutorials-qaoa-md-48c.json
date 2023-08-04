@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/qaoa",
+  "id": "user-documentation/tutorials/qaoa",
+  "title": "Using QAOA to Solve the Max-Cut Problem",
+  "description": "Quantum machine learning typically involves building machine learning algorithms that are a hybrid of quantum and classical components - for example, you may have classical data prepared using classical preprocessing steps, encode that data into a quantum circuit, and use classical machine learning methods to optimize circuit parameters.",
+  "source": "@site/docs/user-documentation/tutorials/qaoa.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/qaoa",
+  "permalink": "/docs/user-documentation/tutorials/qaoa",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Using QAOA to Solve the Max-Cut Problem"
+  },
+  "sidebar": "tutorialSidebar"
+}

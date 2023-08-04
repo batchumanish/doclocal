@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/gcp",
+  "id": "user-documentation/gcp",
+  "title": "Google Cloud Platform",
+  "description": "Covalent Google Batch executor is an interface between Covalent and Google Cloud Platform’s Batch compute service. This executor allows execution of Covalent tasks on the Google Batch compute service.",
+  "source": "@site/docs/user-documentation/gcp.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/gcp",
+  "permalink": "/docs/user-documentation/gcp",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Google Cloud Platform",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

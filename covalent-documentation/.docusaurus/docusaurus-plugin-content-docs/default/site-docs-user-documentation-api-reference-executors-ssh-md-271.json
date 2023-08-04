@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/ssh",
+  "id": "user-documentation/api-reference/executors/ssh",
+  "title": "SSH Executor",
+  "description": "Executes tasks (electrons) via SSH in remote machine. This executor plugin interfaces Covalent with other machines accessible to the user over SSH. It is appropriate to use this plugin to distribute tasks to one or more compute backends which are not controlled by a cluster management system, such as computers on a LAN, or even a collection of small-form-factor Linux-based devices such as Raspberry Pis, NVIDIA Jetsons, or Xeon Phi co-processors.",
+  "source": "@site/docs/user-documentation/api-reference/executors/ssh.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/ssh",
+  "permalink": "/docs/user-documentation/api-reference/executors/ssh",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SSH Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

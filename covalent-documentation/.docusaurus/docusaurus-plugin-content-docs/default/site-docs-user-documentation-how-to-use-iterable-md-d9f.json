@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/use-iterable",
+  "id": "user-documentation/how-to/use-iterable",
+  "title": "Using an Iterable",
+  "description": "You can pass a slice of an iterable returned by one electron as an input to another iterable in a lattice.",
+  "source": "@site/docs/user-documentation/how-to/use-iterable.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/use-iterable",
+  "permalink": "/docs/user-documentation/how-to/use-iterable",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Using an Iterable"
+  },
+  "sidebar": "tutorialSidebar"
+}

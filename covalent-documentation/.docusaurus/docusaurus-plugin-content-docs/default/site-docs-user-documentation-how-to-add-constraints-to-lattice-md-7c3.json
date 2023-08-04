@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/add-constraints-to-lattice",
+  "id": "user-documentation/how-to/add-constraints-to-lattice",
+  "title": "Adding Constraints to Tasks and Workflows",
+  "description": "Add constraints and execution directives to electrons by specifying them as arguments to the Covalent @electron decorator.",
+  "source": "@site/docs/user-documentation/how-to/add-constraints-to-lattice.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/add-constraints-to-lattice",
+  "permalink": "/docs/user-documentation/how-to/add-constraints-to-lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Adding Constraints to Tasks and Workflows"
+  },
+  "sidebar": "tutorialSidebar"
+}

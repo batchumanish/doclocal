@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/spacetime",
+  "id": "user-documentation/tutorials/spacetime",
+  "title": "Classifying discrete spacetimes by dimension",
+  "description": "Note: Breaks on M1 Macs because of tensorflow causing kernel panic.",
+  "source": "@site/docs/user-documentation/tutorials/spacetime.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/spacetime",
+  "permalink": "/docs/user-documentation/tutorials/spacetime",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Classifying discrete spacetimes by dimension"
+  },
+  "sidebar": "tutorialSidebar"
+}

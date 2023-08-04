@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/covalent",
+  "id": "user-documentation/api-reference/covalent",
+  "title": "Covalent",
+  "description": "Main Covalent public functionality.",
+  "source": "@site/docs/user-documentation/api-reference/covalent.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/covalent",
+  "permalink": "/docs/user-documentation/api-reference/covalent",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

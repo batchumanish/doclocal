@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/Migration_error",
+  "id": "user-documentation/Migration_error",
+  "title": "Remedying Database Migration Errors",
+  "description": "When upgrading Covalent versions from 0.177.0 to a newer version, you may need to run database migrations.",
+  "source": "@site/docs/user-documentation/Migration_error.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/Migration_error",
+  "permalink": "/docs/user-documentation/Migration_error",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

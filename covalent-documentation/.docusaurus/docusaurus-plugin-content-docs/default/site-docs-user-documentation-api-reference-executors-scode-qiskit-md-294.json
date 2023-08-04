@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/scode-qiskit",
+  "id": "user-documentation/api-reference/executors/scode-qiskit",
+  "title": "Source code for qiskit_plugin",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/executors/scode-qiskit.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/scode-qiskit",
+  "permalink": "/docs/user-documentation/api-reference/executors/scode-qiskit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

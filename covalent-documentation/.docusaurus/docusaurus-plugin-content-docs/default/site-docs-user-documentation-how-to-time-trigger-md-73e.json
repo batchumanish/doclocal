@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/time-trigger",
+  "id": "user-documentation/how-to/time-trigger",
+  "title": "Add Time Trigger",
+  "description": "In this guide we'll illustrate how to use a TimeTrigger to trigger workflow runs automatically every x seconds.",
+  "source": "@site/docs/user-documentation/how-to/time-trigger.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/time-trigger",
+  "permalink": "/docs/user-documentation/how-to/time-trigger",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Add Time Trigger"
+  },
+  "sidebar": "tutorialSidebar"
+}

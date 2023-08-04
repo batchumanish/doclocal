@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-lattice-execution-status",
+  "id": "user-documentation/how-to/status/query-lattice-execution-status",
+  "title": "Querying Workflow (Lattice) Execution Status in a Notebook",
+  "description": "Once you have dispatched a workflow, use the Covalent Result object to check run status of the lattice programmatically. You can also check the status of individual electrons.",
+  "source": "@site/docs/user-documentation/how-to/status/query-lattice-execution-status.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-lattice-execution-status",
+  "permalink": "/docs/user-documentation/how-to/status/query-lattice-execution-status",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Querying Workflow (Lattice) Execution Status in a Notebook"
+  },
+  "sidebar": "tutorialSidebar"
+}

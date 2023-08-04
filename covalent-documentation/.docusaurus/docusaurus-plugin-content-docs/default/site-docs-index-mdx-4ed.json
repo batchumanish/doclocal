@@ -1,0 +1,22 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "",
+  "description": "",
+  "source": "@site/docs/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": ""
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/Overview"
+  }
+}

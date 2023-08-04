@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/results",
+  "id": "user-documentation/api-reference/results",
+  "title": "Results",
+  "description": "Collecting and managing results",
+  "source": "@site/docs/user-documentation/api-reference/results.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/results",
+  "permalink": "/docs/user-documentation/api-reference/results",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Results",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

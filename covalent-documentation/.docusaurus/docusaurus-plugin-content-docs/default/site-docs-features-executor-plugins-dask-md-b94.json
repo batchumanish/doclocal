@@ -1,0 +1,16 @@
+{
+  "unversionedId": "features/executor-plugins/dask",
+  "id": "features/executor-plugins/dask",
+  "title": "Dask Executor",
+  "description": "Executing tasks (electrons) in a Dask cluster. This is the default executor when covalent is started without the --no-cluster flag.",
+  "source": "@site/docs/features/executor-plugins/dask.md",
+  "sourceDirName": "features/executor-plugins",
+  "slug": "/features/executor-plugins/dask",
+  "permalink": "/docs/features/executor-plugins/dask",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dask Executor"
+  }
+}

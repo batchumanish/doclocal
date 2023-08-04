@@ -1,0 +1,337 @@
+{
+  "basics": {
+    "heading": "Covalent Basics",
+    "headingdesc": "The first part, [Covalent Basics](/docs/user-documentation/concepts/covalent-basics), introduces the key code elements that make up Covalent. These elements are the building blocks of Covalent workflows:",
+    "goto": "/docs/user-documentation/concepts/covalent-basics",
+    "content": [
+      {
+        "img": "/img/assets/images/electron.png",
+        "at": "`@electron`",
+        "desc": "A task, the samallest unit of computational work in Covalent",
+        "url": "/docs/user-documentation/concepts/covalent-basics#electron"
+      },
+      {
+        "img": "/img/QElectronAssets/qelectron.svg",
+        "at": "`@qelectron`",
+        "desc": "A quantum task, meant to be called inside classical tasks - electrons",
+        "url": "/docs/user-documentation/concepts/covalent-basics#quantum-electron"
+      },
+      {
+        "img": "/img/assets/images/lattice.png",
+        "at": "`@lattice`",
+        "desc": "A workflow composed of tasks",
+        "url": "/docs/user-documentation/concepts/covalent-basics#lattice"
+      },
+      {
+        "img": "/img/assets/images/dispatch.png",
+        "at": "`dispatch()`",
+        "desc": "A function to submit a workflow to the Covalent server",
+        "url": "/docs/user-documentation/concepts/covalent-basics#dispatch"
+      },
+      {
+        "img": "/img/assets/images/Executors.svg",
+        "at": "`executor`",
+        "desc": "A plugin to execute individual tasks",
+        "url": "/docs/user-documentation/concepts/covalent-basics#executor"
+      },
+      {
+        "img": "/img/assets/images/get_result.png",
+        "at": "`get_result()`",
+        "desc": "A function to retrieve the product of a workflow",
+        "url": "/docs/user-documentation/concepts/covalent-basics#result"
+      }
+    ]
+  },
+
+  "architecture": {
+    "heading": "Covalent Architecture",
+    "headingdesc": "The second part, [Covalent Architecture](/docs/user-documentation/concepts/covalent-arch/covalent-architecture), outlines the three main parts of the Covalent architecture and introduces the in-depth descriptions that follow:",
+    "goto": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture",
+    "content": [
+      {
+        "img": "/img/assets/images/covalent_sdk.png",
+        "at": "**Covalent SDK**",
+        "desc": "Describes the workflow model embodied in Covalent's API, including the Python code elements introduced in Basics.",
+        "url": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture#the-covalent-sdk"
+      },
+      {
+        "img": "/img/assets/images/covalent_server.png",
+        "at": "**Covalent Server**",
+        "desc": "Describes in detail how the Covalent server handles workflows and dispatches tasks for execution.",
+        "url": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture#covalent-services"
+      },
+      {
+        "img": "/img/assets/images/covalent_gui.png",
+        "at": "**Covalent GUI**",
+        "desc": "Shows how the Covalent GUI displays dispatched workflows in summary and detail forms, and how it saves and retrieves results",
+        "url": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture#the-covalent-gui"
+      }
+    ]
+  },
+  "premise": {
+    "heading": "On-Premise Deployment",
+    "description": "Install the Covalent server on an on-prem server or virtual machine to create a centralized deployment.",
+    "content": [
+      {
+        "img": "/img/assets/server_deployment/docker_deploy.svg",
+        "at": "**Docker**",
+        "desc": "Pull the pre-built container image from our public registries and run it in Docker.",
+        "url": "./sd-docker"
+      },
+      {
+        "img": "/img/assets/server_deployment/systemd_deploy.svg",
+        "at": "**systemd**",
+        "desc": "Use `systemd` on a Linux host to manage a self-hosted Covalent server.",
+        "url": "./sd-systemd"
+      }
+    ]
+  },
+
+  "cloud": {
+    "heading": "Cloud Deployment",
+    "description": "Deploy on any major cloud platform to scale your deployments based on compute and memory needs.",
+    "content": [
+      {
+        "img": "/img/assets/server_deployment/aws_deploy.svg",
+        "at": "**AWS**",
+        "desc": "Deploy Covalent in an AWS account with any `x86`-based EC2 instance.",
+        "url": "./sd-deploying"
+      }
+    ]
+  },
+
+  "plugins": {
+    "slurm": "/img/landingV2/Slurm_logo 2.svg",
+    "kuber": "/img/landingV2/kubernetes-horizontal-white 1.svg",
+    "dask": "/img/landingV2/dask_horizontal_on_pink 1.svg",
+    "aws": "/img/landingV2/aws-logo.svg",
+    "gcloud": "/img/landingV2/gcloud.svg",
+    "azure": "/img/landingV2/azure logo.svg",
+    "ibm": "/img/landingV2/quantum.svg"
+  },
+
+  "home": {
+    "copyimg": "/img/landingV2/copyimg.svg",
+    "gtick": "/img/landingV2/gtick.png"
+  },
+  "create": "/img/landingV2/create.svg",
+  "monitor": "/img/landingV2/monitor.svg",
+  "iterate": "/img/landingV2/iterate.svg",
+  "star": "/img/landingV2/starfilled.svg",
+  "cloudCard": "/img/landingV2/cloud.svg",
+  "opensourceCard": "/img/landingV2/opensource.svg",
+  "git": "/img/assets/git_dark.svg",
+  "slack": "/img/assets/Group 35.svg",
+  "hero": "/img/landingV2/covalentheroimage.svg",
+  "headingImg": "/img/landingV2/headingimg.svg",
+  "pluginImg": "/img/landingV2/pluginImg.svg",
+  "search": "/img/landingV2/search.svg",
+  "closeIcon": "/img/landingV2/close.svg",
+
+  "pluginsPage": [
+    {
+      "img": "/img/assets/plugins/dask.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Dask executor",
+      "description": "Executes tasks in a distributed manner using Dask, a flexible library for parallel computing in Python. Ideal for computations that require parallel and distributed processing.",
+      "goto": "/docs/user-documentation/api-reference/executors/dask",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/dask.rst",
+      "categories": ["Classical", "High Compute", "On-Prem"]
+    },
+    {
+      "goto": "/docs",
+      "type": "make",
+      "categories": [""],
+      "name": "",
+      "description": ""
+    },
+    {
+      "img": "/img/assets/plugins/dask.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "SSH executor",
+      "description": "Executes tasks remotely over SSH. It's useful for running tasks on remote servers or clusters where SSH access is available. ",
+      "goto": "/docs/user-documentation/api-reference/executors/ssh",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/ssh.rst",
+      "categories": ["Classical", "High Compute", "On-Prem"]
+    },
+    {
+      "img": "/img/assets/plugins/slurm.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Slurm executor",
+      "description": "Leverages the Slurm workload manager for scheduling jobs on a single or multiple machines, making it suitable for high-performance computing tasks. (Classical, High Compute, On-prem)",
+      "goto": "/docs/user-documentation/api-reference/executors/slurm",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/slurm.rst",
+      "categories": ["Classical", "High Compute", "On-Prem","HPC"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS Plugins",
+      "description": "A collection of plugins that provide interfaces to various AWS services, enabling users to leverage the power and scalability of AWS for their tasks. (Classical, Quantum , Cloud Providers)",
+      "goto": "/docs/features/executor-plugins/aws-plugins",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awsplugins.rst",
+      "categories": ["Classical", "Quantum", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS EC2 Executor",
+      "description": "Executes tasks on AWS EC2 instances, allowing users to take advantage of the scalability and flexibility of EC2 for their computational needs.",
+      "goto": "/docs/user-documentation/api-reference/executors/awsec2",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awsec2.rst",
+      "categories": ["Classical", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS Lambda Executor",
+      "description": "Executes tasks as serverless functions using AWS Lambda, providing high scalability without the need to manage servers.",
+      "goto": "/docs/user-documentation/api-reference/executors/awslambda",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awslambda.rst",
+      "categories": ["Serverless", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS Batch Executor",
+      "description": "Executes batch processing tasks on AWS Batch, a service designed for high-throughput computing.",
+      "goto": "/docs/user-documentation/api-reference/executors/awsbatch",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awsbatch.rst",
+      "categories": ["Classical", "Cloud Providers", "High Compute"]
+    },
+    {
+      "img": "/img/landingV2/gcloud.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "GCP Executor",
+      "description": "Executes tasks on Google Cloud Platform, leveraging the power and scalability of Google's cloud infrastructure.",
+      "goto": "/docs/user-documentation/gcp",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/gcpbatch.rst",
+      "categories": ["Classical", "Cloud Providers"]
+    },
+    {
+      "img": "/img/landingV2/azure logo.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Azure Batch Executor",
+      "description": "Executes batch processing tasks on Azure Batch, a cloud-based job scheduling service that parallelizes and distributes the processing of large volumes of data across many computers.",
+      "goto": "/docs/user-documentation/api-reference/executors/azurebatch",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/azurebatch.rst",
+      "categories": ["Classical", "Cloud Providers", "High Compute"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS ECS Executor",
+      "description": "Executes tasks using AWS ECS, a highly scalable, high-performance container orchestration service.",
+      "goto": "/docs/user-documentation/api-reference/executors/awsecs",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awsecs.rst",
+      "categories": ["Classical", "Cloud Providers", "High Compute"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS Braket Executor",
+      "description": "Executes quantum tasks on AWS Bracket, a fully managed quantum computing service that helps researchers and developers get started with quantum technology. ",
+      "goto": "/docs/user-documentation/api-reference/executors/aws-bracket",
+      "git":"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/api/executors/awsbraket.rst",
+      "categories": ["Quantum", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/qiskit.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Qiskit Executor",
+      "description": "Executes quantum tasks using Qiskit Runtime a faster production level framework for leveraging today's IBMQ quantum processors.",
+      "goto": "/docs/user-documentation/api-reference/executors/qiskit",
+      "git":"https://github.com/AgnostiqHQ/covalent/tree/develop/doc/source/api/executors",
+      "categories": ["Quantum", "High Compute"]
+    },
+    {
+      "img": "/img/landingV2/quantum.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "IBMQ Executor",
+      "description": "Executes quantum tasks on IBM Quantum Experience, a platform that provides public access to a small set of IBM's prototype quantum processors. ",
+      "goto": "/docs/user-documentation/api-reference/executors/ibmq",
+      "git":"https://github.com/AgnostiqHQ/covalent/tree/develop/doc/source/api/executors",
+      "categories": ["Quantum", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "AWS Braket Qubit Executor",
+      "description": "Executes quantum tasks on AWS Braket Qubit, a quantum computing service that provides access to different quantum hardware technologies in one place. ",
+      "goto": "/docs/user-documentation/api-reference/executors/braketqubit",
+      "git":"https://github.com/AgnostiqHQ/covalent/tree/develop/doc/source/api/executors",
+      "categories": ["Quantum", "Cloud Providers"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Local Braket Qubit Executor",
+      "description": "Executes quantum tasks on the local Braket quantum circuit simulator, allowing users to simulate quantum circuits on their local machine. ",
+      "goto": "/docs/user-documentation/api-reference/executors/localqubit",
+      "git":"https://github.com/AgnostiqHQ/covalent/tree/develop/doc/source/api/executors",
+      "categories": ["Quantum", "On-Prem"]
+    },
+    {
+      "img": "/img/assets/plugins/aws.svg",
+      "github": "/img/assets/plugins/github.svg",
+      "rightArrow": "/img/assets/plugins/right-arrow.svg",
+      "apiRef": "/img/assets/plugins/api-ref.svg",
+      "pluginArrow": "/img/assets/plugins/makeplugin-arrow.svg",
+      "name": "Simulator Executor",
+      "description": "Introduces thread- or process-based parallelism to Pennylane circuits that utilize simulation-based devices, providing a way to simulate quantum circuits in parallel. ",
+      "goto": "/docs/user-documentation/api-reference/executors/simulator",
+      "git":"https://github.com/AgnostiqHQ/covalent/tree/develop/doc/source/api/executors",
+      "categories": ["Quantum", "On-Prem"]
+    }
+  ],
+  "qiskit":"/img/QElectronAssets/qiskit.svg",
+  "quantum":"/img/QElectronAssets/quantum.svg",
+  "simulator":"/img/QElectronAssets/simulator.svg",
+  "awsbraket":"/img/QElectronAssets/awsbracket.svg",
+  "localbraket":"/img/QElectronAssets/local.svg"
+}

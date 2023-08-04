@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/sublattices-sidebar",
+  "id": "user-documentation/user-interface/sublattices-sidebar",
+  "title": "Sublattices Sidebar",
+  "description": "The Sublattices sidebar has two tabs:",
+  "source": "@site/docs/user-documentation/user-interface/sublattices-sidebar.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/sublattices-sidebar",
+  "permalink": "/docs/user-documentation/user-interface/sublattices-sidebar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sublattices Sidebar",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/user-interface/dispatch-summary",
+  "id": "user-documentation/user-interface/dispatch-summary",
+  "title": "Dispatch Summary",
+  "description": "The Dispatch Summary is at the top of the Dashboard screen. It lists the following summary of all dispatches in the Covalent server database. The summary includes all dispatches regardless of the current filter on the dispatch list.",
+  "source": "@site/docs/user-documentation/user-interface/dispatch-summary.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/dispatch-summary",
+  "permalink": "/docs/user-documentation/user-interface/dispatch-summary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

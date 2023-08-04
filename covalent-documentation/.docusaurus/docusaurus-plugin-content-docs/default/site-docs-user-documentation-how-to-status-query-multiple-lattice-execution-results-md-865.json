@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-multiple-lattice-execution-results",
+  "id": "user-documentation/how-to/status/query-multiple-lattice-execution-results",
+  "title": "Querying Multiple Workflows (Lattices)",
+  "description": "Query the results of multiple workflows (lattices) run in the same notebook.",
+  "source": "@site/docs/user-documentation/how-to/status/query-multiple-lattice-execution-results.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-multiple-lattice-execution-results",
+  "permalink": "/docs/user-documentation/how-to/status/query-multiple-lattice-execution-results",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Querying Multiple Workflows (Lattices)"
+  },
+  "sidebar": "tutorialSidebar"
+}

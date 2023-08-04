@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/dispatcher",
+  "id": "user-documentation/user-interface/dispatcher",
+  "title": "Dispatcher",
+  "description": "Use the Dispatcher Settings page to view preferences for the Covalent workflow dispatcher service.",
+  "source": "@site/docs/user-documentation/user-interface/dispatcher.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/dispatcher",
+  "permalink": "/docs/user-documentation/user-interface/dispatcher",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dispatcher",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

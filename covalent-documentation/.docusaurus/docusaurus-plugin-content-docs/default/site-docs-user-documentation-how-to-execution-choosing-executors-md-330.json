@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/choosing-executors",
+  "id": "user-documentation/how-to/execution/choosing-executors",
+  "title": "Choosing an Executor for a Task (Electron)",
+  "description": "Within a lattice, every electron can use a different executor. These exectors can have different capabilities: different hardware, different computation strategies, and so on.",
+  "source": "@site/docs/user-documentation/how-to/execution/choosing-executors.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/choosing-executors",
+  "permalink": "/docs/user-documentation/how-to/execution/choosing-executors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Choosing an Executor for a Task (Electron)"
+  },
+  "sidebar": "tutorialSidebar"
+}

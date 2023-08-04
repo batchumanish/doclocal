@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/parityclassify",
+  "id": "user-documentation/tutorials/parityclassify",
+  "title": "Parity Classification",
+  "description": "This notebook is adapted from the Pennylane tutorial on variational quantum classifiers. We show how to combine Pennylane's QML facilities with Covalent to learn the parity function",
+  "source": "@site/docs/user-documentation/tutorials/parityclassify.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/parityclassify",
+  "permalink": "/docs/user-documentation/tutorials/parityclassify",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Parity Classification"
+  },
+  "sidebar": "tutorialSidebar"
+}

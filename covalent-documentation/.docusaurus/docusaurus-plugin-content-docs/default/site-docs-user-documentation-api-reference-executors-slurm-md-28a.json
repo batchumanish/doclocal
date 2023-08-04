@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/slurm",
+  "id": "user-documentation/api-reference/executors/slurm",
+  "title": "Slurm Executor",
+  "description": "This executor plugin interfaces Covalent with HPC systems managed by Slurm. For workflows to be deployable, users must have SSH access to the Slurm login node, writable storage space on the remote filesystem, and permissions to submit jobs to Slurm.",
+  "source": "@site/docs/user-documentation/api-reference/executors/slurm.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/slurm",
+  "permalink": "/docs/user-documentation/api-reference/executors/slurm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Slurm Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

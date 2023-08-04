@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/post_process",
+  "id": "user-documentation/covalent-patterns/post_process",
+  "title": "Return Electron Output Values from Lattices",
+  "description": "To avoid causing graph construction issues and being scolded by the Covalent server post-processor, ensure that the value returned by a lattice is the output of an electron.",
+  "source": "@site/docs/user-documentation/covalent-patterns/post_process.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/post_process",
+  "permalink": "/docs/user-documentation/covalent-patterns/post_process",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Return Electron Output Values from Lattices"
+  },
+  "sidebar": "tutorialSidebar"
+}

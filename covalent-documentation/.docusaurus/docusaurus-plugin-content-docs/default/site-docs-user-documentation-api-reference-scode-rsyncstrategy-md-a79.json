@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-rsyncstrategy",
+  "id": "user-documentation/api-reference/scode-rsyncstrategy",
+  "title": "Source code for covalent._file_transfer.strategies.rsync_strategy",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-rsyncstrategy.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-rsyncstrategy",
+  "permalink": "/docs/user-documentation/api-reference/scode-rsyncstrategy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._file_transfer.strategies.rsync_strategy",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

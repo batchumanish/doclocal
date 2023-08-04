@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/execute-multiple-lattices",
+  "id": "user-documentation/how-to/execution/execute-multiple-lattices",
+  "title": "Executing Multiple Workflows (Lattices)",
+  "description": "Execute multiple lattices from the same script.",
+  "source": "@site/docs/user-documentation/how-to/execution/execute-multiple-lattices.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/execute-multiple-lattices",
+  "permalink": "/docs/user-documentation/how-to/execution/execute-multiple-lattices",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Executing Multiple Workflows (Lattices)"
+  },
+  "sidebar": "tutorialSidebar"
+}

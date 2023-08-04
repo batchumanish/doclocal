@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/how-to-define",
+  "id": "user-documentation/how-to/how-to-define",
+  "title": "Defining Custom Selector for a Quantum Cluster",
+  "description": "Required Selector Interface",
+  "source": "@site/docs/user-documentation/how-to/how-to-define.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/how-to-define",
+  "permalink": "/docs/user-documentation/how-to/how-to-define",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Defining Custom Selector for a Quantum Cluster"
+  },
+  "sidebar": "tutorialSidebar"
+}

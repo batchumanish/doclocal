@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/file-transfers-to-from-s3",
+  "id": "user-documentation/how-to/file-transfers-to-from-s3",
+  "title": "Transferring Files To and From an S3 Bucket",
+  "description": "Retrieve files from an Amazon S3 bucket before executing a task, then upload files to an S3 bucket after the task's execution.",
+  "source": "@site/docs/user-documentation/how-to/file-transfers-to-from-s3.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/file-transfers-to-from-s3",
+  "permalink": "/docs/user-documentation/how-to/file-transfers-to-from-s3",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Transferring Files To and From an S3 Bucket"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/concepts/covalent-arch/covalent-architecture",
+  "id": "user-documentation/concepts/covalent-arch/covalent-architecture",
+  "title": "Covalent Architecture",
+  "description": "Covalent consists of three component systems:",
+  "source": "@site/docs/user-documentation/concepts/covalent-arch/covalent-architecture.md",
+  "sourceDirName": "user-documentation/concepts/covalent-arch",
+  "slug": "/user-documentation/concepts/covalent-arch/covalent-architecture",
+  "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent Basics",
+    "permalink": "/docs/user-documentation/concepts/covalent-basics"
+  },
+  "next": {
+    "title": "The Covalent SDK",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-sdk"
+  }
+}

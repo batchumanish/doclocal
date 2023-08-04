@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Deployments/covalent_cloud",
+  "id": "Deployments/covalent_cloud",
+  "title": "Self-Managed SaaS Deployment for Covalent Cloud",
+  "description": "Deploying Covalent Cloud as a self-managed SaaS solution is the simplest way to get Covalent up and running with a remote server without dealing with any cloud infrastructure or additional setup steps. To start using Covalent Cloud, all you need to do is install the open-source Covalent and Covalent Cloud packages via pip, sign up for an account at app.covalent.xyz, and you're good to go.",
+  "source": "@site/docs/Deployments/covalent_cloud.md",
+  "sourceDirName": "Deployments",
+  "slug": "/Deployments/covalent_cloud",
+  "permalink": "/docs/Deployments/covalent_cloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Deployment",
+    "permalink": "/docs/user-documentation/server-deployment"
+  },
+  "next": {
+    "title": "Deploying on AWS",
+    "permalink": "/docs/user-documentation/sd-deploying"
+  }
+}

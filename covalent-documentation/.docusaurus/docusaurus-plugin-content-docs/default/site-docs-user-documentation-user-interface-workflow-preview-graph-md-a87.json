@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/workflow-preview-graph",
+  "id": "user-documentation/user-interface/workflow-preview-graph",
+  "title": "Workflow Preview Graph",
+  "description": "The Workflow Preview Graph shows the transport graph of the lattice on which the lattice.draw() function was last called. This is useful, for example, to verify the logic of a workflow before dispatching it to run on costly compute resources.",
+  "source": "@site/docs/user-documentation/user-interface/workflow-preview-graph.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/workflow-preview-graph",
+  "permalink": "/docs/user-documentation/user-interface/workflow-preview-graph",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Workflow Preview Graph",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

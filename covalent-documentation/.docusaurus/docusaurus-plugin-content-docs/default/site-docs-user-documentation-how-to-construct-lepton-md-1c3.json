@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/construct-lepton",
+  "id": "user-documentation/how-to/construct-lepton",
+  "title": "Constructing an External Task Definition (Lepton)",
+  "description": "A lepton is a generalization of an electron (task). Leptons are used instead of electrons when the task definition is in a separate file, such as a Python module or a compiled C library. Leptons are particularly useful for workflows comprised of tasks in different languages. This example demonstrates how to construct a Lepton from a task definition in a Python module.",
+  "source": "@site/docs/user-documentation/how-to/construct-lepton.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/construct-lepton",
+  "permalink": "/docs/user-documentation/how-to/construct-lepton",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Constructing an External Task Definition (Lepton)"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/construct-bash-task",
+  "id": "user-documentation/how-to/construct-bash-task",
+  "title": "Constructing Tasks from Bash Scripts",
+  "description": "Run a Bash script from within a workflow.",
+  "source": "@site/docs/user-documentation/how-to/construct-bash-task.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/construct-bash-task",
+  "permalink": "/docs/user-documentation/how-to/construct-bash-task",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Constructing Tasks from Bash Scripts"
+  },
+  "sidebar": "tutorialSidebar"
+}

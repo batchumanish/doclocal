@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/star_tracker",
+  "id": "user-documentation/tutorials/star_tracker",
+  "title": "Tracking stars in the night sky",
+  "description": "In this tutorial, we'll see how to use covalent to manage all the tasks involved in tracking the position of a star in the users' night sky. Stars and other celestial objects have coordinates distributed on the celestial sphere, a projected sphere surrounding the Earth, and tracking celestial objects means transforming celestial coordinates into Earth coordinates at a particular location.",
+  "source": "@site/docs/user-documentation/tutorials/star_tracker.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/star_tracker",
+  "permalink": "/docs/user-documentation/tutorials/star_tracker",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Tracking stars in the night sky"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/best-practices",
+  "id": "user-documentation/covalent-patterns/best-practices",
+  "title": "Deployment Best Practices",
+  "description": "Although creating and dispatching workflows on a remote Covalent dispatcher is largely the same as with a local dispatcher, there are a few important differences.",
+  "source": "@site/docs/user-documentation/covalent-patterns/best-practices.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/best-practices",
+  "permalink": "/docs/user-documentation/covalent-patterns/best-practices",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deployment Best Practices",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

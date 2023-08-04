@@ -1,0 +1,20 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/awsbatch",
+  "id": "user-documentation/api-reference/executors/awsbatch",
+  "title": "AWS Batch Executor",
+  "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+  "source": "@site/docs/user-documentation/api-reference/executors/awsbatch.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/awsbatch",
+  "permalink": "/docs/user-documentation/api-reference/executors/awsbatch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "AWS Batch Executor",
+    "displayed_sidebar": "tutorialSidebar",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar"
+}

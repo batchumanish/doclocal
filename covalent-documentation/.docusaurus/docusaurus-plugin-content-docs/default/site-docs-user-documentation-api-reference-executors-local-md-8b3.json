@@ -1,0 +1,16 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/local",
+  "id": "user-documentation/api-reference/executors/local",
+  "title": "Local Executor",
+  "description": "Executing tasks (electrons) directly on the local machine",
+  "source": "@site/docs/user-documentation/api-reference/executors/local.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/local",
+  "permalink": "/docs/user-documentation/api-reference/executors/local",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Local Executor"
+  }
+}

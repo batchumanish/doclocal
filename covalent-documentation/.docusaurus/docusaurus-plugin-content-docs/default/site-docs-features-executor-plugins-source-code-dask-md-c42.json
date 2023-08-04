@@ -1,0 +1,14 @@
+{
+  "unversionedId": "features/executor-plugins/source-code-dask",
+  "id": "features/executor-plugins/source-code-dask",
+  "title": "Source code for covalent.executor.executor_plug",
+  "description": "",
+  "source": "@site/docs/features/executor-plugins/source-code-dask.md",
+  "sourceDirName": "features/executor-plugins",
+  "slug": "/features/executor-plugins/source-code-dask",
+  "permalink": "/docs/features/executor-plugins/source-code-dask",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-electron",
+  "id": "user-documentation/api-reference/scode-electron",
+  "title": "Source code for covalent._workflow.electron",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-electron.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-electron",
+  "permalink": "/docs/user-documentation/api-reference/scode-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._workflow.electron",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

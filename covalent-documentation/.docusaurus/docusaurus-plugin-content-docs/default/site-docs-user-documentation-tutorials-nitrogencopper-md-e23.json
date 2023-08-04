@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/nitrogencopper",
+  "id": "user-documentation/tutorials/nitrogencopper",
+  "title": "Simulating the Nitrogen-Copper interaction",
+  "description": "In this tutorial, we discuss how covalent can be used to manage workflows to simulate the quantum interactions between Nitrogen molecules and a slab of Copper. The computations for the quantum interactions are performed using the Atomic Simulation Environment (ase) package.",
+  "source": "@site/docs/user-documentation/tutorials/nitrogencopper.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/nitrogencopper",
+  "permalink": "/docs/user-documentation/tutorials/nitrogencopper",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Simulating the Nitrogen-Copper interaction"
+  },
+  "sidebar": "tutorialSidebar"
+}

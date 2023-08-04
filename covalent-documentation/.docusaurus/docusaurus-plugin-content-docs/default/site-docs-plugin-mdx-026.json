@@ -1,0 +1,26 @@
+{
+  "unversionedId": "plugin",
+  "id": "plugin",
+  "title": "",
+  "description": "",
+  "source": "@site/docs/plugin.mdx",
+  "sourceDirName": ".",
+  "slug": "/plugin",
+  "permalink": "/docs/plugin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": ""
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloud API",
+    "permalink": "/docs/cloud/cloud_api"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/user-documentation/tutorials/"
+  }
+}

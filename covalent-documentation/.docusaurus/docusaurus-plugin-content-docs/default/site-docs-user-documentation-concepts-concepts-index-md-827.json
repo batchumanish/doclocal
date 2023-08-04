@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/concepts/concepts-index",
+  "id": "user-documentation/concepts/concepts-index",
+  "title": "Concepts",
+  "description": "This concepts guide is an introduction to the concepts that make Covalent unique as a workflow management system for machine learning experimentation. The guide has two parts.",
+  "source": "@site/docs/user-documentation/concepts/concepts-index.md",
+  "sourceDirName": "user-documentation/concepts",
+  "slug": "/user-documentation/concepts/concepts-index",
+  "permalink": "/docs/user-documentation/concepts/concepts-index",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Concepts",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Experiment",
+    "permalink": "/docs/get-started/first-experiment"
+  },
+  "next": {
+    "title": "Covalent Basics",
+    "permalink": "/docs/user-documentation/concepts/covalent-basics"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/sublattices-transport-graph",
+  "id": "user-documentation/user-interface/sublattices-transport-graph",
+  "title": "Sublattices Transport Graph",
+  "description": "A sublattice is a lattice wrapped with an electron decorator so that it behaves as a single task. For example:",
+  "source": "@site/docs/user-documentation/user-interface/sublattices-transport-graph.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/sublattices-transport-graph",
+  "permalink": "/docs/user-documentation/user-interface/sublattices-transport-graph",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sublattices Transport Graph",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

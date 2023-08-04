@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/trasport-graph",
+  "id": "user-documentation/user-interface/trasport-graph",
+  "title": "Transport Graph",
+  "description": "The Transport Graph displays the directed acyclic graph representing the dispatch.",
+  "source": "@site/docs/user-documentation/user-interface/trasport-graph.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/trasport-graph",
+  "permalink": "/docs/user-documentation/user-interface/trasport-graph",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Transport Graph",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

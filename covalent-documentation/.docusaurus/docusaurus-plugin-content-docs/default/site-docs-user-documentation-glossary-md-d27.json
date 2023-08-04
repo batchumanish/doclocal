@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-documentation/glossary",
+  "id": "user-documentation/glossary",
+  "title": "Glossary",
+  "description": "API",
+  "source": "@site/docs/user-documentation/glossary.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Glossary",
+    "slug": "/glossary"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Terminal",
+    "permalink": "/docs/user-documentation/user-interface/terminal"
+  }
+}

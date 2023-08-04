@@ -1,0 +1,19 @@
+{
+  "unversionedId": "user-documentation/tutorials/appendix",
+  "id": "user-documentation/tutorials/appendix",
+  "title": "Appendix",
+  "description": "Function to create the analysis plot.",
+  "source": "@site/docs/user-documentation/tutorials/appendix.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/appendix",
+  "permalink": "/docs/user-documentation/tutorials/appendix",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Appendix",
+    "label": "Appendix"
+  },
+  "sidebar": "tutorialSidebar"
+}

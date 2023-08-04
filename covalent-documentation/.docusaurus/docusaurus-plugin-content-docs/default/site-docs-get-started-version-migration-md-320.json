@@ -1,0 +1,17 @@
+{
+  "unversionedId": "get-started/version-migration",
+  "id": "get-started/version-migration",
+  "title": "Version Migration Guide",
+  "description": "Why Migrate?",
+  "source": "@site/docs/get-started/version-migration.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/version-migration",
+  "permalink": "/docs/get-started/version-migration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

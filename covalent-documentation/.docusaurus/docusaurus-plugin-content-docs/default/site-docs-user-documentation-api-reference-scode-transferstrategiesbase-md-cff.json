@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-transferstrategiesbase",
+  "id": "user-documentation/api-reference/scode-transferstrategiesbase",
+  "title": "Source code for covalent._file_transfer.strategies.transfer_strategy_base",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-transferstrategiesbase.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-transferstrategiesbase",
+  "permalink": "/docs/user-documentation/api-reference/scode-transferstrategiesbase",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._file_transfer.strategies.transfer_strategy_base",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

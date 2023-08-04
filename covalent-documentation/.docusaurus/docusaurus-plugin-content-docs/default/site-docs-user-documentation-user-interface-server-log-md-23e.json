@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/server-log",
+  "id": "user-documentation/user-interface/server-log",
+  "title": "Server Log",
+  "description": "To view the Covalent server log, click the  icon.",
+  "source": "@site/docs/user-documentation/user-interface/server-log.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/server-log",
+  "permalink": "/docs/user-documentation/user-interface/server-log",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Server Log",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preview Transport Graph",
+    "permalink": "/docs/user-documentation/user-interface/preview-transport-graph"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/user-documentation/user-interface/settings"
+  }
+}

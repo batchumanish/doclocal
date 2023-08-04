@@ -1,0 +1,1678 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Home",
+        "href": "/docs/",
+        "className": "home",
+        "docId": "index"
+      },
+      {
+        "type": "link",
+        "label": "Overview",
+        "href": "/docs/Overview",
+        "className": "overview",
+        "docId": "Overview"
+      },
+      {
+        "type": "link",
+        "label": "Quick Start",
+        "href": "/docs/get-started/quick-start",
+        "className": "quickstart",
+        "docId": "get-started/quick-start"
+      },
+      {
+        "type": "category",
+        "label": "GETTING STARTED",
+        "className": "getstarted",
+        "items": [
+          {
+            "type": "link",
+            "label": "Installation",
+            "href": "/docs/get-started/install",
+            "className": "installation",
+            "docId": "get-started/install"
+          },
+          {
+            "type": "link",
+            "label": "First Experiment",
+            "href": "/docs/get-started/first-experiment",
+            "className": "why",
+            "docId": "get-started/first-experiment"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "CORE CONCEPTS",
+        "className": "core-concepts",
+        "items": [
+          {
+            "type": "link",
+            "label": "Covalent Basics",
+            "href": "/docs/user-documentation/concepts/covalent-basics",
+            "className": "installation",
+            "docId": "user-documentation/concepts/covalent-basics"
+          },
+          {
+            "type": "category",
+            "label": "Covalent Architecture",
+            "className": "why",
+            "items": [
+              {
+                "type": "link",
+                "label": "The Covalent SDK",
+                "href": "/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
+                "docId": "user-documentation/concepts/covalent-arch/covalent-sdk"
+              },
+              {
+                "type": "link",
+                "label": "Covalent Services",
+                "href": "/docs/user-documentation/concepts/covalent-arch/covalent-services",
+                "docId": "user-documentation/concepts/covalent-arch/covalent-services"
+              },
+              {
+                "type": "link",
+                "label": "The Covalent GUI",
+                "href": "/docs/user-documentation/concepts/covalent-arch/covalent-gui",
+                "docId": "user-documentation/concepts/covalent-arch/covalent-gui"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/user-documentation/concepts/concepts-index"
+      },
+      {
+        "type": "category",
+        "label": "POWER FEATURES",
+        "className": "power",
+        "items": [
+          {
+            "type": "link",
+            "label": "Quantum tasks",
+            "href": "/docs/features/quantumTasks",
+            "className": "pow-features",
+            "docId": "features/quantumTasks"
+          },
+          {
+            "type": "link",
+            "label": "Triggers",
+            "href": "/docs/features/triggers",
+            "className": "pow-features",
+            "docId": "features/triggers"
+          },
+          {
+            "type": "link",
+            "label": "Cancelation",
+            "href": "/docs/features/cancellation",
+            "className": "pow-features",
+            "docId": "features/cancellation"
+          },
+          {
+            "type": "link",
+            "label": "Executors",
+            "href": "/docs/features/executors",
+            "className": "pow-features",
+            "docId": "features/executors"
+          },
+          {
+            "type": "link",
+            "label": "Redispatch",
+            "href": "/docs/features/redispatch",
+            "className": "pow-features",
+            "docId": "features/redispatch"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "COVALENT CLOUD",
+        "collapsible": true,
+        "className": "cloud",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/cloud/cloud_quickstart",
+            "className": "gettingstarted",
+            "docId": "cloud/cloud_quickstart"
+          },
+          {
+            "type": "link",
+            "label": "How to",
+            "href": "/docs/cloud/cloud_how_to",
+            "className": "howto",
+            "docId": "cloud/cloud_how_to"
+          },
+          {
+            "type": "link",
+            "label": "API",
+            "href": "/docs/cloud/cloud_api",
+            "className": "api",
+            "docId": "cloud/cloud_api"
+          }
+        ],
+        "collapsed": true,
+        "href": "/docs/cloud/covalent_cloud_main"
+      },
+      {
+        "type": "link",
+        "label": "EXTENDABLE PLUGINS",
+        "href": "/docs/plugin",
+        "className": "plugin",
+        "docId": "plugin"
+      },
+      {
+        "type": "category",
+        "label": "GUIDES & TUTORIALS",
+        "className": "guides",
+        "items": [
+          {
+            "type": "link",
+            "label": "Tutorials",
+            "href": "/docs/user-documentation/tutorials/",
+            "className": "guides-t",
+            "docId": "user-documentation/tutorials/tutorials"
+          },
+          {
+            "type": "link",
+            "label": "How-To Guide",
+            "href": "/docs/user-documentation/how-to/how-to-guide",
+            "className": "guides-t",
+            "docId": "user-documentation/how-to/how-to-guide"
+          },
+          {
+            "type": "link",
+            "label": "Covalent Patterns",
+            "href": "/docs/user-documentation/covalent-patterns/patterns",
+            "className": "guides-t",
+            "docId": "user-documentation/covalent-patterns/patterns"
+          },
+          {
+            "type": "link",
+            "label": "Troubleshooting",
+            "href": "/docs/user-documentation/troubleshooting",
+            "className": "guides-t",
+            "docId": "user-documentation/troubleshooting"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "DEPLOYMENTS",
+        "className": "deploy",
+        "items": [
+          {
+            "type": "link",
+            "label": "Covalent Cloud",
+            "href": "/docs/Deployments/covalent_cloud",
+            "className": "deployments",
+            "docId": "Deployments/covalent_cloud"
+          },
+          {
+            "type": "link",
+            "label": "AWS",
+            "href": "/docs/user-documentation/sd-deploying",
+            "className": "deployments",
+            "docId": "user-documentation/sd-deploying"
+          },
+          {
+            "type": "link",
+            "label": "Docker",
+            "href": "/docs/user-documentation/sd-docker",
+            "className": "deployments",
+            "docId": "user-documentation/sd-docker"
+          },
+          {
+            "type": "link",
+            "label": "Systemd",
+            "href": "/docs/user-documentation/sd-systemd",
+            "className": "deployments",
+            "docId": "user-documentation/sd-systemd"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/docs/user-documentation/server-deployment"
+      },
+      {
+        "type": "category",
+        "label": "API & INTERFACE",
+        "className": "api-interface",
+        "items": [
+          {
+            "type": "category",
+            "label": "OS API",
+            "className": "interface",
+            "items": [
+              {
+                "type": "link",
+                "label": "Workflow Components",
+                "href": "/docs/user-documentation/api-reference/workflow-components",
+                "docId": "user-documentation/api-reference/workflow-components"
+              },
+              {
+                "type": "link",
+                "label": "Task Helpers",
+                "href": "/docs/user-documentation/api-reference/taskhelpers",
+                "docId": "user-documentation/api-reference/taskhelpers"
+              },
+              {
+                "type": "link",
+                "label": "Executors",
+                "href": "/docs/user-documentation/api-reference/executors-api",
+                "docId": "user-documentation/api-reference/executors-api"
+              },
+              {
+                "type": "link",
+                "label": "Dispatch Infrastructure",
+                "href": "/docs/user-documentation/api-reference/dispatch-infrastructure",
+                "docId": "user-documentation/api-reference/dispatch-infrastructure"
+              },
+              {
+                "type": "link",
+                "label": "Covalent Server",
+                "href": "/docs/user-documentation/api-reference/covalent-server",
+                "docId": "user-documentation/api-reference/covalent-server"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/user-documentation/api-reference/cov-api"
+          },
+          {
+            "type": "category",
+            "label": "OS UI",
+            "className": "interface",
+            "items": [
+              {
+                "type": "link",
+                "label": "Dashboard",
+                "href": "/docs/user-documentation/user-interface/dashboard",
+                "className": "interface-1",
+                "docId": "user-documentation/user-interface/dashboard"
+              },
+              {
+                "type": "link",
+                "label": "Graph View",
+                "href": "/docs/user-documentation/user-interface/graph-view",
+                "docId": "user-documentation/user-interface/graph-view"
+              },
+              {
+                "type": "link",
+                "label": "Sublattice Views",
+                "href": "/docs/user-documentation/user-interface/sublattice-views",
+                "docId": "user-documentation/user-interface/sublattice-views"
+              },
+              {
+                "type": "link",
+                "label": "Preview Transport Graph",
+                "href": "/docs/user-documentation/user-interface/preview-transport-graph",
+                "docId": "user-documentation/user-interface/preview-transport-graph"
+              },
+              {
+                "type": "link",
+                "label": "Server Log",
+                "href": "/docs/user-documentation/user-interface/server-log",
+                "docId": "user-documentation/user-interface/server-log"
+              },
+              {
+                "type": "link",
+                "label": "Settings",
+                "href": "/docs/user-documentation/user-interface/settings",
+                "docId": "user-documentation/user-interface/settings"
+              },
+              {
+                "type": "link",
+                "label": "Terminal",
+                "href": "/docs/user-documentation/user-interface/terminal",
+                "docId": "user-documentation/user-interface/terminal"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/docs/user-documentation/user-interface/the-ui"
+          },
+          {
+            "type": "link",
+            "label": "Glossary",
+            "href": "/docs/glossary",
+            "className": "interface",
+            "docId": "user-documentation/glossary"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "BE A CONTRIBUTOR",
+        "className": "contributor",
+        "items": [
+          {
+            "type": "link",
+            "label": "Contribution Guidelines",
+            "href": "https://github.com/AgnostiqHQ/covalent/blob/develop/CONTRIBUTING.md",
+            "className": "guidelines"
+          },
+          {
+            "type": "link",
+            "label": "Code of Conduct",
+            "href": "https://github.com/AgnostiqHQ/covalent/blob/develop/CODE_OF_CONDUCT.md",
+            "className": "code"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "b2c": {
+      "id": "b2c",
+      "title": "B2C",
+      "description": "Coming Soon..."
+    },
+    "cloud/cloud_api": {
+      "id": "cloud/cloud_api",
+      "title": "Cloud API",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "cloud/cloud_how_to": {
+      "id": "cloud/cloud_how_to",
+      "title": "How - to",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "cloud/cloud_quickstart": {
+      "id": "cloud/cloud_quickstart",
+      "title": "Getting Started",
+      "description": "Hello and welcome! This guide will help you dive right in and get your first workflow up and running in no time. Let's go!",
+      "sidebar": "tutorialSidebar"
+    },
+    "cloud/covalent_cloud_main": {
+      "id": "cloud/covalent_cloud_main",
+      "title": "Covalent Cloud",
+      "description": "Welcome to the documentation for Covalent Cloud, the managed version of the powerful Covalent open-source orchestration platform. Covalent Cloud is designed to make your advanced computing tasks even more seamless and straightforward by abstracting away the complexities of cloud computing, letting you focus on your work and innovation. While Covalent already provides an abstraction layer for cloud providers, users are still required to have a basic understanding of various cloud services and cloud tools like terraform, cloud storage setup etc. Covalent Cloud takes this abstraction a step further by removing the need for users to be familiar with the intricacies of these technologies. With Covalent Cloud, you can concentrate on your workloads, algorithms, and research without worrying about the underlying compute.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Deployments/covalent_cloud": {
+      "id": "Deployments/covalent_cloud",
+      "title": "Self-Managed SaaS Deployment for Covalent Cloud",
+      "description": "Deploying Covalent Cloud as a self-managed SaaS solution is the simplest way to get Covalent up and running with a remote server without dealing with any cloud infrastructure or additional setup steps. To start using Covalent Cloud, all you need to do is install the open-source Covalent and Covalent Cloud packages via pip, sign up for an account at app.covalent.xyz, and you're good to go.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/cancellation": {
+      "id": "features/cancellation",
+      "title": "Cancel with Confidence: Efficiently Manage Workflows in Covalent",
+      "description": "Covalent's cancelation feature is an indispensable tool that empowers users to manage their workflows effectively, enabling them to stop any task or workflow from consuming excessive resources or taking too long to complete, thereby optimizing the use of their computing resources. While other tools focus solely on production workflows, Covalent supports research-based and production workflows, which require more flexibility and adaptability to accommodate modifications. The workflow cancelation feature is often missing in most ETL and workflow orchestrators due to their design focus on automating and managing business processes, ensuring the smooth and uninterrupted operation of predetermined workflows. However, research-based workflows require more adaptability and flexibility, making canceling workflows and tasks an essential feature. With Covalent's cancelation feature, users can take complete control of their workflows, maintain efficient workflow management, and avoid wasteful consumption of resources.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/executor-plugins/aws-bracket": {
+      "id": "features/executor-plugins/aws-bracket",
+      "title": "AWS Braket Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware."
+    },
+    "features/executor-plugins/aws-plugins": {
+      "id": "features/executor-plugins/aws-plugins",
+      "title": "AWS Plugins",
+      "description": "Covalent is a python based workflow orchestration tool used to execute HPC and quantum tasks in heterogenous environments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/executor-plugins/awsbatch": {
+      "id": "features/executor-plugins/awsbatch",
+      "title": "AWS Batch Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware."
+    },
+    "features/executor-plugins/awsec2": {
+      "id": "features/executor-plugins/awsec2",
+      "title": "AWS EC2 Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware."
+    },
+    "features/executor-plugins/awsecs": {
+      "id": "features/executor-plugins/awsecs",
+      "title": "AWS ECS Executor",
+      "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Elastic Container Service (ECS). This executor plugin is well suited for low to medium compute intensive electrons with modest memory requirements. Since AWS ECS offers very quick spin up times, this executor is a good fit for workflows with a large number of independent tasks that can be dispatched simultaneously."
+    },
+    "features/executor-plugins/awslambda": {
+      "id": "features/executor-plugins/awslambda",
+      "title": "AWS Lambda Executor",
+      "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Lambda serverless compute service. It is appropriate to use this plugin for electrons that are expected to be short lived, low in compute intensity. This plugin can also be used for workflows with a high number of electrons that are embarassingly parallel (fully independent of each other)."
+    },
+    "features/executor-plugins/dask": {
+      "id": "features/executor-plugins/dask",
+      "title": "Dask Executor",
+      "description": "Executing tasks (electrons) in a Dask cluster. This is the default executor when covalent is started without the --no-cluster flag."
+    },
+    "features/executor-plugins/exe": {
+      "id": "features/executor-plugins/exe",
+      "title": "Plugins",
+      "description": "Covalent offers various plugins, starting with executor plugins. Executors are used to run tasks on the various kinds of backends. Executors decouple a task from hardware details by executing the task in a certain place in a certain way. For example, the local executor invokes the task on the user’s local computer. You can define custom executors to make Covalent compatible with any remote backend system. Covalent has a wide range of executor plugin libraries that connect to a variety of resources, from local Slurm clusters to cloud-based AWS, GCP, and Azure compute nodes and more."
+    },
+    "features/executor-plugins/slurm": {
+      "id": "features/executor-plugins/slurm",
+      "title": "Slurm Executor",
+      "description": "This executor plugin interfaces Covalent with HPC systems managed by Slurm. For workflows to be deployable, users must have SSH access to the Slurm login node, writable storage space on the remote filesystem, and permissions to submit jobs to Slurm."
+    },
+    "features/executor-plugins/source-code-dask": {
+      "id": "features/executor-plugins/source-code-dask",
+      "title": "Source code for covalent.executor.executor_plug",
+      "description": ""
+    },
+    "features/executor-plugins/ssh": {
+      "id": "features/executor-plugins/ssh",
+      "title": "SSH Executor",
+      "description": "Executing tasks (electrons) via SSH in remote machine. This executor plugin interfaces Covalent with other machines accessible to the user over SSH. It is appropriate to use this plugin to distribute tasks to one or more compute backends which are not controlled by a cluster management system, such as computers on a LAN, or even a collection of small-form-factor Linux-based devices such as Raspberry Pis, NVIDIA Jetsons, or Xeon Phi co-processors."
+    },
+    "features/executors": {
+      "id": "features/executors",
+      "title": "Effortlessly Leverage Heterogeneous Computing with Covalent Executors",
+      "description": "Covalent Executors empower users to leverage the capabilities of heterogeneous computing environments by seamlessly running tasks across various backends such as quantum computers, HPC clusters, GPU arrays, and cloud services. By harnessing the power of Executors, Covalent enables you to optimize your workflows, achieve better performance, scalability, and resource utilization.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/quantumTasks": {
+      "id": "features/quantumTasks",
+      "title": "Distributed Quantum Circuits with Quantum Electrons",
+      "description": "Covalent Quantum Electrons (QElectrons) mark a unique development in the quantum computing software stack. QElectrons facilitate scalable, concurrent, and distributed execution of circuit calculations. As an extension of Covalent's orchestration capabilities, QElectrons provide granular control over quantum resources within standard workflow Electrons, mirroring the functionality provided for classical resources. This system brings observability, caching, monitoring, and other useful features from scalable classical machine learning stacks into the quantum context.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/redispatch": {
+      "id": "features/redispatch",
+      "title": "Redispatching Workflows",
+      "description": "The Redispatch feature allows users to re-run previously dispatched workflows with new input parameters and task definitions using only the dispatch ID, i.e. without access to the initial workflow definition. Furthermore, users have the option of skipping execution of previously computed tasks with the caveat that this should not be used when stochasticity or randomness in the workflow will affect the outcome.",
+      "sidebar": "tutorialSidebar"
+    },
+    "features/triggers": {
+      "id": "features/triggers",
+      "title": "Automate Repetitive Tasks with Triggers",
+      "description": "Triggers are a powerful feature in Covalent that allow you to automate repetitive tasks and streamline your workflow. With these, you can define a pre-defined set of steps that will run automatically every time a specific event occurs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "for-contributors/building-covalent": {
+      "id": "for-contributors/building-covalent",
+      "title": "Building Covalent from Source",
+      "description": "To download and install Covalent from source, follow the steps below."
+    },
+    "get-started/first-experiment": {
+      "id": "get-started/first-experiment",
+      "title": "First Experiment",
+      "description": "This page describes how to get started with Covalent. Follow the procedures on this page to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "get-started/install": {
+      "id": "get-started/install",
+      "title": "Getting Started",
+      "description": "Covalent is developed using Python 3.8 on Linux and macOS. See the Compatibility page for further details on Python versions and operating systems which support Covalent. To set up Python on your computer, refer to the official Python for Beginners page.",
+      "sidebar": "tutorialSidebar"
+    },
+    "get-started/quick-start": {
+      "id": "get-started/quick-start",
+      "title": "Quick Start",
+      "description": "To quickly install Covalent and run a short demo, follow the four steps below.",
+      "sidebar": "tutorialSidebar"
+    },
+    "get-started/version-migration": {
+      "id": "get-started/version-migration",
+      "title": "Version Migration Guide",
+      "description": "Why Migrate?",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "login": {
+      "id": "login",
+      "title": "",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Overview": {
+      "id": "Overview",
+      "title": "Overview",
+      "description": "Covalent is a powerful open-source orchestration platform designed to harmonize the dynamic and complex world of advanced computing. It streamlines the utilization and management of disparate computational resources, encompassing classical high-performance computing (HPC), quantum computing, and AI/ML paradigms. Covalent is a workflow management tool, designed for the orchestration of, and seamless communication between these distinct systems, empowering teams to focus on higher-value R&D objectives.",
+      "sidebar": "tutorialSidebar"
+    },
+    "plugin": {
+      "id": "plugin",
+      "title": "",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/api-ref": {
+      "id": "user-documentation/api-reference/api-ref",
+      "title": "Covalent API",
+      "description": "The following API documentation describes how to use Covalent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/cancellation": {
+      "id": "user-documentation/api-reference/cancellation",
+      "title": "Cancelation",
+      "description": "Cancel a dispatch using the dispatchid or multiple tasks within a workflow using the taskids",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/cov-api": {
+      "id": "user-documentation/api-reference/cov-api",
+      "title": "Covalent API",
+      "description": "This is the component reference for the Covalent Python API.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/cov-apiindex": {
+      "id": "user-documentation/api-reference/cov-apiindex",
+      "title": "Covalent API Index",
+      "description": "- AsyncBaseExecutor",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/covalent": {
+      "id": "user-documentation/api-reference/covalent",
+      "title": "Covalent",
+      "description": "Main Covalent public functionality.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/covalent-clitool": {
+      "id": "user-documentation/api-reference/covalent-clitool",
+      "title": "Covalent CLI Tool",
+      "description": "This Command Line Interface (CLI) tool is used to manage Covalent server.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/covalent-server": {
+      "id": "user-documentation/api-reference/covalent-server",
+      "title": "Covalent Server",
+      "description": "Covalent CLI Tool",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/dependencies": {
+      "id": "user-documentation/api-reference/dependencies",
+      "title": "Dependencies",
+      "description": "Main Covalent public functionality.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/dispatch-infrastructure": {
+      "id": "user-documentation/api-reference/dispatch-infrastructure",
+      "title": "Dispatch Infrastructure",
+      "description": "Dispatcher",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/dispatcher": {
+      "id": "user-documentation/api-reference/dispatcher",
+      "title": "Dispatcher",
+      "description": "Dispatching jobs to the server and stopping triggered dispatches",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/electron": {
+      "id": "user-documentation/api-reference/electron",
+      "title": "Electron",
+      "description": "@covalent.electron(\\func=None, \\*, backend=None, executor=None, files=[], depsbash=None, depspip=None, callbefore=[], call_after=[])",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors-api": {
+      "id": "user-documentation/api-reference/executors-api",
+      "title": "Executors",
+      "description": "Synchronous Base Executor Class",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/asynchronous-base-executor-class": {
+      "id": "user-documentation/api-reference/executors/asynchronous-base-executor-class",
+      "title": "Asynchronous Base Executor Class",
+      "description": "class covalent.executor.base.AsyncBaseExecutor(args, *kwargs)[source]",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/aws-bracket": {
+      "id": "user-documentation/api-reference/executors/aws-bracket",
+      "title": "AWS Braket Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/awsbatch": {
+      "id": "user-documentation/api-reference/executors/awsbatch",
+      "title": "AWS Batch Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/awsec2": {
+      "id": "user-documentation/api-reference/executors/awsec2",
+      "title": "AWS EC2 Executor",
+      "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/awsecs": {
+      "id": "user-documentation/api-reference/executors/awsecs",
+      "title": "AWS ECS Executor",
+      "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Elastic Container Service (ECS). This executor plugin is well suited for low to medium compute intensive electrons with modest memory requirements. Since AWS ECS offers very quick spin up times, this executor is a good fit for workflows with a large number of independent tasks that can be dispatched simultaneously.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/awslambda": {
+      "id": "user-documentation/api-reference/executors/awslambda",
+      "title": "AWS Lambda Executor",
+      "description": "With this executor, users can execute tasks (electrons) or entire lattices using the AWS Lambda serverless compute service. It is appropriate to use this plugin for electrons that are expected to be short lived, and low in compute intensity. This plugin can also be used for workflows with a high number of electrons that are embarassingly parallel (fully independent of each other).",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/azurebatch": {
+      "id": "user-documentation/api-reference/executors/azurebatch",
+      "title": "Azure Batch Executor",
+      "description": "Covalent Azure Batch executor is an interface between Covalent and Microsoft Azure Batch. This executor allows execution of Covalent tasks on Azure’s Batch service.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/braketqubit": {
+      "id": "user-documentation/api-reference/executors/braketqubit",
+      "title": "AWS Braket Qubit Executor",
+      "description": "This quantum executor accesses quantum resources operating under the qubit model as made available through AWS (\"braket.aws.qubit\").",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/customizing-the-config": {
+      "id": "user-documentation/api-reference/executors/customizing-the-config",
+      "title": "Customizing the Configuration",
+      "description": "If $COVALENTCONFIGDIR is defined in the user environment then the Covalent global configuration file is stored at $COVALENTCONFIGDIR/covalent.conf. Otherwise, the configuration is in ~/.config/covalent/covalent.conf.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/dask": {
+      "id": "user-documentation/api-reference/executors/dask",
+      "title": "Dask Executor",
+      "description": "Executes tasks (electrons) in a Dask cluster. This is the default executor when covalent is started without the --no-cluster flag.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/exe": {
+      "id": "user-documentation/api-reference/executors/exe",
+      "title": "Executors",
+      "description": "Executors are responsible for taking a task and executing it in a certain place in a certain way. For example, the local executor invokes the task on the user’s local computer. Users can define custom executors to make Covalent compatible with any remote backend system and covalent has a wide range of executor plugin libraries that connects to various resources from local Slurm cluster to cloud based AWS/GCP/Azure resources."
+    },
+    "user-documentation/api-reference/executors/ibmq": {
+      "id": "user-documentation/api-reference/executors/ibmq",
+      "title": "IBMQ Executor",
+      "description": "This quantum executor accesses IBM Quantum backends through Pennylane's \"qiskit.ibmq\" device. IBMQExecutor introduces thread-based parallelism for circuit execution on the \"qiskit.ibmq\" device. Note that the more efficient QiskitExecutor is recommended over IBMQExecutor for production use.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/localqubit": {
+      "id": "user-documentation/api-reference/executors/localqubit",
+      "title": "Local Braket Qubit Executor",
+      "description": "This quantum executor accesses the local Braket quantum circuit simulator (\"braket.local.qubit\").",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/qiskit": {
+      "id": "user-documentation/api-reference/executors/qiskit",
+      "title": "Qiskit Executor",
+      "description": "This quantum executor provides efficient access to IBM Quantum backends by using runtime sessions for submitting jobs. QiskitExecutor uses asyncio for scalable parallelization.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/scode": {
+      "id": "user-documentation/api-reference/executors/scode",
+      "title": "Source code for covalent.executor.executor_plug",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/scode-awsplugin": {
+      "id": "user-documentation/api-reference/executors/scode-awsplugin",
+      "title": "Source code for AWS_Plugin",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/scode-executor-base": {
+      "id": "user-documentation/api-reference/executors/scode-executor-base",
+      "title": "Source code for covalent.executor.base",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/scode-qiskit": {
+      "id": "user-documentation/api-reference/executors/scode-qiskit",
+      "title": "Source code for qiskit_plugin",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/simulator": {
+      "id": "user-documentation/api-reference/executors/simulator",
+      "title": "Simulator",
+      "description": "This quantum executor introduces thread- or process-based parallelism to Pennylane circuits that utilize simulation-based devices (like \"default.qubit\" or \"lightning.qubit\").",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/slurm": {
+      "id": "user-documentation/api-reference/executors/slurm",
+      "title": "Slurm Executor",
+      "description": "This executor plugin interfaces Covalent with HPC systems managed by Slurm. For workflows to be deployable, users must have SSH access to the Slurm login node, writable storage space on the remote filesystem, and permissions to submit jobs to Slurm.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/ssh": {
+      "id": "user-documentation/api-reference/executors/ssh",
+      "title": "SSH Executor",
+      "description": "Executes tasks (electrons) via SSH in remote machine. This executor plugin interfaces Covalent with other machines accessible to the user over SSH. It is appropriate to use this plugin to distribute tasks to one or more compute backends which are not controlled by a cluster management system, such as computers on a LAN, or even a collection of small-form-factor Linux-based devices such as Raspberry Pis, NVIDIA Jetsons, or Xeon Phi co-processors.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/executors/synchronous-base-executor-class": {
+      "id": "user-documentation/api-reference/executors/synchronous-base-executor-class",
+      "title": "Synchronous Base Executor Class",
+      "description": "class covalent.executor.base.BaseExecutor(args, *kwargs)[source]",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/lattice": {
+      "id": "user-documentation/api-reference/lattice",
+      "title": "Lattice",
+      "description": "@covalent.lattice(\\func=None, \\*, backend=None, executor=None, workflowexecutor=None, depsbash=None, depspip=None, callbefore=[], callafter=[], triggers=None)",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/lepton": {
+      "id": "user-documentation/api-reference/lepton",
+      "title": "Lepton",
+      "description": "Language Decorators",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/results": {
+      "id": "user-documentation/api-reference/results",
+      "title": "Results",
+      "description": "Collecting and managing results",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-deps": {
+      "id": "user-documentation/api-reference/scode-deps",
+      "title": "Source code for covalent._workflow.deps",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-depsbash": {
+      "id": "user-documentation/api-reference/scode-depsbash",
+      "title": "Source code for covalent._workflow.depsbash",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-depscall": {
+      "id": "user-documentation/api-reference/scode-depscall",
+      "title": "Source code for covalent._workflow.depscall",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-depspip": {
+      "id": "user-documentation/api-reference/scode-depspip",
+      "title": "Source code for covalent._workflow.depspip",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-dirtrigger": {
+      "id": "user-documentation/api-reference/scode-dirtrigger",
+      "title": "Source code for covalent.triggers.dir_trigger",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-electron": {
+      "id": "user-documentation/api-reference/scode-electron",
+      "title": "Source code for covalent._workflow.electron",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-filefolder": {
+      "id": "user-documentation/api-reference/scode-filefolder",
+      "title": "Source code for covalent._file_transfer.folder",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-filetransfer": {
+      "id": "user-documentation/api-reference/scode-filetransfer",
+      "title": "Source code for covalent._file_transfer.file",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-filetransferfile": {
+      "id": "user-documentation/api-reference/scode-filetransferfile",
+      "title": "Source code for covalent._file_transfer.file_transfer",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-lattice": {
+      "id": "user-documentation/api-reference/scode-lattice",
+      "title": "Source code for covalent._workflow.lattice",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-lepton": {
+      "id": "user-documentation/api-reference/scode-lepton",
+      "title": "Source code for covalent._workflow.lepton",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-qcluster": {
+      "id": "user-documentation/api-reference/scode-qcluster",
+      "title": "Source code for QClusters",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-qelectron": {
+      "id": "user-documentation/api-reference/scode-qelectron",
+      "title": "Source code for QElectron",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-result": {
+      "id": "user-documentation/api-reference/scode-result",
+      "title": "Source code for covalent._results_manager.result",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-rsyncstrategy": {
+      "id": "user-documentation/api-reference/scode-rsyncstrategy",
+      "title": "Source code for covalent._file_transfer.strategies.rsync_strategy",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-simulator": {
+      "id": "user-documentation/api-reference/scode-simulator",
+      "title": "Source code for Simulator Executor",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-timetrigger": {
+      "id": "user-documentation/api-reference/scode-timetrigger",
+      "title": "Source code for covalent.triggers.time_trigger",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-transferstrategiesbase": {
+      "id": "user-documentation/api-reference/scode-transferstrategiesbase",
+      "title": "Source code for covalent._file_transfer.strategies.transfer_strategy_base",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-transport": {
+      "id": "user-documentation/api-reference/scode-transport",
+      "title": "Source code for covalent._workflow.transport",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/scode-triggersbase": {
+      "id": "user-documentation/api-reference/scode-triggersbase",
+      "title": "Source code for covalent.triggers.base",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/settingdef": {
+      "id": "user-documentation/api-reference/settingdef",
+      "title": "Setting Defaults",
+      "description": "Default configuration for covalent can be set by defining the environment variable COVALENTCONFIGDIR. By default, config files are stored in ~/.config/covalent/covalent.conf."
+    },
+    "user-documentation/api-reference/taskhelpers": {
+      "id": "user-documentation/api-reference/taskhelpers",
+      "title": "Task Helpers",
+      "description": "Dependencies",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/api-reference/triggers": {
+      "id": "user-documentation/api-reference/triggers",
+      "title": "Triggers",
+      "description": "Execute a workflow triggered by a specific type of event"
+    },
+    "user-documentation/api-reference/workflow-components": {
+      "id": "user-documentation/api-reference/workflow-components",
+      "title": "Workflow Components",
+      "description": "Electron",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/compatibility": {
+      "id": "user-documentation/compatibility",
+      "title": "Compatibility",
+      "description": "Covalent is primarily developed using Python 3.8 on MacOS and Linux. It has been tested in a variety of environments. The following tables list combinations of Python versions and operating systems that have been tested with release versions of Covalent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/concepts-index": {
+      "id": "user-documentation/concepts/concepts-index",
+      "title": "Concepts",
+      "description": "This concepts guide is an introduction to the concepts that make Covalent unique as a workflow management system for machine learning experimentation. The guide has two parts.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/covalent-arch/covalent-architecture": {
+      "id": "user-documentation/concepts/covalent-arch/covalent-architecture",
+      "title": "Covalent Architecture",
+      "description": "Covalent consists of three component systems:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/covalent-arch/covalent-gui": {
+      "id": "user-documentation/concepts/covalent-arch/covalent-gui",
+      "title": "The Covalent GUI",
+      "description": "The Covalent UI is a graphical tool that combines with the Covalent database to store, monitor, visualize, and compare dispatched workflows. Aside from the ability to delete completed dispatched workflows, the UI does not affect the workflows in any way. It is described here as a separate component of the Covalent system because its power to store and visualize the dispatched workflows makes it essential to using Covalent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/covalent-arch/covalent-sdk": {
+      "id": "user-documentation/concepts/covalent-arch/covalent-sdk",
+      "title": "The Covalent SDK",
+      "description": "The Covalent SDK exists to enable compute-intensive workloads, such as ML training and testing, to run as server-managed workflows. To accomplish this, the workload is broken down into tasks that are arranged in a workflow. The tasks and the workflow are Python functions decorated with Covalent’s electron and lattice interfaces, respectively.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/covalent-arch/covalent-services": {
+      "id": "user-documentation/concepts/covalent-arch/covalent-services",
+      "title": "Covalent Services",
+      "description": "The Covalent server runs as a service on your local machine or on a server. The service contains a dispatcher that analyzes workflows (lattices) and hands its component functions (electrons) off to executors. Each executor is an adaptor to a backend hardware resource. Covalent has a growing list of turn-key executors for common compute backends. If no executor exists yet for your compute platform, Covalent provides base classes for writing your own.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/concepts/covalent-basics": {
+      "id": "user-documentation/concepts/covalent-basics",
+      "title": "Covalent Basics",
+      "description": "This section briefly introduces the most important Python classes and functions of the Covalent SDK. These elements are key to how Covalent works.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/best-practices": {
+      "id": "user-documentation/covalent-patterns/best-practices",
+      "title": "Deployment Best Practices",
+      "description": "Although creating and dispatching workflows on a remote Covalent dispatcher is largely the same as with a local dispatcher, there are a few important differences.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/consuming-multiple-return-values": {
+      "id": "user-documentation/covalent-patterns/consuming-multiple-return-values",
+      "title": "Consuming Multiple Return Values from an Electron",
+      "description": "In Python, it is possible to return multiple values from a function. The technique explained here prevents unnecessary usage of compute resources when you consume the results of such a function in a Covalent workflow.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/create-and-assign": {
+      "id": "user-documentation/covalent-patterns/create-and-assign",
+      "title": "Creating and Assigning an Executor",
+      "description": "If multiple electrons can use the same compute resource, create one executor for the resource and assign it to the electrons rather than creating an executor every time an electron is instantiated.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/dynamic-workflows": {
+      "id": "user-documentation/covalent-patterns/dynamic-workflows",
+      "title": "Dynamic Workflows",
+      "description": "To dynamically create an electron based on the output of another electron, use a sublattice.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/large-object-transfer": {
+      "id": "user-documentation/covalent-patterns/large-object-transfer",
+      "title": "Large Object Transfer",
+      "description": "For large result objects from electrons that need to be passed as input to another electron, write the object to a storage service, then read the object into the consuming electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/patterns": {
+      "id": "user-documentation/covalent-patterns/patterns",
+      "title": "Covalent-Patterns",
+      "description": "This guide describes some best practices for use with Covalent. Most are coding best practices to be followed when writing workflows. Others include server configuration and runtime considerations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/post_process": {
+      "id": "user-documentation/covalent-patterns/post_process",
+      "title": "Return Electron Output Values from Lattices",
+      "description": "To avoid causing graph construction issues and being scolded by the Covalent server post-processor, ensure that the value returned by a lattice is the output of an electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/result-dependent": {
+      "id": "user-documentation/covalent-patterns/result-dependent",
+      "title": "Result-Dependent If/Else",
+      "description": "To branch based on the result from an electron, put the branch (if/else) logic inside another electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/result-dependent-loops": {
+      "id": "user-documentation/covalent-patterns/result-dependent-loops",
+      "title": "Result-Dependent Loops",
+      "description": "To iterate over the result from an electron, put the iteration (loop) logic inside another electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/covalent-patterns/return-electron": {
+      "id": "user-documentation/covalent-patterns/return-electron",
+      "title": "Return Electron Output Values from Lattices",
+      "description": "To avoid causing graph construction issues and being scolded by the Covalent server post-processor, ensure that the value returned by a lattice is the output of an electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/credentials/aws": {
+      "id": "user-documentation/credentials/aws",
+      "title": "Managing AWS Cloud Credentials",
+      "description": "AWS plugins assume the existence of a credentials file or environment variables in order to communicate with AWS services. This data lives on the Covalent server. There are several best practices users should consider when managing AWS credentials on the Covalent server. Using root credentials or long-lived credentials provided via an IAM user are strongly discouraged.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/credentials/azure": {
+      "id": "user-documentation/credentials/azure",
+      "title": "Managing Azure Cloud Credentials",
+      "description": "In order to use the Azure executors, it needs to be configured with all the permissions necessary to create and manage the relevant Azure resources. This can be done by creating a service principal, and then granting the service principal the necessary permissions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/credentials/index": {
+      "id": "user-documentation/credentials/index",
+      "title": "Credentials",
+      "description": "In order to ensure that the executor plugins have the required permissions and authentication to access the Cloud resources, proper credentials must be provided. For more details on each supported cloud provider, see below.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/gcp": {
+      "id": "user-documentation/gcp",
+      "title": "Google Cloud Platform",
+      "description": "Covalent Google Batch executor is an interface between Covalent and Google Cloud Platform’s Batch compute service. This executor allows execution of Covalent tasks on the Google Batch compute service.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/glossary": {
+      "id": "user-documentation/glossary",
+      "title": "Glossary",
+      "description": "API",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/add-bash-dependencies-to-electron": {
+      "id": "user-documentation/how-to/add-bash-dependencies-to-electron",
+      "title": "Adding Bash Dependencies to an Electron",
+      "description": "Bash dependencies can be passed to an electron as an argument to the electron decorator. The dependencies can take one of two forms:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/add-callable-dependencies-to-electron": {
+      "id": "user-documentation/how-to/add-callable-dependencies-to-electron",
+      "title": "Adding Callable Function Dependencies to an Electron",
+      "description": "Add functions to be invoked before or after executing an electron by using the electron's callbefore and callafter key parameters. The functions, or dependency calls, are run in the electron's execution environment and can be used, for example, to set up and tear down resources for the electron's use.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/add-constraints-to-lattice": {
+      "id": "user-documentation/how-to/add-constraints-to-lattice",
+      "title": "Adding Constraints to Tasks and Workflows",
+      "description": "Add constraints and execution directives to electrons by specifying them as arguments to the Covalent @electron decorator.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/add-electron-to-lattice": {
+      "id": "user-documentation/how-to/add-electron-to-lattice",
+      "title": "Adding Electrons to a Lattice <Goto link=\"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/how_to/coding/add_electron_to_lattice.ipynb\" />",
+      "description": "Construct a workflow by creating a function and attaching the Covalent @lattice decorator. Then, within the function, use electrons to do all the computational work.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/add-pip-dependencies-to-electron": {
+      "id": "user-documentation/how-to/add-pip-dependencies-to-electron",
+      "title": "Adding Pip Dependencies to an Electron",
+      "description": "There are three ways to declare Pip package dependencies to an electron:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/construct-bash-task": {
+      "id": "user-documentation/how-to/construct-bash-task",
+      "title": "Constructing Tasks from Bash Scripts",
+      "description": "Run a Bash script from within a workflow.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/construct-c-task": {
+      "id": "user-documentation/how-to/construct-c-task",
+      "title": "Constructing a Task from C Code",
+      "description": "Workflows can incorporate functions written in different languages, for example when a compiled C function is used to optimize performance. This example demonstrates how to construct a Lepton from a compiled C function.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/construct-electron": {
+      "id": "user-documentation/how-to/construct-electron",
+      "title": "Constructing a Task (Electron)",
+      "description": "An electron is a single task, the basic building block of a workflow. Construct an electron by writing a function that performs one step in a workflow.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/construct-lattice": {
+      "id": "user-documentation/how-to/construct-lattice",
+      "title": "Constructing a Workflow (Lattice)",
+      "description": "Lattices are workflows comprised of a sequence of tasks. In your Python code, a lattice is a function with the @lattice decorator.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/construct-lepton": {
+      "id": "user-documentation/how-to/construct-lepton",
+      "title": "Constructing an External Task Definition (Lepton)",
+      "description": "A lepton is a generalization of an electron (task). Leptons are used instead of electrons when the task definition is in a separate file, such as a Python module or a compiled C library. Leptons are particularly useful for workflows comprised of tasks in different languages. This example demonstrates how to construct a Lepton from a task definition in a Python module.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/customization": {
+      "id": "user-documentation/how-to/customization",
+      "title": "Customizing the Configuration",
+      "description": "If $COVALENTCONFIGDIR is defined in the user environment then the Covalent global configuration file is stored at $COVALENTCONFIGDIR/covalent.conf. Otherwise, the configuration is in ~/.config/covalent/covalent.conf.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/dir-trigger": {
+      "id": "user-documentation/how-to/dir-trigger",
+      "title": "Add a directory trigger",
+      "description": "In this guide we'll illustrate how to use a DirTrigger to trigger workflow runs automatically whenever a file in a directory gets modified.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/cancel-dispatch": {
+      "id": "user-documentation/how-to/execution/cancel-dispatch",
+      "title": "Cancel a running Workflow",
+      "description": "You can cancel a dispatched workflow before it completes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/choosing-conda-environments": {
+      "id": "user-documentation/how-to/execution/choosing-conda-environments",
+      "title": "Working in a Conda Environment",
+      "description": "You can choose a Conda environment when you choose an executor to be used in an electron. This can be useful if you have sandboxed environments for different task types, but need to use the tasks in a workflow, or if the workflow itself uses a different environment.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/choosing-executors": {
+      "id": "user-documentation/how-to/execution/choosing-executors",
+      "title": "Choosing an Executor for a Task (Electron)",
+      "description": "Within a lattice, every electron can use a different executor. These exectors can have different capabilities: different hardware, different computation strategies, and so on.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/covalent-cli": {
+      "id": "user-documentation/how-to/execution/covalent-cli",
+      "title": "Managing the Covalent Server",
+      "description": "Covalent provides a command line interface (CLI) to start, stop, and check the status of the server. Covalent also provides a browser-based GUI to view and manage workflow dispatches and results.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/creating-custom-executors": {
+      "id": "user-documentation/how-to/execution/creating-custom-executors",
+      "title": "Creating a Custom Executor",
+      "description": "Executors define how abackend resource handles computations. They specify everything about the resource: the hardware and configuration, the computation strategy, logic, and even goals.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/execute-individual-electron": {
+      "id": "user-documentation/how-to/execution/execute-individual-electron",
+      "title": "Executing an Individual Task (Electron)",
+      "description": "Prerequisites",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/execute-lattice": {
+      "id": "user-documentation/how-to/execution/execute-lattice",
+      "title": "Executing a Workflow (Lattice)",
+      "description": "To execute a lattice, use the Covalent dispatch() function.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/execute-lattice-multiple-times": {
+      "id": "user-documentation/how-to/execution/execute-lattice-multiple-times",
+      "title": "Executing a Workflow (Lattice) Multiple Times",
+      "description": "Execute a lattice multiple times with different parameters by starting the lattice from a loop. Covalent parallelizes the execution of the runs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/execute-multiple-lattices": {
+      "id": "user-documentation/how-to/execution/execute-multiple-lattices",
+      "title": "Executing Multiple Workflows (Lattices)",
+      "description": "Execute multiple lattices from the same script.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/execute-sublattice": {
+      "id": "user-documentation/how-to/execution/execute-sublattice",
+      "title": "Executing a Lattice as an Electron (Sublattice)",
+      "description": "You might want to encapsulate a computation that involves more than one electron and deploy it in workflows as a single unit. Wrap a lattice with the @electron decorator to run it as a self-contained unit in another lattice.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/execution/redispatch": {
+      "id": "user-documentation/how-to/execution/redispatch",
+      "title": "Re-executing a Workflow",
+      "description": "Use the Covalent redispatch command to re-execute a workflow with:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/file-transfers-for-workflows-local": {
+      "id": "user-documentation/how-to/file-transfers-for-workflows-local",
+      "title": "Transferring Local Files During Workflows",
+      "description": "Transfer files locally before or after executing an electron.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/file-transfers-to-from-azure_blob": {
+      "id": "user-documentation/how-to/file-transfers-to-from-azure_blob",
+      "title": "Transferring Files To and From Azure Blob Storage",
+      "description": "Retrieve files from an Azure Blob Storage container before executing a task, then upload files to a storage container after the task's execution.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/file-transfers-to-from-remote": {
+      "id": "user-documentation/how-to/file-transfers-to-from-remote",
+      "title": "Transferring Files To and From a Remote Host",
+      "description": "Transfer a local file to a remote host's filesystem using Rsync via SSH.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/file-transfers-to-from-s3": {
+      "id": "user-documentation/how-to/file-transfers-to-from-s3",
+      "title": "Transferring Files To and From an S3 Bucket",
+      "description": "Retrieve files from an Amazon S3 bucket before executing a task, then upload files to an S3 bucket after the task's execution.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/how-to-define": {
+      "id": "user-documentation/how-to/how-to-define",
+      "title": "Defining Custom Selector for a Quantum Cluster",
+      "description": "Required Selector Interface",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/how-to-guide": {
+      "id": "user-documentation/how-to/how-to-guide",
+      "title": "How-to Guide",
+      "description": "This guide is a collection of step-by-step instructions for tasks that are commonly (and in some cases not so commonly) encountered when using Covalent.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/looping": {
+      "id": "user-documentation/how-to/looping",
+      "title": "Looping",
+      "description": "The design pattern shown below is encouraged (when possible) for deploying multiple experiments using the for loop. This enables the independent experiments to be performed in parallel rather than sequentially.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/run-bash-command": {
+      "id": "user-documentation/how-to/run-bash-command",
+      "title": "Run a Bash Command",
+      "description": "Run a Bash command that returns information from the OS.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-electron-execution-result": {
+      "id": "user-documentation/how-to/status/query-electron-execution-result",
+      "title": "Querying the Results of All Tasks (Electrons) in a Workflow",
+      "description": "Query the result values of all electrons in a lattice at once.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-electron-execution-status": {
+      "id": "user-documentation/how-to/status/query-electron-execution-status",
+      "title": "Querying Task (Electron) Status in a Notebook",
+      "description": "Check the status of individual tasks in a workflow using the Covalent Result object.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-lattice-execution-result": {
+      "id": "user-documentation/how-to/status/query-lattice-execution-result",
+      "title": "Querying the Result of a Workflow (Lattice)",
+      "description": "Use the dispatch ID to locate and view the result from a previously completed workflow. Print individual attributes of the result.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-lattice-execution-status": {
+      "id": "user-documentation/how-to/status/query-lattice-execution-status",
+      "title": "Querying Workflow (Lattice) Execution Status in a Notebook",
+      "description": "Once you have dispatched a workflow, use the Covalent Result object to check run status of the lattice programmatically. You can also check the status of individual electrons.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-lattice-execution-time": {
+      "id": "user-documentation/how-to/status/query-lattice-execution-time",
+      "title": "Calculating Lattice Execution Time",
+      "description": "Calculate execution time of a workflow (lattice) after it ends by querying the Result object and subtracting the start time from the end time.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/status/query-multiple-lattice-execution-results": {
+      "id": "user-documentation/how-to/status/query-multiple-lattice-execution-results",
+      "title": "Querying Multiple Workflows (Lattices)",
+      "description": "Query the results of multiple workflows (lattices) run in the same notebook.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/test-electron": {
+      "id": "user-documentation/how-to/test-electron",
+      "title": "Testing an Electron",
+      "description": "You can execute an electron in a single-task workflow by simply adding a lattice decorator to the function. This technique is useful for testing and debugging individual workflow tasks in a controlled manner.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/time-trigger": {
+      "id": "user-documentation/how-to/time-trigger",
+      "title": "Add Time Trigger",
+      "description": "In this guide we'll illustrate how to use a TimeTrigger to trigger workflow runs automatically every x seconds.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/use-iterable": {
+      "id": "user-documentation/how-to/use-iterable",
+      "title": "Using an Iterable",
+      "description": "You can pass a slice of an iterable returned by one electron as an input to another iterable in a lattice.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/visualize-lattice": {
+      "id": "user-documentation/how-to/visualize-lattice",
+      "title": "Visualizing a Lattice",
+      "description": "You can view the transport graph of a lattice in the Covalent GUI after you send the lattice to the Covalent dispatcher. Sometimes though you'll want to view the lattice structure before you run it or before it's even completed. The Covalent Lattice class contains a function that enables you to view a lattice at any time without dispatching it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/how-to/wait-for-another-electron": {
+      "id": "user-documentation/how-to/wait-for-another-electron",
+      "title": "Waiting for Execution of Another Electron",
+      "description": "Covalent parallelizes execution of tasks (electrons) when their inputs and outputs are independent. You might nonetheless need an electron to wait for another electron to finish execution before starting.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/Migration_error": {
+      "id": "user-documentation/Migration_error",
+      "title": "Remedying Database Migration Errors",
+      "description": "When upgrading Covalent versions from 0.177.0 to a newer version, you may need to run database migrations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/sd-deploying": {
+      "id": "user-documentation/sd-deploying",
+      "title": "Deploying on AWS",
+      "description": "Deploy Covalent in an AWS account with any x86-based EC2 instance. Deploying on AWS Cloud enables you to scale your deployments based on compute needs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/sd-docker": {
+      "id": "user-documentation/sd-docker",
+      "title": "Deploying with Docker",
+      "description": "To run Covalent as a Docker container using public images, do the following.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/sd-systemd": {
+      "id": "user-documentation/sd-systemd",
+      "title": "Installing Covalent with Systemd",
+      "description": "We recommend that you not install Covalent directly at the system level as its Python version and package dependencies can conflict with those of the system. Instead, create a Python virtual environment with Covalent installed and manage Covalent with the systemd service. This approach prevents any Python conflicts.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/server-deployment": {
+      "id": "user-documentation/server-deployment",
+      "title": "Server Deployment",
+      "description": "Covalent supports both local and remote installation to suit different use cases. For quick prototyping and testing, running Covalent locally is sufficient.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/troubleshooting": {
+      "id": "user-documentation/troubleshooting",
+      "title": "Troubleshooting guide",
+      "description": "This page is dedicated to solutions to common issues encountered when using the Covalent platform.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/appendix": {
+      "id": "user-documentation/tutorials/appendix",
+      "title": "Appendix",
+      "description": "Function to create the analysis plot.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/autoencoders": {
+      "id": "user-documentation/tutorials/autoencoders",
+      "title": "Linear and convolutional autoencoders",
+      "description": "An autoencoder is a neural network that can be used to encode and decode data. The general structure of an autoencoder is shown in the figure below. It consists of two parts: an encoder and a decoder. The encoder compresses the input data into a lower dimensional representation (\"code\" in the schematic below, which is often referred to as the latent space representation) by extracting the most salient features of the data, while the decoder reconstructs the input data from the compressed representation. Therefore, autoencoder is often used for dimensionality reduction. In this tutorial, our goal is to compare the performance of two types of autoencoders, a linear autoencoder and a convolutional autoencoder, on reconstructing the Fashion-MNIST images. With the help of Covalent, we will see how to break a complex workflow into smaller and more manageable tasks, which allows users to track the task dependencies and execution results of individual steps. Another advantage of Covalent is its ability to auto-parallelize the execution of subtasks.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/dnn_comparison": {
+      "id": "user-documentation/tutorials/dnn_comparison",
+      "title": "Comparing Deep Learning Models for Sales Forecasting using Covalent",
+      "description": "Summary",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/ensemble": {
+      "id": "user-documentation/tutorials/ensemble",
+      "title": "Using Covalent for Ensemble Classification",
+      "description": "In this tutorial, we show how a quantum circuit can be initialized with two different sets of pre-trained parameters and used to create an ensemble model with Covalent and Pennylane to solve machine learning classification problem.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/hybrid": {
+      "id": "user-documentation/tutorials/hybrid",
+      "title": "Using Covalent with PennyLane for hybrid computation",
+      "description": "PennyLane is a popular Python library for differentiable programming of quantum computers that is well suited for quantum machine learning tasks. In this tutorial, we will demonstrate how to integrate Covalent with PennyLane for a simple hybrid quantum-classical optimization task. The hybrid computation shown here contains three paradigms Plugins and Hybrid Computation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/hybrid_neural_network": {
+      "id": "user-documentation/tutorials/hybrid_neural_network",
+      "title": "Training a Quantum-Classical Neural Network with Qiskit Runtime and AWS Batch",
+      "description": "The script below trains a hybrid neural network model that classifies images of dogs and cats.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/iris": {
+      "id": "user-documentation/tutorials/iris",
+      "title": "Iris classification",
+      "description": "This section of the tutorial makes use of the Iris Dataset which contains the features of the flowers needed to perform a classification task and get the corresponding flower names. We use amplitude encoding for encoding the features in the dataset and use a Quantum machine learning model to perform the classification.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/mnist": {
+      "id": "user-documentation/tutorials/mnist",
+      "title": "MNIST classifier tutorial",
+      "description": "MNIST database of handwritten digits is a popular dataset to demonstrate machine learning classifiers. The dataset is comprised of handwritten digits with the corresponding ground truth label. In this tutorial (based on [1]), we train a basic Neural Network (NN) classifier using PyTorch.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/nitrogencopper": {
+      "id": "user-documentation/tutorials/nitrogencopper",
+      "title": "Simulating the Nitrogen-Copper interaction",
+      "description": "In this tutorial, we discuss how covalent can be used to manage workflows to simulate the quantum interactions between Nitrogen molecules and a slab of Copper. The computations for the quantum interactions are performed using the Atomic Simulation Environment (ase) package.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/parityclassify": {
+      "id": "user-documentation/tutorials/parityclassify",
+      "title": "Parity Classification",
+      "description": "This notebook is adapted from the Pennylane tutorial on variational quantum classifiers. We show how to combine Pennylane's QML facilities with Covalent to learn the parity function",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/qaoa": {
+      "id": "user-documentation/tutorials/qaoa",
+      "title": "Using QAOA to Solve the Max-Cut Problem",
+      "description": "Quantum machine learning typically involves building machine learning algorithms that are a hybrid of quantum and classical components - for example, you may have classical data prepared using classical preprocessing steps, encode that data into a quantum circuit, and use classical machine learning methods to optimize circuit parameters.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/qpuaccessibm": {
+      "id": "user-documentation/tutorials/qpuaccessibm",
+      "title": "Accessing IBM Quantum",
+      "description": "Register for a free account at https://quantum-computing.ibm.com/ and copy your API token from the IBM Quantum Dashboard (first page on login).",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/quantumchemistry": {
+      "id": "user-documentation/tutorials/quantumchemistry",
+      "title": "Dynamic Quantum Chemistry Workflow",
+      "description": "In this tutorial, we discuss how covalent can be used to construct and manage dynamic workflows that are common in quantum-chemical simulations. In this example, given a crystal structure, we seek to do the following:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/quantumembedding": {
+      "id": "user-documentation/tutorials/quantumembedding",
+      "title": "Training quantum embedding kernels for classification",
+      "description": "In this tutorial we will dive deeper into the the concept of quantum embedding kernels, or quantum kernels. We will train a quantum kernel based on a similarity measure called the kernel-target alignment and see how the training improves the performance of it as a classifier. We will demonstrate how to use Covalent to orchestrate the whole workflow composed of multiple smaller subtasks. Once the workflow is dispatched, we will be able to track the results of each subtask through the Covalent result manager. In the meantime, all the subtasks constructed can be called as normal Python functions, giving users more flexibility in testing and debugging. For more details about the quantum embedding kernels, we refer the reader to this PennyLane demo: Training and evaluating quantum kernels, which this tutorial is based on.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/spacetime": {
+      "id": "user-documentation/tutorials/spacetime",
+      "title": "Classifying discrete spacetimes by dimension",
+      "description": "Note: Breaks on M1 Macs because of tensorflow causing kernel panic.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/star_tracker": {
+      "id": "user-documentation/tutorials/star_tracker",
+      "title": "Tracking stars in the night sky",
+      "description": "In this tutorial, we'll see how to use covalent to manage all the tasks involved in tracking the position of a star in the users' night sky. Stars and other celestial objects have coordinates distributed on the celestial sphere, a projected sphere surrounding the Earth, and tracking celestial objects means transforming celestial coordinates into Earth coordinates at a particular location.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/svm": {
+      "id": "user-documentation/tutorials/svm",
+      "title": "Classical and quantum support vector machines",
+      "description": "In this tutorial, we use Covalent to orchestrate a workflow that compares the perfomance of the SVM and QSVM models. We use the scikit-learn package for SVM and qiskitmachinelearning for QSVM implementations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/tutorials": {
+      "id": "user-documentation/tutorials/tutorials",
+      "title": "Tutorials",
+      "description": "The following tutorials demonstrate examples of how Covalent is used in real-world settings. Make sure you have properly installed Covalent and have started the Covalent server before attempting to reproduce a tutorial.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/tutorials/violating_the_chsh": {
+      "id": "user-documentation/tutorials/violating_the_chsh",
+      "title": "Violating the CHSH Inequality on IBM Quantum Backends",
+      "description": "Background",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/copying-python": {
+      "id": "user-documentation/user-interface/copying-python",
+      "title": "Copying Python Objects from the UI",
+      "description": "Some fields in the Graph View are copyable as string-serialized Python objects. These copyable Python objects include the Input and Result fields in the Lattice Sidebar and the Electron Sidebar, and are identified by the message Copy python object when you mouse over the field.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/dark-cluster": {
+      "id": "user-documentation/user-interface/dark-cluster",
+      "title": "Dask Cluster",
+      "description": "Use the Dask Cluster Settings page to view preferences for the Dask cluster that backs the Covalent default executor. The Dask Cluster settings are not editable in the Covalent GUI, but can be configured as described in the Dask documentation. In most cases there is no need to adjust the Dask configuration used with Covalent",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/dashboard": {
+      "id": "user-documentation/user-interface/dashboard",
+      "title": "Dashboard",
+      "description": "The Dashboard shows a list of workflows dispatched to the server, with summary of the dispatches at the top. The Dashboard is the default screen in the Covalent GUI.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/dispatch-summary": {
+      "id": "user-documentation/user-interface/dispatch-summary",
+      "title": "Dispatch Summary",
+      "description": "The Dispatch Summary is at the top of the Dashboard screen. It lists the following summary of all dispatches in the Covalent server database. The summary includes all dispatches regardless of the current filter on the dispatch list.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/dispatcher": {
+      "id": "user-documentation/user-interface/dispatcher",
+      "title": "Dispatcher",
+      "description": "Use the Dispatcher Settings page to view preferences for the Covalent workflow dispatcher service.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/electron-sidebar": {
+      "id": "user-documentation/user-interface/electron-sidebar",
+      "title": "Electron Sidebar",
+      "description": "The Electron sidebar shows information about a selected task node. Click an electron node in the transport graph to display the sidebar.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/electron-subsidebar": {
+      "id": "user-documentation/user-interface/electron-subsidebar",
+      "title": "Electron Sidebar",
+      "description": "When you select a sublattice from the transport graph, the Electron sidebar shows only information about the sublattice as a unit; it does not describe the sublattice’s internals. To see inside a sublattice, select the sublattice from the Sublattice tab in the Lattice sidebar.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/executor": {
+      "id": "user-documentation/user-interface/executor",
+      "title": "Executors",
+      "description": "Use the Executors Settings page to view and change executor preferences for all executors. When you use a remote executor, the executor’s settings become available in the Executors list. The built-in local and Dask cluster executors are always available.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/filter": {
+      "id": "user-documentation/user-interface/filter",
+      "title": "Filter by Status",
+      "description": "Click one of (All, Running, Completed, Failed) above the dispatch list to filter the list by status.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/graph-view": {
+      "id": "user-documentation/user-interface/graph-view",
+      "title": "Graph View",
+      "description": "The Graph View screen shows detailed information about a single dispatch.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/lattice-sidebar": {
+      "id": "user-documentation/user-interface/lattice-sidebar",
+      "title": "Lattice Sidebar",
+      "description": "The Lattice sidebar shows details for the selected workflow dispatch. It displays the following:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/pagination": {
+      "id": "user-documentation/user-interface/pagination",
+      "title": "Pagination",
+      "description": "Pagination divides the dispatch list into pages with up to 10 records per page.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/preview-electron-sidebar": {
+      "id": "user-documentation/user-interface/preview-electron-sidebar",
+      "title": "Preview Electron Sidebar",
+      "description": "Click a node to view the Electron sidebar on the Preview Transport Graph screen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/preview-lattice-sidebar": {
+      "id": "user-documentation/user-interface/preview-lattice-sidebar",
+      "title": "Preview Lattice Sidebar",
+      "description": "The Lattice sidebar is shown on the left side of the Preview Transport Graph screen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/preview-transport-graph": {
+      "id": "user-documentation/user-interface/preview-transport-graph",
+      "title": "Preview Transport Graph",
+      "description": "To view the transport graph of the lattice most recently drawn with the lattice.draw() function, click the preview icon on the left edge of the screen. This brings up the Preview Transport Graph screen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/sdk": {
+      "id": "user-documentation/user-interface/sdk",
+      "title": "SDK",
+      "description": "Use the SDK Settings page to view and change SDK-related preferences.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/search": {
+      "id": "user-documentation/user-interface/search",
+      "title": "Search",
+      "description": "Use the Search text box to find specific dispatches.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/server-lo-pagination": {
+      "id": "user-documentation/user-interface/server-lo-pagination",
+      "title": "Pagination",
+      "description": "The Covalent GUI presents the server log in pages of up to 70 records per page.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/server-log": {
+      "id": "user-documentation/user-interface/server-log",
+      "title": "Server Log",
+      "description": "To view the Covalent server log, click the  icon.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/server-log-search": {
+      "id": "user-documentation/user-interface/server-log-search",
+      "title": "Search",
+      "description": "Type three or more characters in the Search text field to limit the log to entries containing the search string. The string is a match if it appears in the Status or in the Log message. The search is not case-sensitive.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/server-log-sort": {
+      "id": "user-documentation/user-interface/server-log-sort",
+      "title": "Sort",
+      "description": "Click Time or Status to sort the log by that column. Click  or  to sort ascending or descending, respectively. Time is sorted chronologically; Status is alphabetical.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/settings": {
+      "id": "user-documentation/user-interface/settings",
+      "title": "Settings",
+      "description": "Use the Settings page to view and edit configuration settings for the Covalent server.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/sort": {
+      "id": "user-documentation/user-interface/sort",
+      "title": "Sort",
+      "description": "Displays a list view of sublattices in the lattice. Click a row to display a sublattice in the Transport Graph area. The Sublattices tab is only shown if the transport graph contains one or more sublattices.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/sublattice-views": {
+      "id": "user-documentation/user-interface/sublattice-views",
+      "title": "Sublattice Views",
+      "description": "When the Graph View screen displays a dispatch containing one or more sublattices, the screen has variations that enable you to view details of the sublattices.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/sublattices-sidebar": {
+      "id": "user-documentation/user-interface/sublattices-sidebar",
+      "title": "Sublattices Sidebar",
+      "description": "The Sublattices sidebar has two tabs:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/sublattices-transport-graph": {
+      "id": "user-documentation/user-interface/sublattices-transport-graph",
+      "title": "Sublattices Transport Graph",
+      "description": "A sublattice is a lattice wrapped with an electron decorator so that it behaves as a single task. For example:",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/terminal": {
+      "id": "user-documentation/user-interface/terminal",
+      "title": "Terminal",
+      "description": "Use the Terminal page to execute shell commands. Provided as a convenience for installing dependencies, executing scripted workflows, and so on. This is especially convenient if you host Covalent on a server since it eliminates the need for SSH logins.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/the-ui": {
+      "id": "user-documentation/user-interface/the-ui",
+      "title": "The User Interface",
+      "description": "This User Interface Reference describes the functionality available in the Covalent GUI, organized by screen.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/transport-graph": {
+      "id": "user-documentation/user-interface/transport-graph",
+      "title": "Transport Graph",
+      "description": "The Transport Graph displays the directed acyclic graph representing the dispatch.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/ui": {
+      "id": "user-documentation/user-interface/ui",
+      "title": "User Interface",
+      "description": "Use the User Interface Settings page to view preferences for the Covalent GUI.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/workflow-data": {
+      "id": "user-documentation/user-interface/workflow-data",
+      "title": "Workflow Data",
+      "description": "Use the Workflow Data Settings page to view preferences for the Covalent workflow database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/workflow-dispatch-deletetion": {
+      "id": "user-documentation/user-interface/workflow-dispatch-deletetion",
+      "title": "Deleting Dispatches",
+      "description": "Select checkboxes on the left of dispatch lines to delete those dispatches.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/workflow-dispatch-list": {
+      "id": "user-documentation/user-interface/workflow-dispatch-list",
+      "title": "Workflow Dispatch List",
+      "description": "A filterable, sortable list of all dispatches in the Covalent server database. A typical dispatch list is shown below.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-documentation/user-interface/workflow-preview-graph": {
+      "id": "user-documentation/user-interface/workflow-preview-graph",
+      "title": "Workflow Preview Graph",
+      "description": "The Workflow Preview Graph shows the transport graph of the lattice on which the lattice.draw() function was last called. This is useful, for example, to verify the logic of a workflow before dispatching it to run on costly compute resources.",
+      "sidebar": "tutorialSidebar"
+    },
+    "what-covalent": {
+      "id": "what-covalent",
+      "title": "",
+      "description": "What is Covalent?",
+      "sidebar": "tutorialSidebar"
+    },
+    "why-covalent": {
+      "id": "why-covalent",
+      "title": "Why Covalent?",
+      "description": "Covalent overcomes computational and operational challenges inherent in AI/ML experimentation."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/sdk",
+  "id": "user-documentation/user-interface/sdk",
+  "title": "SDK",
+  "description": "Use the SDK Settings page to view and change SDK-related preferences.",
+  "source": "@site/docs/user-documentation/user-interface/sdk.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/sdk",
+  "permalink": "/docs/user-documentation/user-interface/sdk",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SDK",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

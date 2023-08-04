@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cloud/cloud_api",
+  "id": "cloud/cloud_api",
+  "title": "Cloud API",
+  "description": "",
+  "source": "@site/docs/cloud/cloud_api.md",
+  "sourceDirName": "cloud",
+  "slug": "/cloud/cloud_api",
+  "permalink": "/docs/cloud/cloud_api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How - to",
+    "permalink": "/docs/cloud/cloud_how_to"
+  },
+  "next": {
+    "title": "",
+    "permalink": "/docs/plugin"
+  }
+}

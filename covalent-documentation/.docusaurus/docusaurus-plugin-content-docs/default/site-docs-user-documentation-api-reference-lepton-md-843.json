@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/lepton",
+  "id": "user-documentation/api-reference/lepton",
+  "title": "Lepton",
+  "description": "Language Decorators",
+  "source": "@site/docs/user-documentation/api-reference/lepton.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/lepton",
+  "permalink": "/docs/user-documentation/api-reference/lepton",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lepton",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

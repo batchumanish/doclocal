@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-depsbash",
+  "id": "user-documentation/api-reference/scode-depsbash",
+  "title": "Source code for covalent._workflow.depsbash",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-depsbash.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-depsbash",
+  "permalink": "/docs/user-documentation/api-reference/scode-depsbash",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._workflow.depsbash",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

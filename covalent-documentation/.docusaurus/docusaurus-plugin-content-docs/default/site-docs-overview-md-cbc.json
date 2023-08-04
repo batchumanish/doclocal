@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Overview",
+  "id": "Overview",
+  "title": "Overview",
+  "description": "Covalent is a powerful open-source orchestration platform designed to harmonize the dynamic and complex world of advanced computing. It streamlines the utilization and management of disparate computational resources, encompassing classical high-performance computing (HPC), quantum computing, and AI/ML paradigms. Covalent is a workflow management tool, designed for the orchestration of, and seamless communication between these distinct systems, empowering teams to focus on higher-value R&D objectives.",
+  "source": "@site/docs/Overview.md",
+  "sourceDirName": ".",
+  "slug": "/Overview",
+  "permalink": "/docs/Overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/get-started/quick-start"
+  }
+}

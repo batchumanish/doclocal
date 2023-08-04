@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/ensemble",
+  "id": "user-documentation/tutorials/ensemble",
+  "title": "Using Covalent for Ensemble Classification",
+  "description": "In this tutorial, we show how a quantum circuit can be initialized with two different sets of pre-trained parameters and used to create an ensemble model with Covalent and Pennylane to solve machine learning classification problem.",
+  "source": "@site/docs/user-documentation/tutorials/ensemble.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/ensemble",
+  "permalink": "/docs/user-documentation/tutorials/ensemble",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Using Covalent for Ensemble Classification"
+  },
+  "sidebar": "tutorialSidebar"
+}

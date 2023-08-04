@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/add-callable-dependencies-to-electron",
+  "id": "user-documentation/how-to/add-callable-dependencies-to-electron",
+  "title": "Adding Callable Function Dependencies to an Electron",
+  "description": "Add functions to be invoked before or after executing an electron by using the electron's callbefore and callafter key parameters. The functions, or dependency calls, are run in the electron's execution environment and can be used, for example, to set up and tear down resources for the electron's use.",
+  "source": "@site/docs/user-documentation/how-to/add-callable-dependencies-to-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/add-callable-dependencies-to-electron",
+  "permalink": "/docs/user-documentation/how-to/add-callable-dependencies-to-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Adding Callable Function Dependencies to an Electron"
+  },
+  "sidebar": "tutorialSidebar"
+}

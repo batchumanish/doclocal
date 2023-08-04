@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/iris",
+  "id": "user-documentation/tutorials/iris",
+  "title": "Iris classification",
+  "description": "This section of the tutorial makes use of the Iris Dataset which contains the features of the flowers needed to perform a classification task and get the corresponding flower names. We use amplitude encoding for encoding the features in the dataset and use a Quantum machine learning model to perform the classification.",
+  "source": "@site/docs/user-documentation/tutorials/iris.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/iris",
+  "permalink": "/docs/user-documentation/tutorials/iris",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Iris classification"
+  },
+  "sidebar": "tutorialSidebar"
+}

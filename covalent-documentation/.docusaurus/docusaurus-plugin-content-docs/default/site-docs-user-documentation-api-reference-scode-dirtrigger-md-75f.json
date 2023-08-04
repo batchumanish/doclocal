@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-dirtrigger",
+  "id": "user-documentation/api-reference/scode-dirtrigger",
+  "title": "Source code for covalent.triggers.dir_trigger",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-dirtrigger.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-dirtrigger",
+  "permalink": "/docs/user-documentation/api-reference/scode-dirtrigger",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent.triggers.dir_trigger",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

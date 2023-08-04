@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/lattice-sidebar",
+  "id": "user-documentation/user-interface/lattice-sidebar",
+  "title": "Lattice Sidebar",
+  "description": "The Lattice sidebar shows details for the selected workflow dispatch. It displays the following:",
+  "source": "@site/docs/user-documentation/user-interface/lattice-sidebar.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/lattice-sidebar",
+  "permalink": "/docs/user-documentation/user-interface/lattice-sidebar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lattice Sidebar",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

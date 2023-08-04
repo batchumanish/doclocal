@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/construct-electron",
+  "id": "user-documentation/how-to/construct-electron",
+  "title": "Constructing a Task (Electron)",
+  "description": "An electron is a single task, the basic building block of a workflow. Construct an electron by writing a function that performs one step in a workflow.",
+  "source": "@site/docs/user-documentation/how-to/construct-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/construct-electron",
+  "permalink": "/docs/user-documentation/how-to/construct-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Constructing a Task (Electron)"
+  },
+  "sidebar": "tutorialSidebar"
+}

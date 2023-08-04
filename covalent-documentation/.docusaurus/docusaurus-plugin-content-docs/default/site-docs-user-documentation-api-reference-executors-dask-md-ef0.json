@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/dask",
+  "id": "user-documentation/api-reference/executors/dask",
+  "title": "Dask Executor",
+  "description": "Executes tasks (electrons) in a Dask cluster. This is the default executor when covalent is started without the --no-cluster flag.",
+  "source": "@site/docs/user-documentation/api-reference/executors/dask.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/dask",
+  "permalink": "/docs/user-documentation/api-reference/executors/dask",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dask Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

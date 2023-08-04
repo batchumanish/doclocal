@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/executor",
+  "id": "user-documentation/user-interface/executor",
+  "title": "Executors",
+  "description": "Use the Executors Settings page to view and change executor preferences for all executors. When you use a remote executor, the executor’s settings become available in the Executors list. The built-in local and Dask cluster executors are always available.",
+  "source": "@site/docs/user-documentation/user-interface/executor.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/executor",
+  "permalink": "/docs/user-documentation/user-interface/executor",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Executors",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

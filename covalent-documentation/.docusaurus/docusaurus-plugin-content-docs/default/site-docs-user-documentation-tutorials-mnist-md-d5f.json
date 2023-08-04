@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/mnist",
+  "id": "user-documentation/tutorials/mnist",
+  "title": "MNIST classifier tutorial",
+  "description": "MNIST database of handwritten digits is a popular dataset to demonstrate machine learning classifiers. The dataset is comprised of handwritten digits with the corresponding ground truth label. In this tutorial (based on [1]), we train a basic Neural Network (NN) classifier using PyTorch.",
+  "source": "@site/docs/user-documentation/tutorials/mnist.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/mnist",
+  "permalink": "/docs/user-documentation/tutorials/mnist",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "MNIST classifier tutorial"
+  },
+  "sidebar": "tutorialSidebar"
+}

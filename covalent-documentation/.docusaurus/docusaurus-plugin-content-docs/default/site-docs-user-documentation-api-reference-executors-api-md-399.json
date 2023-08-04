@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors-api",
+  "id": "user-documentation/api-reference/executors-api",
+  "title": "Executors",
+  "description": "Synchronous Base Executor Class",
+  "source": "@site/docs/user-documentation/api-reference/executors-api.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/executors-api",
+  "permalink": "/docs/user-documentation/api-reference/executors-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Task Helpers",
+    "permalink": "/docs/user-documentation/api-reference/taskhelpers"
+  },
+  "next": {
+    "title": "Dispatch Infrastructure",
+    "permalink": "/docs/user-documentation/api-reference/dispatch-infrastructure"
+  }
+}

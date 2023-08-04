@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/server-lo-pagination",
+  "id": "user-documentation/user-interface/server-lo-pagination",
+  "title": "Pagination",
+  "description": "The Covalent GUI presents the server log in pages of up to 70 records per page.",
+  "source": "@site/docs/user-documentation/user-interface/server-lo-pagination.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/server-lo-pagination",
+  "permalink": "/docs/user-documentation/user-interface/server-lo-pagination",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pagination",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

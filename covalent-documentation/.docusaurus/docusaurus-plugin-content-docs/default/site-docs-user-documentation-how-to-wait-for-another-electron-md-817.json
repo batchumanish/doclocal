@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/wait-for-another-electron",
+  "id": "user-documentation/how-to/wait-for-another-electron",
+  "title": "Waiting for Execution of Another Electron",
+  "description": "Covalent parallelizes execution of tasks (electrons) when their inputs and outputs are independent. You might nonetheless need an electron to wait for another electron to finish execution before starting.",
+  "source": "@site/docs/user-documentation/how-to/wait-for-another-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/wait-for-another-electron",
+  "permalink": "/docs/user-documentation/how-to/wait-for-another-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Waiting for Execution of Another Electron"
+  },
+  "sidebar": "tutorialSidebar"
+}

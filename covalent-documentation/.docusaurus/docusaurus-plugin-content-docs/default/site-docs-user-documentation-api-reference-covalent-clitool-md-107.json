@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/covalent-clitool",
+  "id": "user-documentation/api-reference/covalent-clitool",
+  "title": "Covalent CLI Tool",
+  "description": "This Command Line Interface (CLI) tool is used to manage Covalent server.",
+  "source": "@site/docs/user-documentation/api-reference/covalent-clitool.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/covalent-clitool",
+  "permalink": "/docs/user-documentation/api-reference/covalent-clitool",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent CLI Tool",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

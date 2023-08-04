@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/violating_the_chsh",
+  "id": "user-documentation/tutorials/violating_the_chsh",
+  "title": "Violating the CHSH Inequality on IBM Quantum Backends",
+  "description": "Background",
+  "source": "@site/docs/user-documentation/tutorials/violating_the_chsh.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/violating_the_chsh",
+  "permalink": "/docs/user-documentation/tutorials/violating_the_chsh",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Violating the CHSH Inequality on IBM Quantum Backends"
+  },
+  "sidebar": "tutorialSidebar"
+}

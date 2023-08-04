@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-electron-execution-result",
+  "id": "user-documentation/how-to/status/query-electron-execution-result",
+  "title": "Querying the Results of All Tasks (Electrons) in a Workflow",
+  "description": "Query the result values of all electrons in a lattice at once.",
+  "source": "@site/docs/user-documentation/how-to/status/query-electron-execution-result.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-electron-execution-result",
+  "permalink": "/docs/user-documentation/how-to/status/query-electron-execution-result",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Querying the Results of All Tasks (Electrons) in a Workflow"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/preview-lattice-sidebar",
+  "id": "user-documentation/user-interface/preview-lattice-sidebar",
+  "title": "Preview Lattice Sidebar",
+  "description": "The Lattice sidebar is shown on the left side of the Preview Transport Graph screen.",
+  "source": "@site/docs/user-documentation/user-interface/preview-lattice-sidebar.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/preview-lattice-sidebar",
+  "permalink": "/docs/user-documentation/user-interface/preview-lattice-sidebar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Preview Lattice Sidebar",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

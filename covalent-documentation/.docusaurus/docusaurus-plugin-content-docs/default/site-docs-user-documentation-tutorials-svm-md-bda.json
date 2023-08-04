@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/svm",
+  "id": "user-documentation/tutorials/svm",
+  "title": "Classical and quantum support vector machines",
+  "description": "In this tutorial, we use Covalent to orchestrate a workflow that compares the perfomance of the SVM and QSVM models. We use the scikit-learn package for SVM and qiskitmachinelearning for QSVM implementations.",
+  "source": "@site/docs/user-documentation/tutorials/svm.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/svm",
+  "permalink": "/docs/user-documentation/tutorials/svm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Classical and quantum support vector machines"
+  },
+  "sidebar": "tutorialSidebar"
+}

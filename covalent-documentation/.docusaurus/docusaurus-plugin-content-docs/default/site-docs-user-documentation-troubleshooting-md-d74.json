@@ -1,0 +1,27 @@
+{
+  "unversionedId": "user-documentation/troubleshooting",
+  "id": "user-documentation/troubleshooting",
+  "title": "Troubleshooting guide",
+  "description": "This page is dedicated to solutions to common issues encountered when using the Covalent platform.",
+  "source": "@site/docs/user-documentation/troubleshooting.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/troubleshooting",
+  "permalink": "/docs/user-documentation/troubleshooting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Troubleshooting guide",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent-Patterns",
+    "permalink": "/docs/user-documentation/covalent-patterns/patterns"
+  },
+  "next": {
+    "title": "Server Deployment",
+    "permalink": "/docs/user-documentation/server-deployment"
+  }
+}

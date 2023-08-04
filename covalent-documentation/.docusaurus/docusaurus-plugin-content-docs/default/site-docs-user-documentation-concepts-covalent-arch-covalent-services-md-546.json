@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/concepts/covalent-arch/covalent-services",
+  "id": "user-documentation/concepts/covalent-arch/covalent-services",
+  "title": "Covalent Services",
+  "description": "The Covalent server runs as a service on your local machine or on a server. The service contains a dispatcher that analyzes workflows (lattices) and hands its component functions (electrons) off to executors. Each executor is an adaptor to a backend hardware resource. Covalent has a growing list of turn-key executors for common compute backends. If no executor exists yet for your compute platform, Covalent provides base classes for writing your own.",
+  "source": "@site/docs/user-documentation/concepts/covalent-arch/covalent-services.md",
+  "sourceDirName": "user-documentation/concepts/covalent-arch",
+  "slug": "/user-documentation/concepts/covalent-arch/covalent-services",
+  "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-services",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent Services"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Covalent SDK",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-sdk"
+  },
+  "next": {
+    "title": "The Covalent GUI",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-gui"
+  }
+}

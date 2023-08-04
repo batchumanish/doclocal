@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cloud/covalent_cloud_main",
+  "id": "cloud/covalent_cloud_main",
+  "title": "Covalent Cloud",
+  "description": "Welcome to the documentation for Covalent Cloud, the managed version of the powerful Covalent open-source orchestration platform. Covalent Cloud is designed to make your advanced computing tasks even more seamless and straightforward by abstracting away the complexities of cloud computing, letting you focus on your work and innovation. While Covalent already provides an abstraction layer for cloud providers, users are still required to have a basic understanding of various cloud services and cloud tools like terraform, cloud storage setup etc. Covalent Cloud takes this abstraction a step further by removing the need for users to be familiar with the intricacies of these technologies. With Covalent Cloud, you can concentrate on your workloads, algorithms, and research without worrying about the underlying compute.",
+  "source": "@site/docs/cloud/covalent_cloud_main.md",
+  "sourceDirName": "cloud",
+  "slug": "/cloud/covalent_cloud_main",
+  "permalink": "/docs/cloud/covalent_cloud_main",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Redispatching Workflows",
+    "permalink": "/docs/features/redispatch"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/cloud/cloud_quickstart"
+  }
+}

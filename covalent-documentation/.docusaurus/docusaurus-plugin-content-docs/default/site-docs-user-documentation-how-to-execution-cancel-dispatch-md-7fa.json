@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/cancel-dispatch",
+  "id": "user-documentation/how-to/execution/cancel-dispatch",
+  "title": "Cancel a running Workflow",
+  "description": "You can cancel a dispatched workflow before it completes.",
+  "source": "@site/docs/user-documentation/how-to/execution/cancel-dispatch.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/cancel-dispatch",
+  "permalink": "/docs/user-documentation/how-to/execution/cancel-dispatch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Cancel a running Workflow"
+  },
+  "sidebar": "tutorialSidebar"
+}

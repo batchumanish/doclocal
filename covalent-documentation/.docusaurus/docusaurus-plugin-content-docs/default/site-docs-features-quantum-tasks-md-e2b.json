@@ -1,0 +1,26 @@
+{
+  "unversionedId": "features/quantumTasks",
+  "id": "features/quantumTasks",
+  "title": "Distributed Quantum Circuits with Quantum Electrons",
+  "description": "Covalent Quantum Electrons (QElectrons) mark a unique development in the quantum computing software stack. QElectrons facilitate scalable, concurrent, and distributed execution of circuit calculations. As an extension of Covalent's orchestration capabilities, QElectrons provide granular control over quantum resources within standard workflow Electrons, mirroring the functionality provided for classical resources. This system brings observability, caching, monitoring, and other useful features from scalable classical machine learning stacks into the quantum context.",
+  "source": "@site/docs/features/quantumTasks.md",
+  "sourceDirName": "features",
+  "slug": "/features/quantumTasks",
+  "permalink": "/docs/features/quantumTasks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Distributed Quantum Circuits with Quantum Electrons"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Covalent GUI",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-gui"
+  },
+  "next": {
+    "title": "Automate Repetitive Tasks with Triggers",
+    "permalink": "/docs/features/triggers"
+  }
+}

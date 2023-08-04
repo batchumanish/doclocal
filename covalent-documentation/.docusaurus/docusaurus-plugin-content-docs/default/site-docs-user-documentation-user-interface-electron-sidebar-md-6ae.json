@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/electron-sidebar",
+  "id": "user-documentation/user-interface/electron-sidebar",
+  "title": "Electron Sidebar",
+  "description": "The Electron sidebar shows information about a selected task node. Click an electron node in the transport graph to display the sidebar.",
+  "source": "@site/docs/user-documentation/user-interface/electron-sidebar.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/electron-sidebar",
+  "permalink": "/docs/user-documentation/user-interface/electron-sidebar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Electron Sidebar",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

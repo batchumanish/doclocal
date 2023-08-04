@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cloud/cloud_how_to",
+  "id": "cloud/cloud_how_to",
+  "title": "How - to",
+  "description": "",
+  "source": "@site/docs/cloud/cloud_how_to.md",
+  "sourceDirName": "cloud",
+  "slug": "/cloud/cloud_how_to",
+  "permalink": "/docs/cloud/cloud_how_to",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/cloud/cloud_quickstart"
+  },
+  "next": {
+    "title": "Cloud API",
+    "permalink": "/docs/cloud/cloud_api"
+  }
+}

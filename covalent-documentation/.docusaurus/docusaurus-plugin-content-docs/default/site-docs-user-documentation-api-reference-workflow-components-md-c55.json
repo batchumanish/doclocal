@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/api-reference/workflow-components",
+  "id": "user-documentation/api-reference/workflow-components",
+  "title": "Workflow Components",
+  "description": "Electron",
+  "source": "@site/docs/user-documentation/api-reference/workflow-components.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/workflow-components",
+  "permalink": "/docs/user-documentation/api-reference/workflow-components",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent API",
+    "permalink": "/docs/user-documentation/api-reference/cov-api"
+  },
+  "next": {
+    "title": "Task Helpers",
+    "permalink": "/docs/user-documentation/api-reference/taskhelpers"
+  }
+}

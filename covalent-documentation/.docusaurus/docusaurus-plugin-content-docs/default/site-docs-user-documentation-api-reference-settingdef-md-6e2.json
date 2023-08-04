@@ -1,0 +1,14 @@
+{
+  "unversionedId": "user-documentation/api-reference/settingdef",
+  "id": "user-documentation/api-reference/settingdef",
+  "title": "Setting Defaults",
+  "description": "Default configuration for covalent can be set by defining the environment variable COVALENTCONFIGDIR. By default, config files are stored in ~/.config/covalent/covalent.conf.",
+  "source": "@site/docs/user-documentation/api-reference/settingdef.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/settingdef",
+  "permalink": "/docs/user-documentation/api-reference/settingdef",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

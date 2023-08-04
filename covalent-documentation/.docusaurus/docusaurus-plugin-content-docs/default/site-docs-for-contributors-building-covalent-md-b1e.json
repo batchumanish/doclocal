@@ -1,0 +1,14 @@
+{
+  "unversionedId": "for-contributors/building-covalent",
+  "id": "for-contributors/building-covalent",
+  "title": "Building Covalent from Source",
+  "description": "To download and install Covalent from source, follow the steps below.",
+  "source": "@site/docs/for-contributors/building-covalent.md",
+  "sourceDirName": "for-contributors",
+  "slug": "/for-contributors/building-covalent",
+  "permalink": "/docs/for-contributors/building-covalent",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

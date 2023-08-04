@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/data-transfer",
+  "id": "user-documentation/api-reference/data-transfer",
+  "title": "File and Data Transfer",
+  "description": "Basic File transfer interface",
+  "source": "@site/docs/user-documentation/api-reference/data-transfer.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/data-transfer",
+  "permalink": "/docs/user-documentation/api-reference/data-transfer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "File and Data Transfer",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

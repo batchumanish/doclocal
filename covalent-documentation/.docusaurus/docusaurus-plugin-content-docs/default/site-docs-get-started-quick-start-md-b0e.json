@@ -1,0 +1,26 @@
+{
+  "unversionedId": "get-started/quick-start",
+  "id": "get-started/quick-start",
+  "title": "Quick Start",
+  "description": "To quickly install Covalent and run a short demo, follow the four steps below.",
+  "source": "@site/docs/get-started/quick-start.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/quick-start",
+  "permalink": "/docs/get-started/quick-start",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Quick Start",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/Overview"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/get-started/install"
+  }
+}

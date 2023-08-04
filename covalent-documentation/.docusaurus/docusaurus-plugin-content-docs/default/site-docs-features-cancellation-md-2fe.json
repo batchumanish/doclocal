@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/cancellation",
+  "id": "features/cancellation",
+  "title": "Cancel with Confidence: Efficiently Manage Workflows in Covalent",
+  "description": "Covalent's cancelation feature is an indispensable tool that empowers users to manage their workflows effectively, enabling them to stop any task or workflow from consuming excessive resources or taking too long to complete, thereby optimizing the use of their computing resources. While other tools focus solely on production workflows, Covalent supports research-based and production workflows, which require more flexibility and adaptability to accommodate modifications. The workflow cancelation feature is often missing in most ETL and workflow orchestrators due to their design focus on automating and managing business processes, ensuring the smooth and uninterrupted operation of predetermined workflows. However, research-based workflows require more adaptability and flexibility, making canceling workflows and tasks an essential feature. With Covalent's cancelation feature, users can take complete control of their workflows, maintain efficient workflow management, and avoid wasteful consumption of resources.",
+  "source": "@site/docs/features/cancellation.md",
+  "sourceDirName": "features",
+  "slug": "/features/cancellation",
+  "permalink": "/docs/features/cancellation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Automate Repetitive Tasks with Triggers",
+    "permalink": "/docs/features/triggers"
+  },
+  "next": {
+    "title": "Effortlessly Leverage Heterogeneous Computing with Covalent Executors",
+    "permalink": "/docs/features/executors"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/braketqubit",
+  "id": "user-documentation/api-reference/executors/braketqubit",
+  "title": "AWS Braket Qubit Executor",
+  "description": "This quantum executor accesses quantum resources operating under the qubit model as made available through AWS (\"braket.aws.qubit\").",
+  "source": "@site/docs/user-documentation/api-reference/executors/braketqubit.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/braketqubit",
+  "permalink": "/docs/user-documentation/api-reference/executors/braketqubit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS Braket Qubit Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

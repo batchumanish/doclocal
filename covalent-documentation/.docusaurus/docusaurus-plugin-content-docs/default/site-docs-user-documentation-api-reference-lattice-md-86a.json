@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/lattice",
+  "id": "user-documentation/api-reference/lattice",
+  "title": "Lattice",
+  "description": "@covalent.lattice(\\func=None, \\*, backend=None, executor=None, workflowexecutor=None, depsbash=None, depspip=None, callbefore=[], callafter=[], triggers=None)",
+  "source": "@site/docs/user-documentation/api-reference/lattice.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/lattice",
+  "permalink": "/docs/user-documentation/api-reference/lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lattice",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

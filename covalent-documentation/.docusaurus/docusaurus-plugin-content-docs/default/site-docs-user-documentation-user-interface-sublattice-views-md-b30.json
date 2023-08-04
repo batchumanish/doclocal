@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/sublattice-views",
+  "id": "user-documentation/user-interface/sublattice-views",
+  "title": "Sublattice Views",
+  "description": "When the Graph View screen displays a dispatch containing one or more sublattices, the screen has variations that enable you to view details of the sublattices.",
+  "source": "@site/docs/user-documentation/user-interface/sublattice-views.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/sublattice-views",
+  "permalink": "/docs/user-documentation/user-interface/sublattice-views",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sublattice Views",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph View",
+    "permalink": "/docs/user-documentation/user-interface/graph-view"
+  },
+  "next": {
+    "title": "Preview Transport Graph",
+    "permalink": "/docs/user-documentation/user-interface/preview-transport-graph"
+  }
+}

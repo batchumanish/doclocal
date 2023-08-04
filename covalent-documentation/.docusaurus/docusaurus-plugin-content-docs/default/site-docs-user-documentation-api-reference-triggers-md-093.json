@@ -1,0 +1,16 @@
+{
+  "unversionedId": "user-documentation/api-reference/triggers",
+  "id": "user-documentation/api-reference/triggers",
+  "title": "Triggers",
+  "description": "Execute a workflow triggered by a specific type of event",
+  "source": "@site/docs/user-documentation/api-reference/triggers.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/triggers",
+  "permalink": "/docs/user-documentation/api-reference/triggers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Triggers"
+  }
+}

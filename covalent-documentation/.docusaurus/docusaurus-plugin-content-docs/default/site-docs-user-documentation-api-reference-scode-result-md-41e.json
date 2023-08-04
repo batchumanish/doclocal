@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-result",
+  "id": "user-documentation/api-reference/scode-result",
+  "title": "Source code for covalent._results_manager.result",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-result.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-result",
+  "permalink": "/docs/user-documentation/api-reference/scode-result",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._results_manager.result",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/azurebatch",
+  "id": "user-documentation/api-reference/executors/azurebatch",
+  "title": "Azure Batch Executor",
+  "description": "Covalent Azure Batch executor is an interface between Covalent and Microsoft Azure Batch. This executor allows execution of Covalent tasks on Azure’s Batch service.",
+  "source": "@site/docs/user-documentation/api-reference/executors/azurebatch.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/azurebatch",
+  "permalink": "/docs/user-documentation/api-reference/executors/azurebatch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Azure Batch Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

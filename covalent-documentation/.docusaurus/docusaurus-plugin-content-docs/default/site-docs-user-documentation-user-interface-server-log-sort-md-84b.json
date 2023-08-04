@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/server-log-sort",
+  "id": "user-documentation/user-interface/server-log-sort",
+  "title": "Sort",
+  "description": "Click Time or Status to sort the log by that column. Click  or  to sort ascending or descending, respectively. Time is sorted chronologically; Status is alphabetical.",
+  "source": "@site/docs/user-documentation/user-interface/server-log-sort.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/server-log-sort",
+  "permalink": "/docs/user-documentation/user-interface/server-log-sort",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sort",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/awsec2",
+  "id": "user-documentation/api-reference/executors/awsec2",
+  "title": "AWS EC2 Executor",
+  "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+  "source": "@site/docs/user-documentation/api-reference/executors/awsec2.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/awsec2",
+  "permalink": "/docs/user-documentation/api-reference/executors/awsec2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS EC2 Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

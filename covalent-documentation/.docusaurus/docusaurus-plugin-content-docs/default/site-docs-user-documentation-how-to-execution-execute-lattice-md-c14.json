@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/execute-lattice",
+  "id": "user-documentation/how-to/execution/execute-lattice",
+  "title": "Executing a Workflow (Lattice)",
+  "description": "To execute a lattice, use the Covalent dispatch() function.",
+  "source": "@site/docs/user-documentation/how-to/execution/execute-lattice.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/execute-lattice",
+  "permalink": "/docs/user-documentation/how-to/execution/execute-lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Executing a Workflow (Lattice)"
+  },
+  "sidebar": "tutorialSidebar"
+}

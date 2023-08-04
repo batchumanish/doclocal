@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/search",
+  "id": "user-documentation/user-interface/search",
+  "title": "Search",
+  "description": "Use the Search text box to find specific dispatches.",
+  "source": "@site/docs/user-documentation/user-interface/search.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/search",
+  "permalink": "/docs/user-documentation/user-interface/search",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Search",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

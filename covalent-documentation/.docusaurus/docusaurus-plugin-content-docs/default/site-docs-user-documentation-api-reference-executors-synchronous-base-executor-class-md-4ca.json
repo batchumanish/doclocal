@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/synchronous-base-executor-class",
+  "id": "user-documentation/api-reference/executors/synchronous-base-executor-class",
+  "title": "Synchronous Base Executor Class",
+  "description": "class covalent.executor.base.BaseExecutor(args, *kwargs)[source]",
+  "source": "@site/docs/user-documentation/api-reference/executors/synchronous-base-executor-class.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/synchronous-base-executor-class",
+  "permalink": "/docs/user-documentation/api-reference/executors/synchronous-base-executor-class",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Synchronous Base Executor Class",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

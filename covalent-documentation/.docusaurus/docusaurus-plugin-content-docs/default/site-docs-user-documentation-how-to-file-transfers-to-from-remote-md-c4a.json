@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/file-transfers-to-from-remote",
+  "id": "user-documentation/how-to/file-transfers-to-from-remote",
+  "title": "Transferring Files To and From a Remote Host",
+  "description": "Transfer a local file to a remote host's filesystem using Rsync via SSH.",
+  "source": "@site/docs/user-documentation/how-to/file-transfers-to-from-remote.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/file-transfers-to-from-remote",
+  "permalink": "/docs/user-documentation/how-to/file-transfers-to-from-remote",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Transferring Files To and From a Remote Host"
+  },
+  "sidebar": "tutorialSidebar"
+}

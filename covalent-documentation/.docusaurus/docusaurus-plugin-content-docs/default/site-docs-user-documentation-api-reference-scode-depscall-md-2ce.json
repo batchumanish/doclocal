@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-depscall",
+  "id": "user-documentation/api-reference/scode-depscall",
+  "title": "Source code for covalent._workflow.depscall",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-depscall.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-depscall",
+  "permalink": "/docs/user-documentation/api-reference/scode-depscall",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Source code for covalent._workflow.depscall",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/hybrid",
+  "id": "user-documentation/tutorials/hybrid",
+  "title": "Using Covalent with PennyLane for hybrid computation",
+  "description": "PennyLane is a popular Python library for differentiable programming of quantum computers that is well suited for quantum machine learning tasks. In this tutorial, we will demonstrate how to integrate Covalent with PennyLane for a simple hybrid quantum-classical optimization task. The hybrid computation shown here contains three paradigms Plugins and Hybrid Computation.",
+  "source": "@site/docs/user-documentation/tutorials/hybrid.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/hybrid",
+  "permalink": "/docs/user-documentation/tutorials/hybrid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Using Covalent with PennyLane for hybrid computation"
+  },
+  "sidebar": "tutorialSidebar"
+}

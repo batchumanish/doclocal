@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/redispatch",
+  "id": "user-documentation/how-to/execution/redispatch",
+  "title": "Re-executing a Workflow",
+  "description": "Use the Covalent redispatch command to re-execute a workflow with:",
+  "source": "@site/docs/user-documentation/how-to/execution/redispatch.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/redispatch",
+  "permalink": "/docs/user-documentation/how-to/execution/redispatch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Re-executing a Workflow"
+  },
+  "sidebar": "tutorialSidebar"
+}

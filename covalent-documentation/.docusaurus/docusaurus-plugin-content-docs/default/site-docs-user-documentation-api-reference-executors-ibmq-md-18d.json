@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/ibmq",
+  "id": "user-documentation/api-reference/executors/ibmq",
+  "title": "IBMQ Executor",
+  "description": "This quantum executor accesses IBM Quantum backends through Pennylane's \"qiskit.ibmq\" device. IBMQExecutor introduces thread-based parallelism for circuit execution on the \"qiskit.ibmq\" device. Note that the more efficient QiskitExecutor is recommended over IBMQExecutor for production use.",
+  "source": "@site/docs/user-documentation/api-reference/executors/ibmq.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/ibmq",
+  "permalink": "/docs/user-documentation/api-reference/executors/ibmq",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "IBMQ Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

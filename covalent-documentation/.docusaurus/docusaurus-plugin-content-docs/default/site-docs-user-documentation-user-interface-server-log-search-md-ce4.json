@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/server-log-search",
+  "id": "user-documentation/user-interface/server-log-search",
+  "title": "Search",
+  "description": "Type three or more characters in the Search text field to limit the log to entries containing the search string. The string is a match if it appears in the Status or in the Log message. The search is not case-sensitive.",
+  "source": "@site/docs/user-documentation/user-interface/server-log-search.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/server-log-search",
+  "permalink": "/docs/user-documentation/user-interface/server-log-search",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Search",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

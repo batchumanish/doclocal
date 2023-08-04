@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/scode",
+  "id": "user-documentation/api-reference/executors/scode",
+  "title": "Source code for covalent.executor.executor_plug",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/executors/scode.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/scode",
+  "permalink": "/docs/user-documentation/api-reference/executors/scode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

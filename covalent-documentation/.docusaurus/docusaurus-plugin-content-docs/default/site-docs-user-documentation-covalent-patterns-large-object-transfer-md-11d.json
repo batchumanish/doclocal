@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/large-object-transfer",
+  "id": "user-documentation/covalent-patterns/large-object-transfer",
+  "title": "Large Object Transfer",
+  "description": "For large result objects from electrons that need to be passed as input to another electron, write the object to a storage service, then read the object into the consuming electron.",
+  "source": "@site/docs/user-documentation/covalent-patterns/large-object-transfer.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/large-object-transfer",
+  "permalink": "/docs/user-documentation/covalent-patterns/large-object-transfer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Large Object Transfer"
+  },
+  "sidebar": "tutorialSidebar"
+}

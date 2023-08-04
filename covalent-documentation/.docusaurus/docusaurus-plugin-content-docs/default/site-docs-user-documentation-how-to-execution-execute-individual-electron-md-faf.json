@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/execute-individual-electron",
+  "id": "user-documentation/how-to/execution/execute-individual-electron",
+  "title": "Executing an Individual Task (Electron)",
+  "description": "Prerequisites",
+  "source": "@site/docs/user-documentation/how-to/execution/execute-individual-electron.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/execute-individual-electron",
+  "permalink": "/docs/user-documentation/how-to/execution/execute-individual-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Executing an Individual Task (Electron)"
+  },
+  "sidebar": "tutorialSidebar"
+}

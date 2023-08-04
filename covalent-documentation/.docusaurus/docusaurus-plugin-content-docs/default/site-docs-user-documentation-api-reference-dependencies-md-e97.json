@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/dependencies",
+  "id": "user-documentation/api-reference/dependencies",
+  "title": "Dependencies",
+  "description": "Main Covalent public functionality.",
+  "source": "@site/docs/user-documentation/api-reference/dependencies.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/dependencies",
+  "permalink": "/docs/user-documentation/api-reference/dependencies",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dependencies",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

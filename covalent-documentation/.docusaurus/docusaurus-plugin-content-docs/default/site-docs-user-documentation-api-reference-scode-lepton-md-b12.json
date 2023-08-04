@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/api-reference/scode-lepton",
+  "id": "user-documentation/api-reference/scode-lepton",
+  "title": "Source code for covalent._workflow.lepton",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/scode-lepton.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/scode-lepton",
+  "permalink": "/docs/user-documentation/api-reference/scode-lepton",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

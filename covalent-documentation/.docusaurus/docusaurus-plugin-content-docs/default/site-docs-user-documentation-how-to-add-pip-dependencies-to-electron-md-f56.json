@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/add-pip-dependencies-to-electron",
+  "id": "user-documentation/how-to/add-pip-dependencies-to-electron",
+  "title": "Adding Pip Dependencies to an Electron",
+  "description": "There are three ways to declare Pip package dependencies to an electron:",
+  "source": "@site/docs/user-documentation/how-to/add-pip-dependencies-to-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/add-pip-dependencies-to-electron",
+  "permalink": "/docs/user-documentation/how-to/add-pip-dependencies-to-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Adding Pip Dependencies to an Electron"
+  },
+  "sidebar": "tutorialSidebar"
+}

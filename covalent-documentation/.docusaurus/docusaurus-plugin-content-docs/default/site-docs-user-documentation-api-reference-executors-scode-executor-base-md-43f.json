@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/scode-executor-base",
+  "id": "user-documentation/api-reference/executors/scode-executor-base",
+  "title": "Source code for covalent.executor.base",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/executors/scode-executor-base.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/scode-executor-base",
+  "permalink": "/docs/user-documentation/api-reference/executors/scode-executor-base",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

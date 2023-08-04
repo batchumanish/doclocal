@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/how-to/customization",
+  "id": "user-documentation/how-to/customization",
+  "title": "Customizing the Configuration",
+  "description": "If $COVALENTCONFIGDIR is defined in the user environment then the Covalent global configuration file is stored at $COVALENTCONFIGDIR/covalent.conf. Otherwise, the configuration is in ~/.config/covalent/covalent.conf.",
+  "source": "@site/docs/user-documentation/how-to/customization.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/customization",
+  "permalink": "/docs/user-documentation/how-to/customization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

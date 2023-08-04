@@ -1,0 +1,23 @@
+{
+  "unversionedId": "features/executors",
+  "id": "features/executors",
+  "title": "Effortlessly Leverage Heterogeneous Computing with Covalent Executors",
+  "description": "Covalent Executors empower users to leverage the capabilities of heterogeneous computing environments by seamlessly running tasks across various backends such as quantum computers, HPC clusters, GPU arrays, and cloud services. By harnessing the power of Executors, Covalent enables you to optimize your workflows, achieve better performance, scalability, and resource utilization.",
+  "source": "@site/docs/features/executors.md",
+  "sourceDirName": "features",
+  "slug": "/features/executors",
+  "permalink": "/docs/features/executors",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cancel with Confidence: Efficiently Manage Workflows in Covalent",
+    "permalink": "/docs/features/cancellation"
+  },
+  "next": {
+    "title": "Redispatching Workflows",
+    "permalink": "/docs/features/redispatch"
+  }
+}

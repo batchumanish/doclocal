@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/settings",
+  "id": "user-documentation/user-interface/settings",
+  "title": "Settings",
+  "description": "Use the Settings page to view and edit configuration settings for the Covalent server.",
+  "source": "@site/docs/user-documentation/user-interface/settings.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/settings",
+  "permalink": "/docs/user-documentation/user-interface/settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Settings",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Log",
+    "permalink": "/docs/user-documentation/user-interface/server-log"
+  },
+  "next": {
+    "title": "Terminal",
+    "permalink": "/docs/user-documentation/user-interface/terminal"
+  }
+}

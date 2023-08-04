@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/aws-bracket",
+  "id": "user-documentation/api-reference/executors/aws-bracket",
+  "title": "AWS Braket Executor",
+  "description": "Covalent is a Pythonic workflow tool used to execute tasks on advanced computing hardware.",
+  "source": "@site/docs/user-documentation/api-reference/executors/aws-bracket.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/aws-bracket",
+  "permalink": "/docs/user-documentation/api-reference/executors/aws-bracket",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS Braket Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

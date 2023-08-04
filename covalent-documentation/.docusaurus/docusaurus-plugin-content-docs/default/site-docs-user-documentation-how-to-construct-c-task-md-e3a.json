@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/construct-c-task",
+  "id": "user-documentation/how-to/construct-c-task",
+  "title": "Constructing a Task from C Code",
+  "description": "Workflows can incorporate functions written in different languages, for example when a compiled C function is used to optimize performance. This example demonstrates how to construct a Lepton from a compiled C function.",
+  "source": "@site/docs/user-documentation/how-to/construct-c-task.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/construct-c-task",
+  "permalink": "/docs/user-documentation/how-to/construct-c-task",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Constructing a Task from C Code"
+  },
+  "sidebar": "tutorialSidebar"
+}

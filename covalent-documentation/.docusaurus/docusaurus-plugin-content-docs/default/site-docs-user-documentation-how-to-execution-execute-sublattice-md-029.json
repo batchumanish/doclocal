@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/execute-sublattice",
+  "id": "user-documentation/how-to/execution/execute-sublattice",
+  "title": "Executing a Lattice as an Electron (Sublattice)",
+  "description": "You might want to encapsulate a computation that involves more than one electron and deploy it in workflows as a single unit. Wrap a lattice with the @electron decorator to run it as a self-contained unit in another lattice.",
+  "source": "@site/docs/user-documentation/how-to/execution/execute-sublattice.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/execute-sublattice",
+  "permalink": "/docs/user-documentation/how-to/execution/execute-sublattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Executing a Lattice as an Electron (Sublattice)"
+  },
+  "sidebar": "tutorialSidebar"
+}

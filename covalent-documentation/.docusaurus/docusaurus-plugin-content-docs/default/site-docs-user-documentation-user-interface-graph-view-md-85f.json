@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/graph-view",
+  "id": "user-documentation/user-interface/graph-view",
+  "title": "Graph View",
+  "description": "The Graph View screen shows detailed information about a single dispatch.",
+  "source": "@site/docs/user-documentation/user-interface/graph-view.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/graph-view",
+  "permalink": "/docs/user-documentation/user-interface/graph-view",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Graph View",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/user-documentation/user-interface/dashboard"
+  },
+  "next": {
+    "title": "Sublattice Views",
+    "permalink": "/docs/user-documentation/user-interface/sublattice-views"
+  }
+}

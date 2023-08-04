@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/preview-transport-graph",
+  "id": "user-documentation/user-interface/preview-transport-graph",
+  "title": "Preview Transport Graph",
+  "description": "To view the transport graph of the lattice most recently drawn with the lattice.draw() function, click the preview icon on the left edge of the screen. This brings up the Preview Transport Graph screen.",
+  "source": "@site/docs/user-documentation/user-interface/preview-transport-graph.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/preview-transport-graph",
+  "permalink": "/docs/user-documentation/user-interface/preview-transport-graph",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Preview Transport Graph",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sublattice Views",
+    "permalink": "/docs/user-documentation/user-interface/sublattice-views"
+  },
+  "next": {
+    "title": "Server Log",
+    "permalink": "/docs/user-documentation/user-interface/server-log"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/user-interface/workflow-dispatch-list",
+  "id": "user-documentation/user-interface/workflow-dispatch-list",
+  "title": "Workflow Dispatch List",
+  "description": "A filterable, sortable list of all dispatches in the Covalent server database. A typical dispatch list is shown below.",
+  "source": "@site/docs/user-documentation/user-interface/workflow-dispatch-list.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/workflow-dispatch-list",
+  "permalink": "/docs/user-documentation/user-interface/workflow-dispatch-list",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

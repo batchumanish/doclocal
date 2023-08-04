@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/how-to/add-electron-to-lattice",
+  "id": "user-documentation/how-to/add-electron-to-lattice",
+  "title": "Adding Electrons to a Lattice <Goto link=\"https://github.com/AgnostiqHQ/covalent/blob/develop/doc/source/how_to/coding/add_electron_to_lattice.ipynb\" />",
+  "description": "Construct a workflow by creating a function and attaching the Covalent @lattice decorator. Then, within the function, use electrons to do all the computational work.",
+  "source": "@site/docs/user-documentation/how-to/add-electron-to-lattice.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/add-electron-to-lattice",
+  "permalink": "/docs/user-documentation/how-to/add-electron-to-lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

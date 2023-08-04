@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/terminal",
+  "id": "user-documentation/user-interface/terminal",
+  "title": "Terminal",
+  "description": "Use the Terminal page to execute shell commands. Provided as a convenience for installing dependencies, executing scripted workflows, and so on. This is especially convenient if you host Covalent on a server since it eliminates the need for SSH logins.",
+  "source": "@site/docs/user-documentation/user-interface/terminal.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/terminal",
+  "permalink": "/docs/user-documentation/user-interface/terminal",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Terminal",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/user-documentation/user-interface/settings"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

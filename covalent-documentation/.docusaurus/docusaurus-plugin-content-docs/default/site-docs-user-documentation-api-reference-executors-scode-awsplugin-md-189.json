@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/scode-awsplugin",
+  "id": "user-documentation/api-reference/executors/scode-awsplugin",
+  "title": "Source code for AWS_Plugin",
+  "description": "",
+  "source": "@site/docs/user-documentation/api-reference/executors/scode-awsplugin.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/scode-awsplugin",
+  "permalink": "/docs/user-documentation/api-reference/executors/scode-awsplugin",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

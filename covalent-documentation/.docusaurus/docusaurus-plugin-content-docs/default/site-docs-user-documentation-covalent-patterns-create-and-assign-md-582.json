@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/create-and-assign",
+  "id": "user-documentation/covalent-patterns/create-and-assign",
+  "title": "Creating and Assigning an Executor",
+  "description": "If multiple electrons can use the same compute resource, create one executor for the resource and assign it to the electrons rather than creating an executor every time an electron is instantiated.",
+  "source": "@site/docs/user-documentation/covalent-patterns/create-and-assign.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/create-and-assign",
+  "permalink": "/docs/user-documentation/covalent-patterns/create-and-assign",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Creating and Assigning an Executor"
+  },
+  "sidebar": "tutorialSidebar"
+}

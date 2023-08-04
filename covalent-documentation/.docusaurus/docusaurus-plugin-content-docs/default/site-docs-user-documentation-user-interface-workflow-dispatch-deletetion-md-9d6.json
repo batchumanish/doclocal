@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/workflow-dispatch-deletetion",
+  "id": "user-documentation/user-interface/workflow-dispatch-deletetion",
+  "title": "Deleting Dispatches",
+  "description": "Select checkboxes on the left of dispatch lines to delete those dispatches.",
+  "source": "@site/docs/user-documentation/user-interface/workflow-dispatch-deletetion.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/workflow-dispatch-deletetion",
+  "permalink": "/docs/user-documentation/user-interface/workflow-dispatch-deletetion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deleting Dispatches",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

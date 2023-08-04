@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/dispatcher",
+  "id": "user-documentation/api-reference/dispatcher",
+  "title": "Dispatcher",
+  "description": "Dispatching jobs to the server and stopping triggered dispatches",
+  "source": "@site/docs/user-documentation/api-reference/dispatcher.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/dispatcher",
+  "permalink": "/docs/user-documentation/api-reference/dispatcher",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dispatcher",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

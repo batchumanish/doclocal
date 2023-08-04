@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/filter",
+  "id": "user-documentation/user-interface/filter",
+  "title": "Filter by Status",
+  "description": "Click one of (All, Running, Completed, Failed) above the dispatch list to filter the list by status.",
+  "source": "@site/docs/user-documentation/user-interface/filter.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/filter",
+  "permalink": "/docs/user-documentation/user-interface/filter",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Filter by Status",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-electron-execution-status",
+  "id": "user-documentation/how-to/status/query-electron-execution-status",
+  "title": "Querying Task (Electron) Status in a Notebook",
+  "description": "Check the status of individual tasks in a workflow using the Covalent Result object.",
+  "source": "@site/docs/user-documentation/how-to/status/query-electron-execution-status.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-electron-execution-status",
+  "permalink": "/docs/user-documentation/how-to/status/query-electron-execution-status",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Querying Task (Electron) Status in a Notebook"
+  },
+  "sidebar": "tutorialSidebar"
+}

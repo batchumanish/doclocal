@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/covalent-patterns/result-dependent-loops",
+  "id": "user-documentation/covalent-patterns/result-dependent-loops",
+  "title": "Result-Dependent Loops",
+  "description": "To iterate over the result from an electron, put the iteration (loop) logic inside another electron.",
+  "source": "@site/docs/user-documentation/covalent-patterns/result-dependent-loops.md",
+  "sourceDirName": "user-documentation/covalent-patterns",
+  "slug": "/user-documentation/covalent-patterns/result-dependent-loops",
+  "permalink": "/docs/user-documentation/covalent-patterns/result-dependent-loops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Result-Dependent Loops",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

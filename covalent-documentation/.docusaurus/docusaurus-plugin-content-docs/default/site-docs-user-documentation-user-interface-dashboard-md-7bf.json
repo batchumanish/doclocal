@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/user-interface/dashboard",
+  "id": "user-documentation/user-interface/dashboard",
+  "title": "Dashboard",
+  "description": "The Dashboard shows a list of workflows dispatched to the server, with summary of the dispatches at the top. The Dashboard is the default screen in the Covalent GUI.",
+  "source": "@site/docs/user-documentation/user-interface/dashboard.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/dashboard",
+  "permalink": "/docs/user-documentation/user-interface/dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The User Interface",
+    "permalink": "/docs/user-documentation/user-interface/the-ui"
+  },
+  "next": {
+    "title": "Graph View",
+    "permalink": "/docs/user-documentation/user-interface/graph-view"
+  }
+}

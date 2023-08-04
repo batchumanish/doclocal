@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/qiskit",
+  "id": "user-documentation/api-reference/executors/qiskit",
+  "title": "Qiskit Executor",
+  "description": "This quantum executor provides efficient access to IBM Quantum backends by using runtime sessions for submitting jobs. QiskitExecutor uses asyncio for scalable parallelization.",
+  "source": "@site/docs/user-documentation/api-reference/executors/qiskit.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/qiskit",
+  "permalink": "/docs/user-documentation/api-reference/executors/qiskit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Qiskit Executor",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

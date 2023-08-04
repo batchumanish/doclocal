@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/customizing-the-config",
+  "id": "user-documentation/api-reference/executors/customizing-the-config",
+  "title": "Customizing the Configuration",
+  "description": "If $COVALENTCONFIGDIR is defined in the user environment then the Covalent global configuration file is stored at $COVALENTCONFIGDIR/covalent.conf. Otherwise, the configuration is in ~/.config/covalent/covalent.conf.",
+  "source": "@site/docs/user-documentation/api-reference/executors/customizing-the-config.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/customizing-the-config",
+  "permalink": "/docs/user-documentation/api-reference/executors/customizing-the-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Customizing the Configuration",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

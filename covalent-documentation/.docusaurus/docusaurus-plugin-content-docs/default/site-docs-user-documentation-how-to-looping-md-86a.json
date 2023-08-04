@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/looping",
+  "id": "user-documentation/how-to/looping",
+  "title": "Looping",
+  "description": "The design pattern shown below is encouraged (when possible) for deploying multiple experiments using the for loop. This enables the independent experiments to be performed in parallel rather than sequentially.",
+  "source": "@site/docs/user-documentation/how-to/looping.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/looping",
+  "permalink": "/docs/user-documentation/how-to/looping",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Looping"
+  },
+  "sidebar": "tutorialSidebar"
+}

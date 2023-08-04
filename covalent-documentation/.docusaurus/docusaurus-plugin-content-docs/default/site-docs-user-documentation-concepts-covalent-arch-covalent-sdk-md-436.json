@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/concepts/covalent-arch/covalent-sdk",
+  "id": "user-documentation/concepts/covalent-arch/covalent-sdk",
+  "title": "The Covalent SDK",
+  "description": "The Covalent SDK exists to enable compute-intensive workloads, such as ML training and testing, to run as server-managed workflows. To accomplish this, the workload is broken down into tasks that are arranged in a workflow. The tasks and the workflow are Python functions decorated with Covalent’s electron and lattice interfaces, respectively.",
+  "source": "@site/docs/user-documentation/concepts/covalent-arch/covalent-sdk.md",
+  "sourceDirName": "user-documentation/concepts/covalent-arch",
+  "slug": "/user-documentation/concepts/covalent-arch/covalent-sdk",
+  "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Covalent SDK"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent Architecture",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-architecture"
+  },
+  "next": {
+    "title": "Covalent Services",
+    "permalink": "/docs/user-documentation/concepts/covalent-arch/covalent-services"
+  }
+}

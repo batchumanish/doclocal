@@ -1,0 +1,17 @@
+{
+  "unversionedId": "user-documentation/user-interface/pagination",
+  "id": "user-documentation/user-interface/pagination",
+  "title": "Pagination",
+  "description": "Pagination divides the dispatch list into pages with up to 10 records per page.",
+  "source": "@site/docs/user-documentation/user-interface/pagination.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/pagination",
+  "permalink": "/docs/user-documentation/user-interface/pagination",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

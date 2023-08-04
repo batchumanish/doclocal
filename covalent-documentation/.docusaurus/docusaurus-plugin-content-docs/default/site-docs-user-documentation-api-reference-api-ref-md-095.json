@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/api-ref",
+  "id": "user-documentation/api-reference/api-ref",
+  "title": "Covalent API",
+  "description": "The following API documentation describes how to use Covalent.",
+  "source": "@site/docs/user-documentation/api-reference/api-ref.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/api-ref",
+  "permalink": "/docs/user-documentation/api-reference/api-ref",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Covalent API",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

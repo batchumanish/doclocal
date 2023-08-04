@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/add-bash-dependencies-to-electron",
+  "id": "user-documentation/how-to/add-bash-dependencies-to-electron",
+  "title": "Adding Bash Dependencies to an Electron",
+  "description": "Bash dependencies can be passed to an electron as an argument to the electron decorator. The dependencies can take one of two forms:",
+  "source": "@site/docs/user-documentation/how-to/add-bash-dependencies-to-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/add-bash-dependencies-to-electron",
+  "permalink": "/docs/user-documentation/how-to/add-bash-dependencies-to-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Adding Bash Dependencies to an Electron"
+  },
+  "sidebar": "tutorialSidebar"
+}

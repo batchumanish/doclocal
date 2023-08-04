@@ -1,0 +1,25 @@
+{
+  "unversionedId": "user-documentation/server-deployment",
+  "id": "user-documentation/server-deployment",
+  "title": "Server Deployment",
+  "description": "Covalent supports both local and remote installation to suit different use cases. For quick prototyping and testing, running Covalent locally is sufficient.",
+  "source": "@site/docs/user-documentation/server-deployment.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/server-deployment",
+  "permalink": "/docs/user-documentation/server-deployment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Server Deployment"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting guide",
+    "permalink": "/docs/user-documentation/troubleshooting"
+  },
+  "next": {
+    "title": "Self-Managed SaaS Deployment for Covalent Cloud",
+    "permalink": "/docs/Deployments/covalent_cloud"
+  }
+}

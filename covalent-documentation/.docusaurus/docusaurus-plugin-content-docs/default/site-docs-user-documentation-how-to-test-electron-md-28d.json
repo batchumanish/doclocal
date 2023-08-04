@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/test-electron",
+  "id": "user-documentation/how-to/test-electron",
+  "title": "Testing an Electron",
+  "description": "You can execute an electron in a single-task workflow by simply adding a lattice decorator to the function. This technique is useful for testing and debugging individual workflow tasks in a controlled manner.",
+  "source": "@site/docs/user-documentation/how-to/test-electron.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/test-electron",
+  "permalink": "/docs/user-documentation/how-to/test-electron",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Testing an Electron"
+  },
+  "sidebar": "tutorialSidebar"
+}

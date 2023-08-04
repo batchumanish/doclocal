@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/copying-python",
+  "id": "user-documentation/user-interface/copying-python",
+  "title": "Copying Python Objects from the UI",
+  "description": "Some fields in the Graph View are copyable as string-serialized Python objects. These copyable Python objects include the Input and Result fields in the Lattice Sidebar and the Electron Sidebar, and are identified by the message Copy python object when you mouse over the field.",
+  "source": "@site/docs/user-documentation/user-interface/copying-python.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/copying-python",
+  "permalink": "/docs/user-documentation/user-interface/copying-python",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Copying Python Objects from the UI",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

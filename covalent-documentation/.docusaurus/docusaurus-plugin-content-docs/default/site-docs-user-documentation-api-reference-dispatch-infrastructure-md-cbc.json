@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/api-reference/dispatch-infrastructure",
+  "id": "user-documentation/api-reference/dispatch-infrastructure",
+  "title": "Dispatch Infrastructure",
+  "description": "Dispatcher",
+  "source": "@site/docs/user-documentation/api-reference/dispatch-infrastructure.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/dispatch-infrastructure",
+  "permalink": "/docs/user-documentation/api-reference/dispatch-infrastructure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Executors",
+    "permalink": "/docs/user-documentation/api-reference/executors-api"
+  },
+  "next": {
+    "title": "Covalent Server",
+    "permalink": "/docs/user-documentation/api-reference/covalent-server"
+  }
+}

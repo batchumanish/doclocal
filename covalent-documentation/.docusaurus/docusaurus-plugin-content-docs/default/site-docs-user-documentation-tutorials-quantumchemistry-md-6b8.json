@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/quantumchemistry",
+  "id": "user-documentation/tutorials/quantumchemistry",
+  "title": "Dynamic Quantum Chemistry Workflow",
+  "description": "In this tutorial, we discuss how covalent can be used to construct and manage dynamic workflows that are common in quantum-chemical simulations. In this example, given a crystal structure, we seek to do the following:",
+  "source": "@site/docs/user-documentation/tutorials/quantumchemistry.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/quantumchemistry",
+  "permalink": "/docs/user-documentation/tutorials/quantumchemistry",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Dynamic Quantum Chemistry Workflow"
+  },
+  "sidebar": "tutorialSidebar"
+}

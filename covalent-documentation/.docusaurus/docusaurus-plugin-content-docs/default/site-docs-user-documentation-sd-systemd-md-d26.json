@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/sd-systemd",
+  "id": "user-documentation/sd-systemd",
+  "title": "Installing Covalent with Systemd",
+  "description": "We recommend that you not install Covalent directly at the system level as its Python version and package dependencies can conflict with those of the system. Instead, create a Python virtual environment with Covalent installed and manage Covalent with the systemd service. This approach prevents any Python conflicts.",
+  "source": "@site/docs/user-documentation/sd-systemd.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/sd-systemd",
+  "permalink": "/docs/user-documentation/sd-systemd",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Installing Covalent with Systemd",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploying with Docker",
+    "permalink": "/docs/user-documentation/sd-docker"
+  },
+  "next": {
+    "title": "Covalent API",
+    "permalink": "/docs/user-documentation/api-reference/cov-api"
+  }
+}

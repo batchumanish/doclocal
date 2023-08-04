@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/sd-deploying",
+  "id": "user-documentation/sd-deploying",
+  "title": "Deploying on AWS",
+  "description": "Deploy Covalent in an AWS account with any x86-based EC2 instance. Deploying on AWS Cloud enables you to scale your deployments based on compute needs.",
+  "source": "@site/docs/user-documentation/sd-deploying.md",
+  "sourceDirName": "user-documentation",
+  "slug": "/user-documentation/sd-deploying",
+  "permalink": "/docs/user-documentation/sd-deploying",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Deploying on AWS",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Self-Managed SaaS Deployment for Covalent Cloud",
+    "permalink": "/docs/Deployments/covalent_cloud"
+  },
+  "next": {
+    "title": "Deploying with Docker",
+    "permalink": "/docs/user-documentation/sd-docker"
+  }
+}

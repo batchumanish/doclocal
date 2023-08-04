@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/construct-lattice",
+  "id": "user-documentation/how-to/construct-lattice",
+  "title": "Constructing a Workflow (Lattice)",
+  "description": "Lattices are workflows comprised of a sequence of tasks. In your Python code, a lattice is a function with the @lattice decorator.",
+  "source": "@site/docs/user-documentation/how-to/construct-lattice.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/construct-lattice",
+  "permalink": "/docs/user-documentation/how-to/construct-lattice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Constructing a Workflow (Lattice)"
+  },
+  "sidebar": "tutorialSidebar"
+}

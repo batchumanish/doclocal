@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/user-interface/sort",
+  "id": "user-documentation/user-interface/sort",
+  "title": "Sort",
+  "description": "Displays a list view of sublattices in the lattice. Click a row to display a sublattice in the Transport Graph area. The Sublattices tab is only shown if the transport graph contains one or more sublattices.",
+  "source": "@site/docs/user-documentation/user-interface/sort.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/sort",
+  "permalink": "/docs/user-documentation/user-interface/sort",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sort",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

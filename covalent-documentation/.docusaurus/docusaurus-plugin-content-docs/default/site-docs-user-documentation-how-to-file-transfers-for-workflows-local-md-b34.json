@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/file-transfers-for-workflows-local",
+  "id": "user-documentation/how-to/file-transfers-for-workflows-local",
+  "title": "Transferring Local Files During Workflows",
+  "description": "Transfer files locally before or after executing an electron.",
+  "source": "@site/docs/user-documentation/how-to/file-transfers-for-workflows-local.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/file-transfers-for-workflows-local",
+  "permalink": "/docs/user-documentation/how-to/file-transfers-for-workflows-local",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Transferring Local Files During Workflows"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/quantumembedding",
+  "id": "user-documentation/tutorials/quantumembedding",
+  "title": "Training quantum embedding kernels for classification",
+  "description": "In this tutorial we will dive deeper into the the concept of quantum embedding kernels, or quantum kernels. We will train a quantum kernel based on a similarity measure called the kernel-target alignment and see how the training improves the performance of it as a classifier. We will demonstrate how to use Covalent to orchestrate the whole workflow composed of multiple smaller subtasks. Once the workflow is dispatched, we will be able to track the results of each subtask through the Covalent result manager. In the meantime, all the subtasks constructed can be called as normal Python functions, giving users more flexibility in testing and debugging. For more details about the quantum embedding kernels, we refer the reader to this PennyLane demo: Training and evaluating quantum kernels, which this tutorial is based on.",
+  "source": "@site/docs/user-documentation/tutorials/quantumembedding.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/quantumembedding",
+  "permalink": "/docs/user-documentation/tutorials/quantumembedding",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Training quantum embedding kernels for classification"
+  },
+  "sidebar": "tutorialSidebar"
+}

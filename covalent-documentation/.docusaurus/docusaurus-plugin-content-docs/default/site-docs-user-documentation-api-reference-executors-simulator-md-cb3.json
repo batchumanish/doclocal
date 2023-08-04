@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/simulator",
+  "id": "user-documentation/api-reference/executors/simulator",
+  "title": "Simulator",
+  "description": "This quantum executor introduces thread- or process-based parallelism to Pennylane circuits that utilize simulation-based devices (like \"default.qubit\" or \"lightning.qubit\").",
+  "source": "@site/docs/user-documentation/api-reference/executors/simulator.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/simulator",
+  "permalink": "/docs/user-documentation/api-reference/executors/simulator",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulator",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

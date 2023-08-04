@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/tutorials/dnn_comparison",
+  "id": "user-documentation/tutorials/dnn_comparison",
+  "title": "Comparing Deep Learning Models for Sales Forecasting using Covalent",
+  "description": "Summary",
+  "source": "@site/docs/user-documentation/tutorials/dnn_comparison.md",
+  "sourceDirName": "user-documentation/tutorials",
+  "slug": "/user-documentation/tutorials/dnn_comparison",
+  "permalink": "/docs/user-documentation/tutorials/dnn_comparison",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Comparing Deep Learning Models for Sales Forecasting using Covalent"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-documentation/how-to/how-to-guide",
+  "id": "user-documentation/how-to/how-to-guide",
+  "title": "How-to Guide",
+  "description": "This guide is a collection of step-by-step instructions for tasks that are commonly (and in some cases not so commonly) encountered when using Covalent.",
+  "source": "@site/docs/user-documentation/how-to/how-to-guide.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/how-to-guide",
+  "permalink": "/docs/user-documentation/how-to/how-to-guide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/docs/user-documentation/tutorials/"
+  },
+  "next": {
+    "title": "Covalent-Patterns",
+    "permalink": "/docs/user-documentation/covalent-patterns/patterns"
+  }
+}

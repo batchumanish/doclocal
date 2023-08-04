@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/user-interface/the-ui",
+  "id": "user-documentation/user-interface/the-ui",
+  "title": "The User Interface",
+  "description": "This User Interface Reference describes the functionality available in the Covalent GUI, organized by screen.",
+  "source": "@site/docs/user-documentation/user-interface/the-ui.md",
+  "sourceDirName": "user-documentation/user-interface",
+  "slug": "/user-documentation/user-interface/the-ui",
+  "permalink": "/docs/user-documentation/user-interface/the-ui",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The User Interface",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent Server",
+    "permalink": "/docs/user-documentation/api-reference/covalent-server"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/docs/user-documentation/user-interface/dashboard"
+  }
+}

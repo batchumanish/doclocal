@@ -1,0 +1,23 @@
+{
+  "unversionedId": "cloud/cloud_quickstart",
+  "id": "cloud/cloud_quickstart",
+  "title": "Getting Started",
+  "description": "Hello and welcome! This guide will help you dive right in and get your first workflow up and running in no time. Let's go!",
+  "source": "@site/docs/cloud/cloud_quickstart.md",
+  "sourceDirName": "cloud",
+  "slug": "/cloud/cloud_quickstart",
+  "permalink": "/docs/cloud/cloud_quickstart",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Covalent Cloud",
+    "permalink": "/docs/cloud/covalent_cloud_main"
+  },
+  "next": {
+    "title": "How - to",
+    "permalink": "/docs/cloud/cloud_how_to"
+  }
+}

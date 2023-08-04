@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/run-bash-command",
+  "id": "user-documentation/how-to/run-bash-command",
+  "title": "Run a Bash Command",
+  "description": "Run a Bash command that returns information from the OS.",
+  "source": "@site/docs/user-documentation/how-to/run-bash-command.md",
+  "sourceDirName": "user-documentation/how-to",
+  "slug": "/user-documentation/how-to/run-bash-command",
+  "permalink": "/docs/user-documentation/how-to/run-bash-command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Run a Bash Command"
+  },
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/status/query-lattice-execution-time",
+  "id": "user-documentation/how-to/status/query-lattice-execution-time",
+  "title": "Calculating Lattice Execution Time",
+  "description": "Calculate execution time of a workflow (lattice) after it ends by querying the Result object and subtracting the start time from the end time.",
+  "source": "@site/docs/user-documentation/how-to/status/query-lattice-execution-time.md",
+  "sourceDirName": "user-documentation/how-to/status",
+  "slug": "/user-documentation/how-to/status/query-lattice-execution-time",
+  "permalink": "/docs/user-documentation/how-to/status/query-lattice-execution-time",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Calculating Lattice Execution Time"
+  },
+  "sidebar": "tutorialSidebar"
+}

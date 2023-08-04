@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/api-reference/executors/asynchronous-base-executor-class",
+  "id": "user-documentation/api-reference/executors/asynchronous-base-executor-class",
+  "title": "Asynchronous Base Executor Class",
+  "description": "class covalent.executor.base.AsyncBaseExecutor(args, *kwargs)[source]",
+  "source": "@site/docs/user-documentation/api-reference/executors/asynchronous-base-executor-class.md",
+  "sourceDirName": "user-documentation/api-reference/executors",
+  "slug": "/user-documentation/api-reference/executors/asynchronous-base-executor-class",
+  "permalink": "/docs/user-documentation/api-reference/executors/asynchronous-base-executor-class",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Asynchronous Base Executor Class",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}

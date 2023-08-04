@@ -1,0 +1,25 @@
+{
+  "unversionedId": "features/redispatch",
+  "id": "features/redispatch",
+  "title": "Redispatching Workflows",
+  "description": "The Redispatch feature allows users to re-run previously dispatched workflows with new input parameters and task definitions using only the dispatch ID, i.e. without access to the initial workflow definition. Furthermore, users have the option of skipping execution of previously computed tasks with the caveat that this should not be used when stochasticity or randomness in the workflow will affect the outcome.",
+  "source": "@site/docs/features/redispatch.md",
+  "sourceDirName": "features",
+  "slug": "/features/redispatch",
+  "permalink": "/docs/features/redispatch",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Redispatching Workflows"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Effortlessly Leverage Heterogeneous Computing with Covalent Executors",
+    "permalink": "/docs/features/executors"
+  },
+  "next": {
+    "title": "Covalent Cloud",
+    "permalink": "/docs/cloud/covalent_cloud_main"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "get-started/install",
+  "id": "get-started/install",
+  "title": "Getting Started",
+  "description": "Covalent is developed using Python 3.8 on Linux and macOS. See the Compatibility page for further details on Python versions and operating systems which support Covalent. To set up Python on your computer, refer to the official Python for Beginners page.",
+  "source": "@site/docs/get-started/install.md",
+  "sourceDirName": "get-started",
+  "slug": "/get-started/install",
+  "permalink": "/docs/get-started/install",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Getting Started"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/get-started/quick-start"
+  },
+  "next": {
+    "title": "First Experiment",
+    "permalink": "/docs/get-started/first-experiment"
+  }
+}

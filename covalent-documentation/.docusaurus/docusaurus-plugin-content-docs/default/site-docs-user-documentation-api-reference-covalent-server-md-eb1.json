@@ -1,0 +1,26 @@
+{
+  "unversionedId": "user-documentation/api-reference/covalent-server",
+  "id": "user-documentation/api-reference/covalent-server",
+  "title": "Covalent Server",
+  "description": "Covalent CLI Tool",
+  "source": "@site/docs/user-documentation/api-reference/covalent-server.md",
+  "sourceDirName": "user-documentation/api-reference",
+  "slug": "/user-documentation/api-reference/covalent-server",
+  "permalink": "/docs/user-documentation/api-reference/covalent-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_min_heading_level": 2,
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dispatch Infrastructure",
+    "permalink": "/docs/user-documentation/api-reference/dispatch-infrastructure"
+  },
+  "next": {
+    "title": "The User Interface",
+    "permalink": "/docs/user-documentation/user-interface/the-ui"
+  }
+}

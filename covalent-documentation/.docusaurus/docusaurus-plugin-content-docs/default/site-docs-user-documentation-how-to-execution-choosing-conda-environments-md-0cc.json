@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-documentation/how-to/execution/choosing-conda-environments",
+  "id": "user-documentation/how-to/execution/choosing-conda-environments",
+  "title": "Working in a Conda Environment",
+  "description": "You can choose a Conda environment when you choose an executor to be used in an electron. This can be useful if you have sandboxed environments for different task types, but need to use the tasks in a workflow, or if the workflow itself uses a different environment.",
+  "source": "@site/docs/user-documentation/how-to/execution/choosing-conda-environments.md",
+  "sourceDirName": "user-documentation/how-to/execution",
+  "slug": "/user-documentation/how-to/execution/choosing-conda-environments",
+  "permalink": "/docs/user-documentation/how-to/execution/choosing-conda-environments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "tutorialSidebar",
+    "title": "Working in a Conda Environment"
+  },
+  "sidebar": "tutorialSidebar"
+}

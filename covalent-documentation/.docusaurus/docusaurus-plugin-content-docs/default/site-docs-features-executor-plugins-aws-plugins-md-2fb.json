@@ -1,0 +1,18 @@
+{
+  "unversionedId": "features/executor-plugins/aws-plugins",
+  "id": "features/executor-plugins/aws-plugins",
+  "title": "AWS Plugins",
+  "description": "Covalent is a python based workflow orchestration tool used to execute HPC and quantum tasks in heterogenous environments.",
+  "source": "@site/docs/features/executor-plugins/aws-plugins.md",
+  "sourceDirName": "features/executor-plugins",
+  "slug": "/features/executor-plugins/aws-plugins",
+  "permalink": "/docs/features/executor-plugins/aws-plugins",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AWS Plugins",
+    "displayed_sidebar": "tutorialSidebar"
+  },
+  "sidebar": "tutorialSidebar"
+}
