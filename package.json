@@ -27,7 +27,7 @@
     "aws-amplify": "^5.0.16",
     "clsx": "^1.2.1",
     "copy-to-clipboard": "^3.3.1",
-    "docusaurus2-dotenv": "^1.4.0",
+    "docusaurus-plugin-dotenv": "^1.0.1",
     "firebase": "^9.20.0",
     "formik": "^2.2.9",
     "hast-util-is-element": "^1.1.0",

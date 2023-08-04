@@ -138,14 +138,18 @@ const config = {
         respectPrefersColorScheme: false,
       },
     }),
-  plugins: [
+    plugins: 
     [
-      "docusaurus2-dotenv",
-      {
-        systemvars: true,
-      },
+        // Other plugins
+        [
+          'docusaurus-plugin-dotenv',
+          {
+              path: "./.env", 
+              systemvars: true, 
+          }
+        ]
     ],
-  ],
+  
 };
 
 module.exports = config;
