@@ -61,6 +61,9 @@ export default function Root({ children }) {
   useEffect(() => {
     setPath(location?.pathname);
     checktokenexists();
+
+    const apiEndpoint = process.env.REACT_APP_API_TRIAL;
+    console.log("gg", apiEndpoint); // Will print the API endpoint URL
   });
 
   return (
@@ -68,9 +71,7 @@ export default function Root({ children }) {
       {overallcheck ? (
         <div>{children}</div>
       ) : (
-        <>
-          {history.replace("/docs/login")}
-        </>
+        <>{history.replace("/docs/login")}</>
       )}
     </div>
   );
