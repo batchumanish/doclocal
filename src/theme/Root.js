@@ -11,7 +11,7 @@ const configData = {
   oauth: {
     domain: "auth.covalent.xyz",
     scope: ["aws.cognito.signin.user.admin", "email", "openid", "profile"],
-    redirectSignIn: "https://docs.covalent.xyz/docs/cloud/covalent_cloud_main/",
+    redirectSignIn: process.env.REACT_APP_API_SIGNIN,
     redirectSignOut: "https://docs.covalent.xyz/docs/",
     responseType: "code",
   },
@@ -62,8 +62,8 @@ export default function Root({ children }) {
     setPath(location?.pathname);
     checktokenexists();
 
-    const apiEndpoint = process.env.REACT_APP_API_TRIAL;
-    console.log("gg", apiEndpoint); // Will print the API endpoint URL
+    //const apiEndpoint = process.env.REACT_APP_API_SIGNIN;
+    console.log(process.env.REACT_APP_API_SIGNIN); 
   });
 
   return (
