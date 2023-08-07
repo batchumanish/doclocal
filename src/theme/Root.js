@@ -4,15 +4,15 @@ import "../css/login.css";
 import { useHistory } from "react-router-dom";
 
 const configData = {
-  aws_project_region: "us-east-1",
-  aws_cognito_region: "us-east-1",
-  aws_user_pools_id: "us-east-1_frRIwv4ak",
+  aws_project_region: process.env.REACT_APP_POOL,
+  aws_cognito_region: process.env.REACT_APP_POOL,
+  aws_user_pools_id: process.env.REACT_APP_POOL_ID,
   aws_user_pools_web_client_id: "4fmchutfqmcjn78gj760oubgln",
   oauth: {
-    domain: "auth.covalent.xyz",
+    domain: process.env.REACT_APP_DOMAIN,
     scope: ["aws.cognito.signin.user.admin", "email", "openid", "profile"],
     redirectSignIn: process.env.REACT_APP_API_SIGNIN,
-    redirectSignOut: "https://docs.covalent.xyz/docs/",
+    redirectSignOut: process.env.REACT_APP_API_SIGNOUT,
     responseType: "code",
   },
   federationTarget: "COGNITO_USER_POOLS",
@@ -28,7 +28,7 @@ const configData = {
   aws_cognito_verification_mechanisms: ["EMAIL"],
 };
 
-configData.oauth.domain = "auth.covalent.xyz";
+configData.oauth.domain = process.env.REACT_APP_DOMAIN;
 Amplify.configure(configData);
 Auth.configure(configData);
 
