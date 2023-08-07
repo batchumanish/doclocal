@@ -63,7 +63,7 @@ export default function Root({ children }) {
     checktokenexists();
 
     //const apiEndpoint = process.env.REACT_APP_API_SIGNIN;
-    console.log(process.env.REACT_APP_API_SIGNIN); 
+    console.log(process.env.REACT_APP_API_SIGNIN+"ok"); 
   });
 
   return (
